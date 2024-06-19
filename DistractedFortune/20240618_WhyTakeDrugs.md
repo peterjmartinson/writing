@@ -4,7 +4,11 @@ My job was to keep an eye on my younger boy, who tends to be more fearless than 
 
 But the birthday boy's dad is an old friend, and we started talking about real estate.  You see, I work for a hedge fund that specializes in distressed properties, so that's usually where I start when someone asks me "How's work?"  My friend apparently had done his homework, and briefed me on how a lot of rental homes were getting bought up by hedge funds, like Blackrock, and then rented out at rather high rates that tend to screw the little guy.
 
-And I lost view of my boy.  Trying to be calm, I kept the conversation going while I scanned the area for the little rascal.  After a while of this futile act, I broke conversation, and hunted throughout the park for him.  I couldn't find him anywhere, and finally my wife called my cell phone.
+And I lost view of my boy.  Trying to be calm, I kept the conversation going while I scanned the area for the little rascal.  After a while of this futile act, I broke conversation, and hunted throughout the park for him.  I couldn't find him anywhere.
+
+I started to panic.  Maybe he was at the bungee trampoline!  Nope.  Maybe he was at the obstacle course!  Nope.  I wasn't really afraid that the boy had been abducted (that's actually a very low probability situation), but about my wife finding that I'd lost him again.  A wife needs to be able to trust her husband will keep the family safe.
+
+Then she called me.
 
 "Peter, are you watching number two?"
 
@@ -29,6 +33,35 @@ That's when I started losing my boy, and generally feeling like I was always abo
 ## Take Your Meds
 
 I'm not an expert on ADHD, so talk to your psychiatrist before taking my advice.  However, medication has really changed my life.  And, I did the experiment to prove it.
+
+There are several arguments against taking medications for mental illnesses.
+
+
+1. Does not address the underlying problem
+
+ADHD is a disease that inhibits executive function in the afflicted.  This results in various effects like losing your keys, forgetting appointments, low achievement, and poor quality of life.  Aren't these really problems that everyone needs to learn how to deal with, and most already have dealt with?
+
+Yes and no.  ADHD is real, and it can be crippling to the sufferer.  Taking medication helps you overcome the barrier to focus, and finally get things done.  It's not a miracle cure - you still need to learn various skills like keeping a calendar and mindfulness.  But it does give you the space you need to actually learn and practice those skills
+
+After a month or two of taking my medications, I for real cried tears of joy when I realized I could now plan to do something, and then have the confidence that I might actually do it in the future.  I could finally set goals I had the hope of meeting.
+
+2. Dependence (addiction)
+
+Don't you get addicted to Adderall and start taking more and more to get that feel-good effect?
+
+Yes, Adderall and other ADHD medications are amphetamine based drugs.  And, yes, when abused, they can form dependency.  However, remember that ADHD is not an illness that can be cured.  You're going to be on the drug for the rest of your life anyway.
+
+Also, if you get prescribed a non-amphetamine drug like Strattera, you're probably not going to get addicted.  For the following reason.
+
+3. The side effects
+
+All drugs have side effects.  I found no real side effects with Wellbutrin, but did with Strattera.  I started taking it in the morning with breakfast.  Soon after dropping a pill, I would feel an incredible urge to go take a nap.  Also, I found it to create a very bad acid reflux every once in awhile.
+
+To mitigate these effects, I now take my pills before bed, and eat a little snack at the same time.  Sometimes I still get reflux, but I also go right to sleep, which is good for me anyhow!
+
+Talk to your psychiatrist about possible side effects.  There are a variety of medications available to us now.  But, remember that the effect of CONTROLLABLE FOCUS tends to far outweigh other physical side effects, especially if you can figure out how to mitigate them
+
+4. It dulls your creativity
 
 There are some who think that taking drugs that mess with your mind is a bad idea.  I used to associate with an organization that taught ADHD was a made up illness, made up to provide an excuse to administer creativity-killing drugs to abnormally bright kids.
 
