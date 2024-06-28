@@ -5,19 +5,25 @@ Once upon a time, I worked with an organization that had to raise funds.  The tw
 
 But, oh, those calls.  I could sit and stare at that phone for hours and not make a single call.  I would play procrastination games like organizing my contact sheets in the perfect order in which to make the calls.  Or, spend hours scripting out the perfect briefing.  Or, go take a two hour dump while reading a book.
 
-The problem with calls is that it's real time.  Well, that's not the only problem.  When the person at the other end of that line says something, you got to respond in a way that drives toward your goal, and doesn't cause that other person to just hang up.
+The problem with calls is that it's real time.  When the person at the other end of that line says something, you got to respond in a way that drives toward your goal, and doesn't cause that other person to just hang up.
+
+Well, that's not the only problem.  The bigger problem is, how do you come up with what to say, that doesn't sound like some sales pitch?
+
+In this post, I'm going to describe to you my current get rich scheme - which involves a ton of cold calls - and some practical advice on how to go about carrying out that scheme.  You see, the goal here is twofold: 1. By telling you my plan, I will burden myself with the social pressure to carry it out, and 2. Maybe you will find some of these ideas useful, and use them to go make yourself rich.
 
 ## But Solutions Need Problems!
 
-My latest get rich quick scheme involves making a ton of cold calls.
+I don't right now have a product, or any idea of a clear market demand.  So, where do I find a pool of customers, and a product that solves a problem for those customers?
 
-In order to come up with a product or service that solves a problem, it's a good idea to know what the problem is, and whether people would pay to alleviate the problem.  The problems I'm familiar with, though - namely my own - already have abundant solutions.  I just don't have the money to buy the solutions!  So, I need to talk to other people to find what real problems exist for them.  Unfortunately, I don't have a very big audience of potential customers.
+Like you, I listen to a bunch of podcasts.  Recently, I've been spending some time with two podcasts on side hustles:  [Side Hustle School](LINK) and [Side Hustle Nation](Link).  One podcast on Side Hustle Nation caught my eye.  It's about this Australian guy who makes cold calls to company bigwigs, and sells them software that he doesn't make.  Basically, he hunts down companies in markets experiencing growth, and calls decision makers in those companies.  When he gets one on the horn, he sweet talks them into divulging a few areas of friction currently facing the company.  When he finds one that could be solved with software, he hires out a few freelancers to build the software, and boom, he's sold a product!
 
-Hence, my scheme.
+It's probably more difficult than that.  But the main idea is actionable - to find a real problem, talk to people to find their problems.
 
-It works like this.  Pick an industry with some recent growth.  Hunt down a few companies in that industry, and a few decision makers in those companies.  Email those people to request a five minute "informational interview", to get their opinions on where are the biggest areas of growth and challenge in the industry.  Then, call them and sniff out where their current problems are.  Finally, come up with solutions for those problems in return for cash payment.
+It reminded me of another podcast I listened to long ago, when I was focused on getting a new job.  This one, called [Free Code Camp](LINK), the guy explained how he got a job that wasn't advertised, and for which he had no experience.  Like the Aussie above, he would hunt down a company he wanted to work for, and a position he wanted there.  Then he would hunt for someone who might end up being his boss or boss's boss, and email them asking for a five minute "informational interview".  When he finally got a call, he would hunt down what the person saw as the biggest challenge facing his team.  After the call, the guy would spend the next week doing research and preparing a solution for that problem.  He'd put the solution together as a PowerPoint presentation, and send it to the boss man.  Boom, who doesn't want to hire someone who already solve the biggest challenge?
 
-Simple!
+One industry I found that is growing in the USA, is mining and resource development.  It turns out, I have a master's in Geology, which means I don't know anything about mining or resource development, but I *think* I do!  So, my get rich scheme involves finding companies taking part in the boom, finding the decision makers, and hustling them to cough up their problems, so I can sell them the solutions.
+
+It couldn't fail!
 
 Now say I get some dude on the horn willing to talk to a random for 60 seconds.  What do I say?  For the record, I'm the exact opposite of a hot salesman who can talk to anyone about anything.  My most comfortable state of being is holed up in my house talking to nobody.
 
