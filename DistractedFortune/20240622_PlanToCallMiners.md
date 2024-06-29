@@ -31,9 +31,9 @@ But, progress is not made without taking personal risks.
 
 ## The Questions
 
-Well, I started reading a book a few months ago called "The Science of Selling", by David Hoffeld.  The author criticizes modern selling tactics as being born out of instinct instead of teachable skill.  In response, he studied every research paper known to Man about the psychology and behavior related to how people decide to buy.  It's a good book, and worth reading.
+I started reading a book a few months ago called "The Science of Selling", by David Hoffeld.  The author criticizes modern selling tactics as being born out of instinct instead of teachable skill.  In response, he studied every research paper known to Man about the psychology and behavior of how people decide to buy.  It's a good book, and worth reading.
 
-One part stood out to me, on how to ask powerful questions.  Hoffeld points out that we're typically taught to ask open ended questions, or questions that can't be answered with a simple Yes or No.  Instead, he describes research that shows we tend to reveal information layer by layer, like an onion.  So, he boiled it down to three successive types of question to ask while hunting for primary buying motivations.
+The section pertinent to my challenge is on how to ask powerful questions.  Hoffeld points out that we are typically taught to ask _open ended questions_, or questions that can't be answered with a simple Yes or No.  He then describes research that shows we typically don't communicate in a logical progression, but rather tend to reveal information layer by layer, like an onion.  So, he boiled it down to three successive layers of question to ask while hunting for primary buying motivations.
 
 1. Open up the topic to reveal thoughts, facts, behaviors, situations
 This is the layer that hunts for areas of friction or pressure.  These are the typical open ended questions we're taught to ask.  Something along the lines of "In your opinion, what are the challenges faced by a growing company like yours?"
@@ -42,16 +42,17 @@ This is the layer that hunts for areas of friction or pressure.  These are the t
 Here, you get the person to think through their opinions about what was revealed by the first layer of questioning.  For example, "Why do you think it's so hard to find qualified people for that specific role?"
 
 3. Desire for gain, Fear of loss
-Finally, get the person to express their desires or fears related to that problem.  For example, "How much would you say it costs your company in terms of man-hours for each interview that leads to a non-hire?"
+Finally, get the person to express their desires or fears related to that problem.  For example, "How much would you say it costs your company in terms of man-hours for each interview that leads to a non-hire?"  Hoffeld calls these fears and desires the _primary buying motivators_, because they are the main reason the customer would be moved to trade money for solution.
 
-I figure, with at least two follow up types of question, I'll be able to get at least some data points
+This third layer of questioning is also where you can gauge the actual dollar value of a solution.  <Aussie> from the [Side Hustle Nation](LINK) episode suggests that, once you know how much the client could save or make with a solution, a good value to charge for that solution is 10%.  In other words, if your solution will save him $50,000, then your product is worth $5000.  Ballpark.
 
-## Taking the First Step
+With these question guidelines, we have a map of how to get to the information we need from prospective clients.  You and I are both creative enough to come up with a few potential solutions to whatever problem is revealed.  
 
-Needless to say, to date, I haven't made any calls.  My goal in the next week or two is to get to just one phone call.  My hangups are my fears of rejection, my lack of time, and my internal critic that says "It's never going to amount to anything."
+## Taking the First Steps
 
-I'll follow up on this post in a few weeks, and let you know how it's going.  In the meantime, please sign up to get regular updates!
+With all these great ideas, I still haven't made any calls.  My goal in the next week or two is to get to just one phone call.  My bugbears are my fears of rejection, my lack of time, and my internal critic that says "It's never going to amount to anything."
 
+But now that I've told you my plan, you will hold me to it, right?  You might even want to take those first steps yourself, and get on the path to great fortune.  I'll follow up in a few weeks, and let you know how it's going.
 
-
+_If you enjoyed this post, please leave your email to get regular updates in your mailbox, and share the link with someone you know!  Thanks for reading._
 
