@@ -7,6 +7,8 @@ But, oh, those calls.  I could sit and stare at that phone for hours and not mak
 
 The problem with calls is that it's real time.  Well, that's not the only problem.  When the person at the other end of that line says something, you got to respond in a way that drives toward your goal, and doesn't cause that other person to just hang up.
 
+[[[ Tell Joe Reader what the post is about here ]]]
+
 ## But Solutions Need Problems!
 
 My latest get rich quick scheme involves making a ton of cold calls.
