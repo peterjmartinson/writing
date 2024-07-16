@@ -66,31 +66,3 @@ That said, this is the kind of research that expands our ideas of what is possib
 
 As usual, please leave your thoughts in the comments below, and leave your email to subscribe to regular updates.
 
-
-
-After some numerical modeling ("the most advanced modeling software ever"), the authors show that the gas pressure of the clouds would have compressed the Sun's magnetic field ("Heliosphere") down to a radius smaller than Mercury's orbit.
-
-
-
-There might be some protection offered by our own magnetic field, and the authors do try to judge that effect.((
-
-
-One effect the authors point to, as possible evidence of this onset of solar nakedness, is the presence of supernova generated 60-Fe and ???-Pb in ocean sediment and biological fossils.
-
-
-
-
-
-Some readers may note that Loeb has been in the news a lot since about 2018.  Back then, he suggested the first observed interstellar comet, O'muamua, could have been an abandoned stellar sail built by extraterrestrials.
-
-
-
-
-
-<note>
-
-A possible direct exposure of the Earth to the cold dense interstellar medium 2-3 Myr ago
-https://doi.org/10.1038/s41550-024-02279-8
-Merav Opher
-Abraham Loeb
-J. E. G. Peek
