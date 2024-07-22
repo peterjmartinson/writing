@@ -13,3 +13,7 @@ So, finding and characterizing these clouds requires a bit of serendipity.
 
 That said, the authors look at two groups of these cold dense clouds, the [[AA]] and the [[BB]].  
 
+Some of the discussion about the deposition of iron and lead isotopes was pretty convoluted in my view.  I also thought the probability of our having passed through a cloud ("greater than 1.3%") was pretty slim.  It's funny that the authors appear to detract from their own conclusion at the end of the paper.
+
+That said, this is the kind of research that expands our ideas of what is possible in our universe.  We need _more_, not less of these kinds of theoretical studies.  Please read it and tell the authors you appreciate them!
+

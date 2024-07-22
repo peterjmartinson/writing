@@ -57,11 +57,13 @@ There's some discussion here about where the supernovae could have happened (10 
 
 ## Discussion
 
-The discussion quickly gets quite far reaching quite quickly, but mostly centers around the kind of climate change Earth would have experienced while getting its ozone layer torn off by the Local Lynx.  One implication is that the evolution of human cognition may have been driven by the need to adapt to such rapid climate change around 2-3 million years ago.
+The discussion quickly gets quite far reaching, musing about the implications of the kind of climate change Earth would have experienced while getting its ozone layer torn off by the Local Lynx clouds.  One possibility they mention is that the evolution of human cognition may have been driven by the need to adapt to such rapid climate change around 2-3 million years ago.  The authors then make a call to atmospheric modellers (probably including experts in climate modeling), to revisit the investigation of what would happen to our ozone and atmosphere in general, if Earth were exposed to the dense interstellar medium.
 
-Some of the discussion about the deposition of iron and lead isotopes was pretty convoluted in my view.  I also thought the probability of our having passed through a cloud ("greater than 1.3%") was pretty slim.  It's funny that the authors appear to detract from their own conclusion at the end of the paper.
+It's a neat paper which, if nothing else, expands the discussion about our planet's journey through this corner of the galaxy.  It's so easy to think small these days, stuck inside whatever your preferred feed be, faced with boring movies, expensive food, wars all over the place, and awfully dumb ancient political leaders.  I find it helps to visualize the Earth as a true spaceship, transporting us to different parts of the universe, so we can study the Creator's cathedral from different viewpoints.  There's just so much to discover!
 
-That said, this is the kind of research that expands our ideas of what is possible in our universe.  We need _more_, not less of these kinds of theoretical studies.  Please read it and tell the authors you appreciate them!
+We are living inside a Local Bubble of uncharacteristically rarefied gas, possibly carved out by supernova events a few million years ago.  But we haven't always been here.  As our planet passes through these changing environments, it is deeply affected by them.  We are not just on some independent ball floating around within a Newtonian/Laplacian vacuum.  Instead, our planet inhabits a Leibnizian universe, everywhere dense with cosmic action.
+
+It should be noted that one of the co-authors of this paper, Abraham Loeb, took special interest in the anomalous, _interstellar_ object 'Oumuamua back in 2018.  He and collaborators suggested the strange behavior of this long, cylindrical object, which appeared to _accelerate_ away from the Sun, could have been technology designed and built by intelligent beings.  Since then, he has made other viral, and often strongly criticized, claims of finding other material on Earth and in space that also may have been built by beings other than Man.
 
 As usual, please leave your thoughts in the comments below, and leave your email to subscribe to regular updates.
 
