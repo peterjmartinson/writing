@@ -94,14 +94,37 @@ The reason this works is because, when your mind starts drifting, you can remind
 
 1. Morning pages
 
-For this, you need three pieces of paper, and something to write with.  As soon as you get up in the morning, start writing down whatever is in your head.  Don't stop until you've filled those three pages.  And, it doesn't matter what you write, even if it's "I hate this, I hate this, I hate this".
+For this, you need three pieces of paper, and something to write with.  As soon as you get up in the morning, start writing down whatever is in your head.  Don't stop until you've filled those three pages.  And, it doesn't matter what you write, even if it's "I hate this, I hate this, I hate this".  I write down my dreams if I remember them, or write down ideas for new blog posts, or hash out whatever has me worried.
 
+The trick here is that you MUST write on a physical piece of paper.  The goal is to slow your mind, not get ideas down as fast as you can.  I'll write more about this in a future post, but for now suffice it to sets the pace of the day, with a half hour of unbroken attention.
 
+1. Study a piece of classical music
 
-1. Study a piece of music
+Pick something by one of the traditionally classical composers - Bach, Mozart, Beethoven, Brahms.  You can sit and just listen to it, but I find it's more effective if you print out the score, and follow the music while listening.  You can get pretty much [any score from IMSLP](LINK).
+
+This is similar to working on poems, in that your eyes might be watering at the thought of spending a half hour listening to such boring stuff.  But, pop music is far too easy to just have in the background.  With one of the great compositions, things you hear later in the piece relate to things you heard earlier.  If you can hold your attention on the music, you'll start hearing these recapitulations.
+
+For example, the clearest, if not longest, example of this is Beethoven's 9th symphony.  The fourth movement quotes from each of the first three right at the beginning, and then develops a whole new theme out of them that can't be completed without bringing in a chorus of human voices singing about the Creator's incredible universe.
+
+If you set yourself just five minutes to concentrate on a piece of music, you'll find yourself getting sucked in.  This in itself trains your concentration.
+
 1. Schedule the time
+
+I find that putting a half hour block into my Google calendar helps to give myself the space to concentrate.  This is similar to the Pomodoro technique above.  If you know you have a block of time carved out just for one task, it's easier to bring your attention back to that task.  You can note down things that come up during that block, so you can handle them after the time.  Treat the block as your sacred time of attention training.
+
 1. Dumb down your phone, or get a dumb phone
 
+This is probably the most drastic measure you think you can take.  That smartphone in your pocket is like having a little fucking gremlin on your shoulder, hollering in your ear every few minutes.  Get rid of it!
+
+The best option here is to replace it with a so-called [dumb phone](LINK to recent articles).  These are the candy bar or flip phones of yore that can't do much except call and send texts.
+
+In the United States, our selection is a little limited because the FCC wiped out all the 2G and 3G cellular technology.  You cant just buy a well cared for Motorola Razr off eBay and throw a SIM card in it; you'll need to buy one of the newer phones with 4G or 5G antennas.  In other countries, you might be able to get away with one of the classics, though.
+
+"But what about my maps app, or WhatsApp, or [some other app I can't live without]?"  Modern dumbphones usually run a modified version of Android, and can run a few of these apps on which we've become dependent.  [Nokia](LINK) makes a few of these newer 4G dumb phones, as well as a [few](LINK) [other](LINK) [companies](LINK).  If you go on the [r/dumbphone](LINK) subreddit, you can get some suggestions, or try out the [dumbphone finder](LINK) built by the moderator, [Jose Briones](LINK).
+
+Maybe you just can't go whole hog yet.  In that case, you can start by stripping the most distracting apps off your smartphone.  Get rid of Instagram, X, and whatever else pings you incessantly.  Turn off all the notifications except for calls and texts.  There are even apps you can install that will [dumb down your phone for you](LINK).
+
+Conclusion
 
 
 
