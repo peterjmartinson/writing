@@ -1,11 +1,19 @@
 How did the Earth get out?
 ==========================
 
+[FEATURE IMAGE: Opher_02.PNG]
+[CAPTION: Cartoon of the LRCC and its three-dimensional velocity (Opher et al. 2024)]
+[ALT: This is a 3D view of the LRCC, the gray blobs at the top.  The red blobs to the right are the LxCC, and the dashed line represents a possible path the sun has taken.  The gray dashed blobs are where the Sun had a 68% chance of passing through.  The authors note that those blobs only take up 1.3% of the entire night sky.]
+
 A new paper has come out that concerns Earth's passage through the Local Bubble, [A possible direct exposure of the Earth to the cold dense interstellar medium 2–3 Myr ago](https://www.nature.com/articles/s41550-024-02279-8).  Most recently I've reviewed evidence of supernova events that may have occurred 2-10 Myr near the Earth, as found in both [ocean sediments](https://stonetelescope.wordpress.com/2016/11/12/echoes-of-ancient-cataclysm-heard-through-ocean-rock/) and in [fossil magnetite](https://stonetelescope.wordpress.com/2016/11/20/echoes-of-ancient-cataclysm-heard-through-fossils/) made by ancient bacteria.  One intriguing question is whether these events had anything to do with the transition from Pliocene to Pleistocene eras of Earth's history, which also happened around 2.6 Myr ago.
 
 This new paper investigates the theory that Earth passed through dense interstellar clouds around 2-3 million years ago, and how that would have affected both the Sun's heliosphere and the Earth's environment.  The paper is called _A possible direct exposure of the Earth to the cold dense interstellar medium 2-3 Myr ago_, and it was composed by Merav Opher, Abraham Loeb, and J. E. G. Peek.
 
 I'll give a short summary of the theory they present, a description of some of their methods, and then a discussion of the significance of the paper.  As usual, the abstract is down below.
+
+[IMAGE: Opher_01.png]
+[CAPTION: Zoom-in of the LxCCs as seen in 21 cm data from the GALFA-HI survey (Opher et al. 2024)]
+[ALT: This image shows the speed of neutral hydrogen atoms (21 cm spectral line).  Red is $8 km s^{-1}$, green $8.7 km s^{-1}$, and blue $9.5 km s^{-1}$.  The cold, dense clouds stand out in red-green on the left, and blue on the right.  The view is roughly in between the constellations Gemini and Lynx]
 
 ## Main Idea
 
@@ -31,11 +39,11 @@ After that, they reviewed some other [recent](https://doi.org/10.1038%2Fnature17
 
 Opher et al. identify one major collection of cold, dense clouds called the Local Ribbon of Cold Clouds (LRCC), and within this complex, the largest components called the Local Leo Cold Cloud (LLCC) and the Local Lynx of Cold Clouds (LxCC).  Why treat the word "Lynx" as a type of thing instead of the usual proper noun is left as a mystery for the reader to solve.
 
-What is not left to conjecture, is that LxCC is more massive than LLCC, and makes up more than half the mass of the whole LRCC.  Opher et al. model the motion of the whole LRCC as a solid, non-rotating object traveling at 14.1 km/s roughly towards the constellation Auriga.  [density and temperature of the cloud]
+What is not left to conjecture, is that LxCC is more massive than LLCC, and makes up more than half the mass of the whole LRCC.  Opher et al. model the motion of the whole LRCC as a solid, non-rotating object traveling at 14.1 km/s roughly towards the constellation Auriga.
 
-Somehow (it's not that clear), the authors calculate that due to this velocity, and due to estimated sizes of the LxCC, there is at least a 1.3% chance the solar system  passed through this cloud.
+The authors indicate that the LxCC clouds cover about 1.3% of the night sky, which means we had at least a 1.3% chance of blitzing through it in the past, assuming we were traveling in some random direction.  The authors also suggest, due to some Monte Carlo models, that the clouds may have been somewhat larger 2-3 Mya, and that we really don't know how these clouds change over time.  So, the actual coverage may have been much higher than a 1.3%.
 
-Seems like a low probability.  However, the authors also suggest, due to some Monte Carlo models, that the clouds may have been somewhat larger 2-3 Mya, and that we really don't know how these clouds change over time.  So, the actual probability may have been much higher than a 1.3% chance.
+With all those considerations, the authors show that the Sun's past velocity cone (where it probably came from, given current velocity) has the LxCC clouds dead center, which means we probably did fly through it in the past.
 
 ### How would the heliosphere react?
 
@@ -44,6 +52,18 @@ Opher et al. use a numerical model to study the effects on our solar environment
 Their model shows that the Sun's heliosphere becomes dramatically compressed in the direction of motion, and dramatically elongated in the opposite direction - like if you stick your finger in the water while traveling on a boat.  The heliosphere on the compressed side, which is bounded by the _termination shock_, is smashed down to around 1/10 the mean distance between Sun and Earth (Astronomical Units, AU).  On the trailing side, the heliosphere was stretched out to several AU.
 
 At the leading side of the heliosphere, neutral atoms (not affected by magnetic fields) got clumped together in densities exceeding $10,000 cm^{-3}$ and heated to more than 10,000K.
+
+[IMAGE: all four of the Opher_06.png images]
+[CAPTIONS:
+Figure (a) shows the strength of the Sun's magnetic field (red is strong, blue weak).
+
+Figure (b) shows the density of charged ions.  Red represents "really packed tight", while blue represents areas where there isn't much charged matter.  This shows where electromagnetic forces dominate.
+
+Figure (c) shows the density of neutral atoms.  Note that the charged ions remain tight with the Sun's magnetic field, while the neutrals spread out.  This shows how kinetic effects affect gas around the heliosphere, with the density gradient rapidly building near the edges of the heliosphere.
+
+Figure (d) shows speed of gas, with the Sun at the center.  The dark black circle around the red is the Sun's heliopause, where the ISM wins the push battle with the solar wind.  Note that matter leaves the Sun, but quickly gets swept backward once leaving the heliosphere.
+]
+[ALT: the same]
 
 The main point of their model is that ALL the planets, including Mercury, would find themselves outside the solar heliosphere for a significant fraction of their orbital periods.  And, the transition would take around 40 Earth years to happen - at least, they ran the simulation for 44 model years.
 
@@ -54,6 +74,10 @@ Evidence that this may have happened, according to the authors, may be found in 
 As discussed [here](https://stonetelescope.wordpress.com/2016/11/12/echoes-of-ancient-cataclysm-heard-through-ocean-rock/) before, $^60Fe$ found in ocean sediment may be a signal preserved from nearby supernova events that occurred 2-3 Mya.  Opher et al. cite [these guys](https://doi.org/10.1038%2Fnature17425) for having shown that $^244Pb$ likely formed during neutron star mergers (the kind that cause observable gravitational waves!).  $^60Fe$ has a half life of about 2.6 Myr, and $^244Pb$ about 80.7 Myr.
 
 There's some discussion here about where the supernovae could have happened (10 pc or 100 pc away from Earth)?  There's somewhat less discussion about whether the $^60Fe$ needed to be locked into interstellar dust grains to actually get to the Earth's surface.  But, they fully agree that delivery of both isotopes required the drastic compression of the heliosphere that they model.
+
+[IMAGE: Opher_04.png]
+[CAPTION: Three-dimensional image of the heliosphere (Opher et al. 2024) ]
+[ALT: This shows side (a) and top (b) view of the sun's heliosphere while getting blown away by the LxCC.  The image was generated by the numerical model Opher et al. used.  Note that the red circle, which is roughly Earth's orbit, is mostly outside the heliosphere.  ]
 
 ## Discussion
 
