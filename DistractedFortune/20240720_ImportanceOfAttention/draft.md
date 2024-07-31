@@ -1,7 +1,6 @@
 Pay Attention!  Mankind's destiny depends on this
 =================================================
 
-
 Recently, my kid's school held a little book club meeting for the parents.  The topic was [Jonathan Haidt's](https://jonathanhaidt.com/) new book, [The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness](https://www.anxiousgeneration.com/book).  The meeting was what you'd expect from a classical, closet conservative primary school - lots of PhDs singing choir to the melody scored within the book.  The main thesis is that kids who hit adolescence after about 2012 have had what's needed for developing strong character removed from their lives, and replaced by intense addiction to the social draws of the online world, primarily represented by smartphones and online gaming.
 
 A ton of the book resonated strongly with me.  For example, I do remember riding my bike around town with my friends around 10 years old, and getting into truly risky situations.  Parents in my social circles would *never* let their kids get into risky situations, outside parental supervision.  I still hark back to lessons learned during those times, while navigating the adult professional world.  Where do kids learn those kinds of lessons today?
