@@ -21,7 +21,7 @@ Putting this all together, I decided to resume a practice I'd started back befor
 
 ## What are morning pages?
 
-[Morning Pages](https://juliacameronlive.com/basic-tools/morning-pages/) are not a completely new idea, but they were popularized by [Julia Cameron](https://juliacameronlive.com/) in her book [_The Artist's Way_](LINK).  Cameron is known as, not a productivity guru, but creativity guru.  I may or may not have heard the idea from her (I don't remember), but here is what she says about them:
+[Morning Pages](https://juliacameronlive.com/basic-tools/morning-pages/) are not a completely new idea, but they were popularized by [Julia Cameron](https://juliacameronlive.com/) in her book [_The Artist's Way_](https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252).  Cameron is known as, not a productivity guru, but creativity guru.  I may or may not have heard the idea from her (I don't remember), but here is what she says about them:
 
 > Morning Pages are three pages of longhand, stream of consciousness writing, done first thing in the morning. [Source](https://juliacameronlive.com/basic-tools/morning-pages/)
 
@@ -47,7 +47,7 @@ The pen and paper help kick start your creativity.
 
 ## The benefits of morning pages
 
-For those of us who find ourselves easily distracted from the goal of raking in riches, these pages offer an immediate warm up for concentration and a focus on being our best.
+For those of us who find ourselves easily [distracted](https://distractedfortune.com/lost-in-likes-seize-your-own-attention/) from the goal of raking in riches, these pages offer an immediate warm up for concentration and a focus on being our best.
 
 If you get up early enough, the morning is really peaceful.  Grab a cup of coffee, open the window, and smell the fresh morning air.  Nobody is there to distract you.  Your partner isn't texting reminders to you.  The kids are still asleep (maybe).
 
@@ -55,7 +55,7 @@ The morning tends to be devoid of distraction, so you can get to know how your m
 
 The pages you write in the morning give you a chance to think through things you have to do, or ideas you didn't have time to explore the day before.
 
-For example, I'm supposed to be writing an article on the discoveries made about the Moon since the Chinese started bringing back fresh samples with their Chang'e-5 and Chang'e-6 missions.  I haven't had time to think much about this article recently, beyond doing keyword searches and grabbing links to articles.  This morning, I took the time to write down some ideas and questions I want answered.  _Did we find out more about the nature of water on the Moon?  Do we know more about why the lunar far side is so different than the near side?  How has the "giant impact" hypothesis of the Moon's origin been challenged by the samples?_
+For example, I'm supposed to be [writing an article](https://stonetelescope.wordpress.com/2014/07/24/45-years-ago-today/) on the discoveries made about the Moon since the Chinese started bringing back fresh samples with their Chang'e-5 and Chang'e-6 missions.  I haven't had time to think much about this article recently, beyond doing keyword searches and grabbing links to articles.  This morning, I took the time to write down some ideas and questions I want answered.  _Did we find out more about the nature of water on the Moon?  Do we know more about why the lunar far side is so different than the near side?  How has the "giant impact" hypothesis of the Moon's origin been challenged by the samples?_
 
 Morning pages can help soothe a troubled mind.  If you wake up stressed about a fight you had the day previous, or something important coming up today, just the act of writing on a piece of paper helps to calm you down.
 
@@ -63,7 +63,7 @@ It's a moment of mindfulness.  It engages your senses of vision, hearing (the cr
 
 ## How to start
 
-So, now that you have a burning desire to start, it's time to buy a fancy [Clairefontaine notebook](https://www.jetpens.com/Clairefontaine-My-Essential-Notebook-A5-Lined-Black/pd/17591) and grab your most expensive [fountain pen](https://endlesspens.com/products/parker-fountain-pen-duofold-classic-centennial?variant=29323602296906&gad_source=1&gclid=Cj0KCQjwn9y1BhC2ARIsAG5IY-7iMFdLbUi8Pc9AzwbFrF37BDx5GrDlxZ6kQdCwvFtLhXywK7OVdwYaAm3mEALw_wcB), with some [Iroshizuku Tsuki-Yo ink](LINK), and set that alarm for 5:00am.
+So, now that you have a burning desire to start, it's time to buy a fancy [Clairefontaine notebook](https://www.jetpens.com/Clairefontaine-My-Essential-Notebook-A5-Lined-Black/pd/17591) and grab your most expensive [fountain pen](https://endlesspens.com/products/parker-fountain-pen-duofold-classic-centennial?variant=29323602296906&gad_source=1&gclid=Cj0KCQjwn9y1BhC2ARIsAG5IY-7iMFdLbUi8Pc9AzwbFrF37BDx5GrDlxZ6kQdCwvFtLhXywK7OVdwYaAm3mEALw_wcB), with some [Iroshizuku Tsuki-Yo ink](https://www.amazon.com/Pilot-Iroshizuku-Fountain-Moonlight-69205/dp/B003MVIYZM/ref=sr_1_2?crid=XSWI5OI3IF56&dib=eyJ2IjoiMSJ9.B-J1f0NhwO_pwYOBfH2c08HtuODXDwosxf4bl1if9WiQGYxTD2jEJO-Ozjbp2oG_Pe4EdDz7SahmbOYGegmAwBHE8p_Mhmp5FZzlMhLbiKJ9EA6RdtnFVdwDsLYkG_K4ToisGxEFEItfoMcNzcCpMf_vAoWjptTD-iUoPI3b2Hem4kPjcXpMX6-V1v7qjorXSA1R4VYjAq_fk1iIqayujjBXK4_CIlwb6yA1hId6GQU.H-5pV0P1MEt2HPph6BLubRXIBF-Gd8d_nJHOvH0mntg&dib_tag=se&keywords=iroshizuku%2Bink&qid=1723499528&s=books&sprefix=iroshizuki%2Bink%2Cstripbooks%2C78&sr=1-2&th=1), and set that alarm for 5:00am.
 
 Wrong.
 
@@ -81,7 +81,7 @@ If you stress about supplies, you'll never get past a day or two of this.
 
 You're sitting there, staring at the page, not sure what to write next.  Just write "I don't know what to write next."  Then write it again.
 
-You'll find that eventually, you'll want to write something else.  [These mornings are almost magical.](LINK)  You have good ideas in your mind, you just need to squeeze the crap out of the way.
+You'll find that eventually, you'll want to write something else.  [These mornings are almost magical.](https://juliacameronlive.com/books-by-julia/the-miracle-of-morning-pages/)  You have good ideas in your mind, you just need to squeeze the crap out of the way.
 
 Keep going!
 
