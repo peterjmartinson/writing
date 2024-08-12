@@ -1,6 +1,14 @@
 Write Right When You Wake Up!
 =============================
 
+Your most powerful tool is your creative mind.  It's what separates us from the animals, and contains the power to change the world.  Getting that creativity to kick in, however, is not always easy to do.
+
+Or, is it?
+
+I'll show you my one most important trick to getting my creativity locked in, and it's the first think I do every morning.  After pouring coffee, of course.
+
+## Getting to the first page
+
 A couple years ago, when I told my wife about a podcast I'd listened to by psychologist [Jordan Peterson](https://www.jordanbpeterson.com/podcast/), she suggested I listen to his talks on the Bible.  I knew Peterson as the guy who took a lot of heat in Canada for speaking out against the pronoun regulations imposed on some of the universities up there.  It turns out, he also did a bunch of work on how the Bible and other ancient stories can inform our behavior and psychology of today.
 
 So I started with the earliest Bible talk in his podcast series, [on Genesis](https://www.youtube.com/watch?v=f-wWBGo6a2w&list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&index=1).  To put it gently, it blew me away.
@@ -11,13 +19,11 @@ Everybody dreams, though not everybody remembers every dream.  Some people remem
 
 Putting this all together, I decided to resume a practice I'd started back before my first boy was born - Morning Pages.  I did morning pages for a few months, then fell off.  After listening to Peterson on the Bible, I started anew, with the goal of at least writing down any dream fragments I could remember, each morning, as soon as I woke up.
 
-It's now an engrained habit I do daily, and I feel off kilter if I miss a morning.  It's so important to me, that I recommend you do it too.
-
 ## What are morning pages?
 
-[Morning Pages](LINK) are probably not a completely new idea, but they were popularized by [Julia Cameron](LINK) in her book [_The Artist's Way_](LINK).  Cameron is known as, not a productivity guru, but creativity guru.  I may or may not have heard the idea from her (I don't remember), but here is what she says about them:
+[Morning Pages](https://juliacameronlive.com/basic-tools/morning-pages/) are not a completely new idea, but they were popularized by [Julia Cameron](https://juliacameronlive.com/) in her book [_The Artist's Way_](LINK).  Cameron is known as, not a productivity guru, but creativity guru.  I may or may not have heard the idea from her (I don't remember), but here is what she says about them:
 
-> Morning Pages are three pages of longhand, stream of consciousness writing, done first thing in the morning. [Source](LINK)
+> Morning Pages are three pages of longhand, stream of consciousness writing, done first thing in the morning. [Source](https://juliacameronlive.com/basic-tools/morning-pages/)
 
 The goal here is to get all the mess out of your head, and get to the good stuff right at the beginning of the day.  Think of using a honing steel to prep a kitchen knife - you're straightening out the blade, getting rid of a few kinks, getting ready to cut.  Or, letting the sink run on hot for a little bit to push the lingering cold water out, until the hot water starts flowing.
 
@@ -26,12 +32,12 @@ You're prepping your mind to take hold of the day.
 The rules are laid out in Cameron's instructions above:
 
 1. Use a pen or pencil
-2. Write on three sheets of paper
-3. Do it as soon after waking up as possible
+2. Start writing on a piece of paper as soon as you wake
+3. Keep writing until you've filled three sheets of paper
 
-Since it takes about a half hour to do this, you might be thinking "why not just bang out on a computer?"  Nope.  You write too fast on a computer.  The goal is NOT to go fast, but rather to go slow.
+Since this takes about a half hour to 45 minutes, you might be thinking "why not just bang it out on a computer in half the time?"  Nope.  You write too fast on a computer.  The goal is NOT to go fast, but rather to go slow.
 
-When I wake up in the morning, more often than not I start thinking about all the things I need to do in the day.  Rapidly.  Writing out my morning pages doesn't stop the train of thoughts, but rather forces me to think more deeply about them.
+When I wake up in the morning, more often than not I start thinking about all the things I need to do in the day.  Rapidly.  My morning pages don't stop the train of thoughts, but rather they force me to think more deeply.
 
 It forces you to think through your ideas.
 
@@ -41,7 +47,7 @@ The pen and paper help kick start your creativity.
 
 ## The benefits of morning pages
 
-For those of us who find ourselves easily distracted from becoming supernatural, these pages offer an immediate warm up for concentration and a focus on being our best.
+For those of us who find ourselves easily distracted from the goal of raking in riches, these pages offer an immediate warm up for concentration and a focus on being our best.
 
 If you get up early enough, the morning is really peaceful.  Grab a cup of coffee, open the window, and smell the fresh morning air.  Nobody is there to distract you.  Your partner isn't texting reminders to you.  The kids are still asleep (maybe).
 
@@ -49,15 +55,15 @@ The morning tends to be devoid of distraction, so you can get to know how your m
 
 The pages you write in the morning give you a chance to think through things you have to do, or ideas you didn't have time to explore the day before.
 
-For example, I'm supposed to be writing an article on the discoveries made about the Moon, since the Chinese started bringing back fresh samples with their Chang'e-5 and Chang'e-6 missions.  I haven't had time to think much about this article recently, beyond doing keyword searches and grabbing links to articles.  This morning, I took some time to write down some ideas and questions I want answered.  Did we find out more about the nature of water on the Moon?  Do we know more about why the lunar far side is so different than the near side?  How has the "giant impact" hypothesis of the Moon's origin been challenged by the samples?
+For example, I'm supposed to be writing an article on the discoveries made about the Moon since the Chinese started bringing back fresh samples with their Chang'e-5 and Chang'e-6 missions.  I haven't had time to think much about this article recently, beyond doing keyword searches and grabbing links to articles.  This morning, I took the time to write down some ideas and questions I want answered.  _Did we find out more about the nature of water on the Moon?  Do we know more about why the lunar far side is so different than the near side?  How has the "giant impact" hypothesis of the Moon's origin been challenged by the samples?_
 
 Morning pages can help soothe a troubled mind.  If you wake up stressed about a fight you had the day previous, or something important coming up today, just the act of writing on a piece of paper helps to calm you down.
 
-It's a moment of mindfulness.  It engages your senses of vision, hearing (the crinkle of the paper, the pen on paper), touch (roughness of the paper, motion of the hand).  Even taste and smell if you like coffee or tea in the morning.  Engaging these sensed perceptions help to ground us and get control over our feelings.
+It's a moment of mindfulness.  It engages your senses of vision, hearing (the crinkle of the paper, the pen on paper), touch (roughness of the paper, motion of the hand).  Even taste and smell if you like coffee or tea in the morning.  Engaging these sensed perceptions helps to ground us and get control over our feelings.
 
 ## How to start
 
-So, now that you have a burning desire to start, it's time to buy a fancy Clairefontaine notebook and grab your most expensive fountain pen, with some Iroshizuku Tsuki-Yo ink, and set that alarm for 5:00am.
+So, now that you have a burning desire to start, it's time to buy a fancy [Clairefontaine notebook](https://www.jetpens.com/Clairefontaine-My-Essential-Notebook-A5-Lined-Black/pd/17591) and grab your most expensive [fountain pen](https://endlesspens.com/products/parker-fountain-pen-duofold-classic-centennial?variant=29323602296906&gad_source=1&gclid=Cj0KCQjwn9y1BhC2ARIsAG5IY-7iMFdLbUi8Pc9AzwbFrF37BDx5GrDlxZ6kQdCwvFtLhXywK7OVdwYaAm3mEALw_wcB), with some [Iroshizuku Tsuki-Yo ink](LINK), and set that alarm for 5:00am.
 
 Wrong.
 
@@ -65,7 +71,7 @@ I tried doing something like that at first, and it just didn't hold.  Here are s
 
 1. Get cheap supplies
 
-I use a Bic clic stick pen with a pad of yellow paper.  The paper is the cheapest I could find, and the Bic is my favorite cheap pen.
+I use a [Bic clic stick pen](https://www.amazon.com/BIC-PrevaGuard-Ballpoint-Black-60-Count/dp/B08NTSYT3D/ref=sr_1_8?crid=1YTKDO1ZZHX8I&dib=eyJ2IjoiMSJ9.vmFJoPomzadL9xyO_JRHpeahPxBjuL-MZ1_RRMHBh7H9JF-wuM2T0dQ-KbkQh3Md9yqQJyyLm70YakSE4HfYkFiq8bMO46Ny825qnB2lMljFJlBOoAY2EFKVz1qBnKaaBqKmRRFTxtjAmWpsqzBtVttsevoPfd9ftngSacfg8VsvoItjvFVLD-z3lB3Rj3IcxbMRe2r4zIa9bK0A5lhqLpSHnbXUsNZsTW5_3OK8cYi6db3vSnFT3vW6sYgcIsrnnlQmiO2zwmoweiWFZxATtsNb6Tx37rzCxBAJR7RfHVE.CQh7l9DCStGQpn0DCB41VeGyH9-uGMOzJpCd-QPuzKI&dib_tag=se&keywords=bic+clic&qid=1723337308&sprefix=bic+clic%2Caps%2C178&sr=8-8) with a [pad of yellow paper](https://www.amazon.com/TOPS-Legal-Writing-Canary-Sheets/dp/B0006HWRK8/ref=sr_1_5_pp?crid=1CK5SVQNQDZU&dib=eyJ2IjoiMSJ9.0dls4DyTIzLytu5Gz7JUVAqu01e8SB9Vyrc3zS-io8sdooE8HGJLhVAzhQrkZ8Lvk9IBG9BJY2LJHVirP8moe3bOdfSn2MfRj-gAcNIdi6gl5TtWbhBPRuUi_PNd9KmlugpM5yji12739oZ-8B5kenEmLz3507A9-1ckd_Gyp_qW6ZtWs6kaUsx7JEFBn9g8ZMSe0bL283coW7CR7aGS9mNI_fJqTwz66GKJJTjyZ5_6zvsyPWpMJ8djvTDaJ_BPxJd_gxqtWCjeD89NjkS0ukDz_V-c99oV_an9c8YnNAU.6RAkc8EMo30GTy_w-D_0hIu7Z4Xnye4KMBTDpZobWv4&dib_tag=se&keywords=yellow+pads+8.5+x+11+letter+size&qid=1723337358&sprefix=yellow+pads%2Caps%2C92&sr=8-5).  The paper is the cheapest I could find, and the Bic is my favorite cheap pen.
 
 When you write, you can't be concerned with wasting paper, or making sure everything is perfect.  You need an abundance of supplies.
 
@@ -97,7 +103,7 @@ Tonight, pick out where you will write tomorrow morning.  Put your pen and notep
 
 Wake up, get some coffee, and go sit.  There is nothing in your way to writing your morning pages.
 
-[conclusion]
+So tomorrow morning, grab a pen, some paper, and start writing. Remember, there's no right or wrong way to do morning pages. It's about your journey, your thoughts, and your growth. Give it a try for a week, and see how it transforms your mornings, and perhaps, your life.
 
 I hope you liked this article.  Thank you for taking the time to read it!  Please leave a comment below with your thoughts, sign up to receive regular updates, and share this article with your friends.
 
