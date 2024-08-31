@@ -1,4 +1,3 @@
-
 Million Dollar Weekend: The world inside, and the world outside
 ===============================================================
 
