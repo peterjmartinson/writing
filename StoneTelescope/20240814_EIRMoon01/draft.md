@@ -31,4 +31,12 @@ It is the closest object to the Sun without either a magnetic field or atmospher
 
 The Moon also serves as the Solar System's timekeeper.  Because it has been (suspected to be) relatively inert since its surface lava flows solidified, it preserves a record of meteorite impacts that goes back almost to the earliest days of the Solar System.  Astronomers have developed a technique called crater density analysis where they can determine how the rate of bombardment has changed over the past 4 billion years.  We use this method to figure out when certain events happened on other planets.  This, combined with absolute dates extracted from returned Lunar samples, has given us a way to match events in the evolution of life with cosmic events.
 
+## The Great Dichotomy
 
+The Moon rotates at the same speed it orbits Earth.  In other words, the Moon always faces the same side at the Earth.  We never get to see the other side.  In fact, we had _no_ idea what the other side looked like until the Soviet Luna 3 space probe photographed it in 1960.
+
+What we found was surprising.
+
+The near side exhibits what some call the "Man in the Moon".  This is really a collection of relatively smooth surfaces called Mare, almost certainly created by molten lava flows on the surface.  Those Mare are broken up by the lunar Highlands, which are more brightly colored and rougher texture, pockmarked by many craters.
+
+The far side, in contrast, contains almost no Mare.  There are only what appear to be highland terrains.
