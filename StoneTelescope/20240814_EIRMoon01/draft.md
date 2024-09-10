@@ -33,10 +33,17 @@ The Moon also serves as the Solar System's timekeeper.  Because it has been (sus
 
 ## The Great Dichotomy
 
-The Moon rotates at the same speed it orbits Earth.  In other words, the Moon always faces the same side at the Earth.  We never get to see the other side.  In fact, we had _no_ idea what the other side looked like until the Soviet Luna 3 space probe photographed it in 1960.
+The Moon rotates at the same speed it orbits Earth - it is _tidally locked_.  In other words, the Moon always faces the same side at the Earth.  We never get to see the other side.  In fact, we had _no_ idea what the other side looked like until the Soviet Luna 3 space probe photographed it in 1960.
 
 What we found was surprising.
 
 The near side exhibits what some call the "Man in the Moon".  This is really a collection of relatively smooth surfaces called Mare, almost certainly created by molten lava flows on the surface.  Those Mare are broken up by the lunar Highlands, which are more brightly colored and rougher texture, pockmarked by many craters.
 
-The far side, in contrast, contains almost no Mare.  There are only what appear to be highland terrains.
+The far side, in contrast, contains almost no Mare.  The landscape looks like a regular planetary surface pocked by meteor impact craters.  In fact, the only mare found on the far side are inside an incredibly large impact crater, called the South-Pole Aitkin Basin (SPA).  This crater is the largest impact structure known in the Solar System.
+
+The landscape looks like a regular planetary surface pocked by meteor impact craters.  In fact, the only mare found on the far side are inside an incredibly large impact crater, called the South-Pole Aitkin Basin (SPA).  This crater is the largest impact structure known in the Solar System.
+
+At the moment, nobody knows why there is such a distinction between the two sides.  Some ideas appear to be more plausible than others, but there are reasons not to believe all of them.  Like all other dramatic planetary events, it is most likely due to a combination of factors.  
+
+For example, perhaps the tidal locking occurred early in the Moon's history, while it was still relatively molten.  Centripetal force may have driven early solids to the far side, which resulted in a thicker crust.  When the Late Heavy Bombardment began, it was then easier for meteorites to punch through the thinner crust on the near side, and cause lava to spew onto the surface
+
