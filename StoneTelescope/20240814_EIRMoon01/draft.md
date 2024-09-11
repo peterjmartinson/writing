@@ -23,9 +23,11 @@ It now appears that the Mars or Moon first debate has been decisively won.  We a
 
 Johannes Kepler demonstrated that the Creator of the universe organized His creation so we could learn how it all works.  Specifically, He gave us a permanent satellite, positioned in such a precise way that it serves as a sort of lens.
 
-To the idiot, the Moon is a big ball of dead rock we've already been to.  To the rest of us, it is a scientific instrument.  It's just the right size and distance to sometimes produce an exact solar eclipse.  Eclipses have long produced a powerful need to look to the cosmos.  This also helped Aristarchus to make the first determination of the distances between Sun, Earth, and Moon.  But there are other qualities that make it useful for us.
+To the idiot, the Moon is a big ball of dead rock we've already been to.  To the rest of us, it is a scientific instrument.
 
-One side always points away from the Earth.  Because of this, radio and other telescopes can be constructed on that far side, and be permanently shielded from all noise broadcast from the Earth.  Nowhere else in the universe has such a property.
+It's just the right size and distance to sometimes produce an exact solar eclipse.  Eclipses have long produced a powerful need to look to the cosmos.  These events also helped Aristarchus to make the first determination of the distances between Sun, Earth, and Moon.  But there are other qualities that make the Moon useful for us.
+
+One side always points away from the Earth.  Because of this, radio and other telescopes can be constructed on that far side, and be permanently shielded from all noise broadcast from the Earth.  There is no other exposed place in the Solar System that is always shielded form the Earth.
 
 It is the closest object to the Sun without either a magnetic field or atmosphere.  This made the Moon the first target of fusion scientists from the University of Wisconsin - Madison, led by Robert Kulchinski <sp?>, who sought helium-3 to power the most favorable fusion reactions.  The Moon is thought to collect massive amounts of helium-3 from the solar wind as it swings around Earth.
 
@@ -45,5 +47,14 @@ The landscape looks like a regular planetary surface pocked by meteor impact cra
 
 At the moment, nobody knows why there is such a distinction between the two sides.  Some ideas appear to be more plausible than others, but there are reasons not to believe all of them.  Like all other dramatic planetary events, it is most likely due to a combination of factors.  
 
-For example, perhaps the tidal locking occurred early in the Moon's history, while it was still relatively molten.  Centripetal force may have driven early solids to the far side, which resulted in a thicker crust.  When the Late Heavy Bombardment began, it was then easier for meteorites to punch through the thinner crust on the near side, and cause lava to spew onto the surface
+For example, perhaps the tidal locking occurred early in the Moon's history, while it was still relatively molten.  The resultant centripetal force may have driven early solidified rock to the far side, which resulted in a thicker crust there.  When the Late Heavy Bombardment began, it was then easier for meteorites to punch through the thinner crust on the near side, and cause lava to spew onto the surface
 
+One reason this may not be the reason is that the meteorite that slammed into the far side of the Moon and created the SPA Basin should easily have punched through even a thickened far side crust, and released any pent-up magma.  The actual mare that formed in this massive crater, however, do not add up to the amount of outflow expected.
+
+To really understand what could have happened requires microsopic investigation of samples from the surface of the far side.  For now, the only scientists with such a sample in hand are in China.
+
+## Chronology
+
+Early in the history of our Solar System, there was a great vacuuming up of interplanetary debris.  We know this, not because we were there, but because we see the impact craters from this period preserved on the lunar surface.
+
+Scientists can determine relative ages of craters by indications that one crater lies on top of another one
