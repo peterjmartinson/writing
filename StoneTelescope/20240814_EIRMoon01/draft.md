@@ -58,3 +58,20 @@ To really understand what could have happened requires microsopic investigation 
 Early in the history of our Solar System, there was a great vacuuming up of interplanetary debris.  We know this, not because we were there, but because we see the impact craters from this period preserved on the lunar surface.
 
 Scientists can determine relative ages of craters by indications that one crater lies on top of another one
+
+
+## The New Race
+
+Though various parties may say there is not a new Moon race, it's on.
+
+On the one side is China.  China first began making strides toward the Moon back in 2007 [[???]].  Back then, before the United States congress passed a National Defense Authorization with the now infamous Wolf Amendment (more below), China sent several emissaries from the Chinese National Space Agency (CNSA) to study how NASA got to the Moon.  China's space program had begun using NASA mission architecture (Mercury, Gemini, Apollo) along with Russian spacecraft design, and succeeded in building the world's now most robust national space program in the world.
+
+On the other side is the United States of America.  After NASA succeeded in getting boots on the Moon, the awful decision was made by "Congratulations, you are the last men to step on the moon" Nixon's administration to put most space funding into the incredibly expensive Space Shuttle program.  Thus precipitated the transition from an exploration-focused NASA to one focused on robotic science.  Only during the two post-Clinton Republican presidencies has this status quo been challenged, first with President Bush's Constellation program (significantly cut by President Obama), and then with President Trump's Artemis program.
+
+Auxiliary to the renewed national focus on the Moon, is a rapid proliferation of private American companies that can launch astronauts into space, such as SpaceX and Blue Origin.
+
+The two sides of this race is represented by the two national programs, but also by two international Lunar agreement frameworks.
+
+On the Eastern side, China and Russia signed the International Lunar Research Station agreement in 2021.  This was bolstered in 2022 by an agreement between the two national agencies, CNSA and Roscosmos, to cooperate on developing space technologies such as GPS systems.  This agreement has attracted signatures from other countries, such as [[???]].
+
+On the Western side, the Trump administration created the Artemis Accords, an update on the Outer Space Treaty of the 1960s that clarifies aspects like usage of Lunar resources.  Over 20 nations have signed the accords, including India.
