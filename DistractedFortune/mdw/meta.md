@@ -1,0 +1,1 @@
+Noah Kagan's book "Million Dollar Weekend" lit a fire under my butt.  Maybe it will do the same to yours!  In this book review, you'll learn three key strategies from Kagan that will have you pulling in million$ by the beginning of next week.

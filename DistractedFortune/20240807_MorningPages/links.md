@@ -1,0 +1,8 @@
+https://juliacameronlive.com/basic-tools/morning-pages/
+https://juliacameronlive.com/
+Hemingway in the morning https://www.theparisreview.org/interviews/4825/the-art-of-fiction-no-21-ernest-hemingway
+
+pens https://www.amazon.com/BIC-PrevaGuard-Ballpoint-Black-60-Count/dp/B08NTSYT3D/ref=sr_1_8?crid=1YTKDO1ZZHX8I&dib=eyJ2IjoiMSJ9.vmFJoPomzadL9xyO_JRHpeahPxBjuL-MZ1_RRMHBh7H9JF-wuM2T0dQ-KbkQh3Md9yqQJyyLm70YakSE4HfYkFiq8bMO46Ny825qnB2lMljFJlBOoAY2EFKVz1qBnKaaBqKmRRFTxtjAmWpsqzBtVttsevoPfd9ftngSacfg8VsvoItjvFVLD-z3lB3Rj3IcxbMRe2r4zIa9bK0A5lhqLpSHnbXUsNZsTW5_3OK8cYi6db3vSnFT3vW6sYgcIsrnnlQmiO2zwmoweiWFZxATtsNb6Tx37rzCxBAJR7RfHVE.CQh7l9DCStGQpn0DCB41VeGyH9-uGMOzJpCd-QPuzKI&dib_tag=se&keywords=bic+clic&qid=1723337308&sprefix=bic+clic%2Caps%2C178&sr=8-8
+paper https://www.amazon.com/TOPS-Legal-Writing-Canary-Sheets/dp/B0006HWRK8/ref=sr_1_5_pp?crid=1CK5SVQNQDZU&dib=eyJ2IjoiMSJ9.0dls4DyTIzLytu5Gz7JUVAqu01e8SB9Vyrc3zS-io8sdooE8HGJLhVAzhQrkZ8Lvk9IBG9BJY2LJHVirP8moe3bOdfSn2MfRj-gAcNIdi6gl5TtWbhBPRuUi_PNd9KmlugpM5yji12739oZ-8B5kenEmLz3507A9-1ckd_Gyp_qW6ZtWs6kaUsx7JEFBn9g8ZMSe0bL283coW7CR7aGS9mNI_fJqTwz66GKJJTjyZ5_6zvsyPWpMJ8djvTDaJ_BPxJd_gxqtWCjeD89NjkS0ukDz_V-c99oV_an9c8YnNAU.6RAkc8EMo30GTy_w-D_0hIu7Z4Xnye4KMBTDpZobWv4&dib_tag=se&keywords=yellow+pads+8.5+x+11+letter+size&qid=1723337358&sprefix=yellow+pads%2Caps%2C92&sr=8-5
+clairefontaine https://www.jetpens.com/Clairefontaine-My-Essential-Notebook-A5-Lined-Black/pd/17591
+fountain pen  https://endlesspens.com/products/parker-fountain-pen-duofold-classic-centennial?variant=29323602296906&gad_source=1&gclid=Cj0KCQjwn9y1BhC2ARIsAG5IY-7iMFdLbUi8Pc9AzwbFrF37BDx5GrDlxZ6kQdCwvFtLhXywK7OVdwYaAm3mEALw_wcB
