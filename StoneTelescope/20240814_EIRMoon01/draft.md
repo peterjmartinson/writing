@@ -76,8 +76,25 @@ On the Western side, the Trump administration created the Artemis Accords, an up
 
 On the Eastern side, China and Russia signed the International Lunar Research Station agreement in June 2021.  This agreement is centered around the Chinese plan to build a research base near the Moon's south pole.  The program includes all the Chang'e probes and landers, as well as Russia's renewed Luna program.  Since 2021, the agreement has been written into Russian law, and attracted signatures from 10 [[[???]]] other countries.
 
-## Western Progress
+## The Missions
 
-The United States has landed successfully on the Moon's surface only once since Apollo, and just barely.  A joint US-Japan [[??]] lander called Odyssey had a rough landing, and only operated for a short time.  However, the US has operated several Lunar orbiting missions, such as Lunar Reconnaissance Orbiter, which has built up the most complete maps yet of the Lunar surface.
+1. Artemis
+
+The United States most recently landed a craft on the Lunar surface in February 2024.  This is the first time USA has landed on our satellite since Apollo 17, over 50 years ago.
+
+The _Odysseus_ mission was a demonstration of NASA's Commercial Lunar Payload Service (CLPS) program.  The idea is that the US will employ a form of public-private partnership to get back to the Moon - NASA will provide funding, mission planning, and coordination, along with some technology (like the Space Launch System), while private space companies will provide the bulk of the technology.
+
+Other signatories of the Artemis Accords that have successfully landed on the Moon include Japan, who landed the Smart Lander in January 2024, and most importantly India, whose successful _Chandrayaan-3_ mission included an orbiter, lander, and rover.
+
+Outside of landers, the United States and India currently operate several spacecraft that orbit the Moon.  These include NASA's Lunar Reconnaissance Orbiter (LRO), whose maps form the foundation for all the Lunar missions of the 21st Century.  This also includes ISRO's Chandrayaan-1, which was the first craft to find unambiguous traces of water ice in the southern craters.
+
+2. The Orient
+
+China has certainly had the most success over the past two decades with the Moon.  CNSA first soft landed on the Moon back in 2013 with the Chang'e-3 mission.  This was followed in 2019 with the Chang'e-4 mission, which not only was the first craft to land on the far side of the Moon, but also carried a rover that is still operating as of the time of this writing.  One year later, Chang'e-5 landed on the Lunar near side, but also successfully sent almost 2 kg of Lunar soil back to the Earth.  This is the first sample returned since the Soviet Luna-24 lander back in [[????]]  Finally, Chang'e-6 landed on the far side in mid-2024, and also returned samples to the Earth.
+
+Though Russia has a long history of successful space missions, they have yet to repeat these successes of a half-century ago.  Their Luna-25 mission, which was to follow India's Chandrayaan-3 landing by only several days, apparently crashed on the Moon's surface.
+
+
+
 
 The only other significant soft landing among Artemis Accord nations was by the Indian Space Research Organization (ISRO), who landed Chandrayaan-3 near the south pole.
