@@ -25,12 +25,55 @@ Let us first review just what the Moon is for Mankind.
 
 Johannes Kepler demonstrated that the Creator of the universe organized His creation so we could learn how it all works.  Specifically, He gave us a permanent satellite, positioned in such a precise way that it serves as a sort of lens.
 
-To the idiot, the Moon is a big ball of dead rock we've already been to.  To the rest of us, it is a _scientific instrument_.  It's just the right size and distance to sometimes produce an exact solar eclipse.  Eclipses have long produced within people a powerful need to look to the cosmos.  This serendipity also allowed Aristarchus to make the first determination of the distances between Sun, Earth, and Moon.  But there are other qualities that make it useful for us.
+To the idiot, the Moon is a big ball of dead rock we've already been to.  To the rest of us, it is a scientific instrument.
 
-One side always points away from the Earth.  Because of this, radio and other telescopes can be constructed on that far side, and be permanently shielded from all noise broadcast from the Earth.  Nowhere else in the universe has such a property.
+It's just the right size and distance to sometimes produce an exact solar eclipse.  Eclipses have long produced a powerful need to look to the cosmos.  These events also helped Aristarchus to make the first determination of the distances between Sun, Earth, and Moon.  But there are other qualities that make the Moon useful for us.
+
+One side always points away from the Earth.  Because of this, radio and other telescopes can be constructed on that far side, and be permanently shielded from all noise broadcast from the Earth.  There is no other exposed place in the Solar System that is always shielded form the Earth.
 
 It is the closest object to the Sun without either a magnetic field or atmosphere.  This made the Moon the first target of fusion scientists from the University of Wisconsin - Madison, led by Gerald Kulcinski <sp?>, who sought helium-3 to power the most favorable fusion reactions.  He and collaborators calculated the Moon has at least 500 million metric tons of Helium-3, because it has been collecting this isotope from the Solar wind for the past several billion years.  When they analyzed returned lunar samples, they found He-3 in every one
 
 The Moon also serves as the Solar System's timekeeper.  Because it has been (suspected to be) relatively inert since its surface lava flows solidified, it preserves a record of meteorite impacts that goes back almost to the earliest days of the Solar System.  Astronomers have developed a technique called crater density analysis where they can determine how the rate of bombardment has changed over the past 4 billion years.  We use this method to figure out when certain events happened on other planets.  This, combined with absolute dates extracted from returned Lunar samples, has given us a way to match events in the evolution of life with cosmic events.
 
+## The Great Dichotomy
 
+The Moon rotates at the same speed it orbits Earth - it is _tidally locked_.  In other words, the Moon always faces the same side at the Earth.  We never get to see the other side.  In fact, we had _no_ idea what the other side looked like until the Soviet Luna 3 space probe photographed it in 1960.
+
+What we found was surprising.
+
+The near side exhibits what some call the "Man in the Moon".  This is really a collection of relatively smooth surfaces called Mare, almost certainly created by molten lava flows on the surface.  Those Mare are broken up by the lunar Highlands, which are more brightly colored and rougher texture, pockmarked by many craters.
+
+The far side, in contrast, contains almost no Mare.  The landscape looks like a regular planetary surface pocked by meteor impact craters.  In fact, the only mare found on the far side are inside an incredibly large impact crater, called the South-Pole Aitkin Basin (SPA).  This crater is the largest impact structure known in the Solar System.
+
+The landscape looks like a regular planetary surface pocked by meteor impact craters.  In fact, the only mare found on the far side are inside an incredibly large impact crater, called the South-Pole Aitkin Basin (SPA).  This crater is the largest impact structure known in the Solar System.
+
+At the moment, nobody knows why there is such a distinction between the two sides.  Some ideas appear to be more plausible than others, but there are reasons not to believe all of them.  Like all other dramatic planetary events, it is most likely due to a combination of factors.  
+
+For example, perhaps the tidal locking occurred early in the Moon's history, while it was still relatively molten.  The resultant centripetal force may have driven early solidified rock to the far side, which resulted in a thicker crust there.  When the Late Heavy Bombardment began, it was then easier for meteorites to punch through the thinner crust on the near side, and cause lava to spew onto the surface
+
+One reason this may not be the reason is that the meteorite that slammed into the far side of the Moon and created the SPA Basin should easily have punched through even a thickened far side crust, and released any pent-up magma.  The actual mare that formed in this massive crater, however, do not add up to the amount of outflow expected.
+
+To really understand what could have happened requires microsopic investigation of samples from the surface of the far side.  For now, the only scientists with such a sample in hand are in China.
+
+## Chronology
+
+Early in the history of our Solar System, there was a great vacuuming up of interplanetary debris.  We know this, not because we were there, but because we see the impact craters from this period preserved on the lunar surface.
+
+Scientists can determine relative ages of craters by indications that one crater lies on top of another one
+
+
+## The New Race
+
+Though various parties may say there is not a new Moon race, it's on.
+
+On the one side is China.  China first began making strides toward the Moon back in 2007 [[???]].  Back then, before the United States congress passed a National Defense Authorization with the now infamous Wolf Amendment (more below), China sent several emissaries from the Chinese National Space Agency (CNSA) to study how NASA got to the Moon.  China's space program had begun using NASA mission architecture (Mercury, Gemini, Apollo) along with Russian spacecraft design, and succeeded in building the world's now most robust national space program in the world.
+
+On the other side is the United States of America.  After NASA succeeded in getting boots on the Moon, the awful decision was made by "Congratulations, you are the last men to step on the moon" Nixon's administration to put most space funding into the incredibly expensive Space Shuttle program.  Thus precipitated the transition from an exploration-focused NASA to one focused on robotic science.  Only during the two post-Clinton Republican presidencies has this status quo been challenged, first with President Bush's Constellation program (significantly cut by President Obama), and then with President Trump's Artemis program.
+
+Auxiliary to the renewed national focus on the Moon, is a rapid proliferation of private American companies that can launch astronauts into space, such as SpaceX and Blue Origin.
+
+The two sides of this race is represented by the two national programs, but also by two international Lunar agreement frameworks.
+
+On the Eastern side, China and Russia signed the International Lunar Research Station agreement in 2021.  This was bolstered in 2022 by an agreement between the two national agencies, CNSA and Roscosmos, to cooperate on developing space technologies such as GPS systems.  This agreement has attracted signatures from other countries, such as [[???]].
+
+On the Western side, the Trump administration created the Artemis Accords, an update on the Outer Space Treaty of the 1960s that clarifies aspects like usage of Lunar resources.  Over 20 nations have signed the accords, including India.
