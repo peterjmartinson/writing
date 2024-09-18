@@ -37,3 +37,6 @@ What are some conclusions from elsewhere in the solar system, that depend on Lun
 6.  Just regular updates on new research on the Moon
 
 The point here is, keep up the pressure to think about colonization
+
+
+
