@@ -18,3 +18,13 @@ I'll focus on three aspects of this story that I found most relevant to our goal
 2. Limiting use of the Internet compels one to build more meaningful relationships with other people,
 
 3. The resultant unfilled minutes and hours allow your ability to think deeply to grow more powerful.
+
+## Dumb Phone Life
+
+Jose begins the book by describing his incredibly degenerate life.  Plowing pizza and soda into the front end; doom scrolling on eff-book on the latest Surface laptop; and buying dumb things on credit.
+
+Not incredibly degenerate.  This is probably pretty close to normal life for most Americans right now.  With little direction beyond "pursue your dreams", we don't really know what to do with ourselves.  So we resort to feeding the beast with things that make it feel good in the moment.
+
+After a little while of living this life, Briones describes, he decided to shape up and take control of his world.  Besides developing better health habits, Jose decided to try to break his Internet addition by trying a less fully featured phone.  Briones chose the [Light Phone 2](LINK), which is a smaller phone with an e-ink screen, and few options for apps.
+
+blah blah blah!
