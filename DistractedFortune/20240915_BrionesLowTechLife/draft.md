@@ -39,4 +39,22 @@ As Briones so clearly describes, that new constant companion, to whom we now ent
 
 Over the past few years, a rather small group of intrepid social engineers have begun experimenting with ways to claw back that lost time.  Getting a full dumb phone is one way, because it cuts off all access to social and other internet media if you're not in front of a computer.  However, it may be difficult, both physically and socially, to go so hard core.
 
-Now, there is an entire range of "therapeutic" reductions in smartphone _notif-addiction_.  Simply changing your phone's color settings to grayscale can help neuter your addiction to checking for notifications.  light phone, simplified phones, real dumbphones.
+Now, there is an entire range of "therapeutic" reductions in smartphone _notif-addiction_.  Simply changing your phone's color settings to grayscale, or deleting social media apps can help neuter your need to check for notifications.  On Android phones, you can install an app that only lets you choose from a few functions, like call and text, to make your phone more boring.  If you really can't handle the temptations of your smart phone, you can do like Briones and get a transition device like the Light Phone, or a similar dumbed-down phone.  These devices still allow you to get on the internet for things like directions and email, but add a helpful bit of friction to do so.
+
+Finally, you can bite the bullet and go full dumb phone.
+
+As Briones explains, doing this is not foolproof - it doesn't cure the underlying addiction.  For this, you will need to do extra work during your freshly unfilled hours.
+
+## Going Places
+
+One of the earliest obstacles Jose encountered was getting to places.  Modern Man, when he wants to go somewhere, offloads his sense of direction to Apple Maps or Google Maps or the Waze app.  Pop in your destination, and let GPS do its work!
+
+Without a smartphone, you need to plan ahead.  And even then, what happens when you get lost, with no phone to tell you where you are?  Reading a paper map is hard enough when you know where you are on it.
+
+One day, while Briones was headed somewhere, he did indeed get lost.  Then he did something that may strike you with terror - he asked someone for directions.  To his surprise, everyone he asked was more or less happy and eager to help.  People like doing things they're good at, and knowing how best to get somewhere is one of those things.
+
+Going back to the Fisher et al. (2015) study above, we tend to offload certain information to our clan when we can rely on those others.  When we have a smartphone, we offload almost everything onto it about the real world that we otherwise would have to remember, including a sense of direction.
+
+Without the smartphone, we're thrown back into a world where we have to remember a lot more stuff, and flex skills we all but have forgotten.  One way to deal with this is to start talking to people again.  
+
+
