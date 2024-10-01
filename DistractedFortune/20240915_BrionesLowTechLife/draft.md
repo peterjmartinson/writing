@@ -49,12 +49,36 @@ As Briones explains, doing this is not foolproof - it doesn't cure the underlyin
 
 One of the earliest obstacles Jose encountered was getting to places.  Modern Man, when he wants to go somewhere, offloads his sense of direction to Apple Maps or Google Maps or the Waze app.  Pop in your destination, and let GPS do its work!
 
-Without a smartphone, you need to plan ahead.  And even then, what happens when you get lost, with no phone to tell you where you are?  Reading a paper map is hard enough when you know where you are on it.
+Without a smartphone, you need to plan ahead.  And even then, what happens when you get lost, with no phone to tell you where you are?  Reading a paper map is hard enough even when you know where you are on it.
 
-One day, while Briones was headed somewhere, he did indeed get lost.  Then he did something that may strike you with terror - he asked someone for directions.  To his surprise, everyone he asked was more or less happy and eager to help.  People like doing things they're good at, and knowing how best to get somewhere is one of those things.
+One day, while Briones was headed somewhere, he did indeed get lost.  Then he did something that may strike you with terror - he started asking strangers for directions.  To his surprise, everyone he asked was more or less happy and eager to help.  People like doing things they're good at, and knowing how best to get somewhere local is one of those things.
 
-Going back to the Fisher et al. (2015) study above, we tend to offload certain information to our clan when we can rely on those others.  When we have a smartphone, we offload almost everything onto it about the real world that we otherwise would have to remember, including a sense of direction.
+Going back to the Fisher et al. (2015) study above, we tend to offload certain information to our clan when we can rely on them to remember something.  When we have a smartphone, we offload almost everything onto it about the real world that we otherwise would have to remember, including a sense of direction.  Without the smartphone, we're thrown back into a world where we have to remember a lot more stuff, and flex skills we all but have forgotten.
 
-Without the smartphone, we're thrown back into a world where we have to remember a lot more stuff, and flex skills we all but have forgotten.  One way to deal with this is to start talking to people again.  
+One way to deal with this is to start talking to people again.  As Briones relates, this leads to building real connection with others, which enriches us far more than relying on the phone.  It enriches the world as well.  When we get back to conversations with strangers, we become agents of rebuilding a true sense of community in our world.
 
+## Low Tech Lifestyle
 
+Well, Jose, when I turn off the TV while my kids are watching it, it only takes a few seconds after the whining stops for them both to say "I'm bored!!"  We're slowly overcoming this as a complaint, but boredom does almost seem like an art lost to the ages.  
+
+First, Briones attempts to craft a lifestyle as far removed from digital electronics as possible.  He does this in a few ways, besides dumbing down his phone.  On the phone itself, Briones limits the app selection to directions, email, and podcasts.  On his personal computer, he first installs a Linux operating system - which traditionally comes with far less bloat than Windows - and then again limits the apps installed to those he absolutely needs.
+
+But he goes further than this.  He puts a charging station at the door of his home, where he and his wife place their phones upon entering.  He got rid of his television, and only watches films once a week using a projector.
+
+Even more extreme, he got rid of his home's WiFi!  Now, they have one room in their home with a dedicated machine connected to the internet via an Ethernet cable.
+
+One thing that Briones doesn't drop is video games.  He curiously limits his gaming time, though, to only during work hours and in his home office.  Personally, I can't imagine a less productive work setup.  However, Briones finds it to be a convenient way to both limit gaming as well as offer a way to revitalize himself during the day.
+
+I had heard of this kind of tactic once before, from my old boss Lyndon LaRouche.  In his autobiography, LaRouche explained that he would go on days-long benders in deep research mode.  During those times, he would handle intellectual exhaustion by listening to and playing classical music.  He found that these intervals of Bach, Mozart, Beethoven and the rest would both refresh his mind, and enhance his ability to think.  Video games are not quite the same as classical music, but Briones's strategy may have a similar effect.
+
+Second, Briones embraces the boredom by filling the time with other productive pursuits.  He reads more books.  He takes power walks, which tend to help him come up with ideas and solve problems.  He has taken up physical hobbies.
+
+And he talks to people, including his family.  According to Briones, this is the real prize for reducing tech exposure.
+
+    We cannot claim to be mindful and present without sharing these qualities in our interactions with the people who matter most in our lives.  By prioritizing quality time with our loved ones and engaging in activities that promote genuine connection, we can reap the benefits of a more balanced and fulfilling life.  this shift in focus allows us to rediscover the joys of simple, shared experiences, fostering a deeper sense of understanding and appreciation for the people around us.  In the end, it is through these meaningul connections that we truly enrich our lives and nurture our well-being.
+
+I should note, after the first few minutes of complaints met by silence, my boys usually do find something non-digital to occupy their hands and minds.
+
+## Conclusion
+
+I found out about this book while reading through the /r/dumbphone subreddit.  It's an interesting place to learn about how others are handling a low tech lifestyle.  And it just so happens that Brioones is the moderatoer of the subreddit.
