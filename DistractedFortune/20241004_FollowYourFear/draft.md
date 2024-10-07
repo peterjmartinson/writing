@@ -1,9 +1,9 @@
 Follow Your Fears
 =================
 
-Once upon a time - ok, fine.  _All the time_, I'm faced with fears, and risk being a coward.
+Once upon a time - ok, fine.  _All the time_, I'm faced with fears, and risk being a coward.  All men have fears, but real men are not governed by them.
 
-I stumbled on a way to make my fears an advantage, though, both at work and in my personal life.  If you follow the advice below, you too can make your fears a source of power, and start crushing life.
+Recently, I stumbled on a way to make my fears an advantage, both at work and in my personal life.  If you follow the advice below, you too can make your fears a source of power, and start crushing life.
 
 ## The Problem
 
@@ -44,19 +44,21 @@ A gnawing fear started to grow in the pit of my stomach.  How do I determine wha
 
 While dealing with this mounting pile of fears for a specific project, it struck me:  a document that laid out how to know if the data was right, complete, and nothing more, would quickly help me get peace of mind.  Well, why shouldn't I be the one to write the document?  It could help someone else who was faced with a similar problem down the line; it could even help future me.
 
-Just this idea helped to quell my fears, and turn them into a plan of action that left me energized.
+The problem here was not that I didn't know how to validate data.  The problem was that the fear was causing paralysis.
 
-So I got to work listing out all the things I was worried about for this project.  That list became the outline for my document, which I filled in while handling each fear in turn.
+The solution, therefore, wasn't a series of steps to ensure data quality in a messy data set.  The solution was rather a strategy to face down a specific fear that stops me from acting.
 
-## Steps to courage and universal acclaim
+For this specific case, I've adopted a habit now of starting every project - whether new or hand-me-down - with the documentation.  If there is no existing document, I'll create one; if there is documentation, I'll add to it.  Besides standard boilerplate information (owner's email, source and target locations, etc.), I'll address any question about the project that give me the least bit of worry or uncertainty.
 
-I'm still in the process of distilling the strategy, so here is the current gameplan.
+## Three steps to courage and universal acclaim
+
+I'm still in the process of distilling the strategy; here is the current working version.
 
 1. Identify your fears
 
-Right after lunch each day (or at 1:00 pm if I miss lunch), I spend about 2 minutes brainstorming about things that are giving me the willies.  These get scrawled out on whatever scrap of paper is near me - usually a catchall notepad on my work desk.  After doing this, I'll eat a small, tasty desert to reinforce the habit.
+Right after lunch each day (or at 1:00 pm if I miss lunch), I spend about 2 minutes brainstorming about things that are giving me the willies.  These get scrawled out on whatever scrap of paper is near me - usually a catchall notepad on my work desk.  After doing this, I'll eat a small, tasty dessert to reinforce the habit.
 
-Sometimes I have a hard time getting started, even though I know those fucking fears are there.  In this case, it helps to have a few categories to interrogate.  Maybe you will have a different list, but here's mine:
+Sometimes I have a hard time getting started, even though I know those fucking fears are in there.  In this case, it helps to have a few categories to interrogate.  Maybe you will have a different list, but here's mine:
 
 - Relationship with Wife
 - Kids and school
@@ -70,23 +72,29 @@ Sometimes I have a hard time getting started, even though I know those fucking f
 
 Trying to take on all the fears will just overwhelm you, so for now just pick one.  Schedule fifteen minutes later that day to interrogate this fear.  Right now, open your calendar app (get one if you don't have one - [Google](https://calendar.google.com/), [Microsoft](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [Apple](https://www.icloud.com/calendar/), whatever), and block out fifteen minutes.
 
-Now, when that time comes, dig into that fear and figure out why it gives you the heebie-jeebies, or at least why you're avoiding it.
+Now, when that time comes, dig into that fear and figure out why it gives you the heebie-jeebies, or at least why you're avoiding action.
 
 For example, say your utility bill is way over budget - isn't it always?  Maybe the gateway fear is, "I don't know where I'm going to get the money for this."  What happens if you don't pay the bill?  More fears - "what if they shut off the electricity?", "What if they charge a late fee?", "What if Wife finds out?"  Tear the fear into pieces so you know exactly what you're dealing with.
 
-3. Identify a core fear that can be addressed as a habit
+3. Identify a core fear that prevents action
 
 Your core fear identifies one uncertainty that prevents you from taking action.  That uncertainty then points to a new habit you can build, so the fear can get effectively neutralized.
 
-Take our bill example from above.  The core fear is "I don't know if I'll screw myself later by paying for this bill now."  The core fear is, in this case, uncertainty about the money situation.
+Take our bill example from above.  The core fear is "I don't know if I'll screw myself later by paying for this bill now."  In other words, it's fear of an unknown money situation.
 
-The habit to build in this case is, start tracking your money and bills.  Granted, easier said than done.  But, a relatively quick first solution here is to start using some kind of budgeting software to track your income and expenses.  These programs usually do a mildly good job of forecasting where you will be a short time in the future, like a few months.  Some good apps are [Simplifi](https://app.simplifimoney.com/), [You Need A Budget](https://www.ynab.com/), or [EveryDollar](https://www.ramseysolutions.com/ramseyplus/everydollar).
+4. Create a habit to address the fear
 
-Now, your habit can be something like, spend 15 minutes with the app every Sunday and Wednesday morning, on the way to work.
+Now that you have shined a light on a specific fear, build one habit to start handling the cause of the fear.  
+
+The habit to build in in our bills example is, start tracking your money.  Granted, easier said than done.  But, a relatively quick first solution here is to start using some kind of budgeting software to track your income and expenses.  These programs usually do a mildly good job of forecasting where you will be a short time in the future, like a few months.  Some good apps are [Simplifi](https://app.simplifimoney.com/), [You Need A Budget](https://www.ynab.com/), or [EveryDollar](https://www.ramseysolutions.com/ramseyplus/everydollar).
+
+Your habit can be to open that app every day during your first coffee break.  Spend 5 minutes to look at your current balance and review bills coming down the line.
+
+## The path to integrity
 
 Notice, this is NOT a strategy to help deal with that one particular problem.  It's a strategy for hunting down weak spots in your life, so these areas can be strengthened.  It's a strategy for becoming a more powerful person overall, which will in turn make these small problems far easier to handle in the future.
 
-## Conclusion
+Right now, grab the nearest piece of paper and a writing instrument, and take two minutes to write down the tasks that worry you.  Afterwards, pick one and use its underlying fears to guide you towards stronger behaviors.
 
-The point here is not to teach you how to pay your bills.  It's to provide one method for finding the holes, the ...
+_If you liked this article, please leave a comment below, share it with someone you know, and get on my email list!_
 
