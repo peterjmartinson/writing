@@ -1,5 +1,5 @@
-Follow Your Fears
-=================
+Focus on Your Fears: A Strategy for Action
+==========================================
 
 Once upon a time - OK, fine.  _All the time_, I'm faced with fears, and risk being a coward.  I'm afraid I can't cover the bills, I'm afraid my wife will think my latest get-rich-scheme will be nuts, I'm afraid the shoes I want will look stupid on my feet.  When there is something I need to do, the biggest impediment to taking action is ALWAYS my fear.
 
@@ -26,13 +26,13 @@ Sometimes, I'll even forget about the problem I fear, until it's too late.
 
 The deep issue here is clear - I'm trying to protect myself from getting hurt in the near term, by putting that hurt into the future and trying to wish it away.
 
-Imagine if this was how the US Congress worked when considering the national deficit!  Oh, wait, that _is_ how the Congress deals with things like this.
+Imagine if this was how the US Congress worked when considering the national deficit!  Oh, wait, [that _is_ how the Congress deals with things like this](https://nlihc.org/resource/lawmakers-depart-capitol-hill-after-passing-bill-maintain-funding-federal-programs-through).
 
 There must be a better way.
 
 If you watch Instagram, you'll know that the only way to deal with fears like this is to feel your feelings and stare your fears down and come into yourself and not be a victim of trauma and whatever.
 
-Instead of that, I'll present here a realistic, concrete way to deal with fears, by hunting for them and following them.
+Instead of that, I'll present here a realistic, concrete way to deal with fears, by hunting for them and making them work for you instead of against you.
 
 ## The Clue, from Work
 
