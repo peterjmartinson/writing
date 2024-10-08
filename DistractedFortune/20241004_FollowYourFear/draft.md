@@ -1,7 +1,9 @@
 Follow Your Fears
 =================
 
-Once upon a time - ok, fine.  _All the time_, I'm faced with fears, and risk being a coward.  All men have fears, but real men are not governed by them.
+Once upon a time - OK, fine.  _All the time_, I'm faced with fears, and risk being a coward.  I'm afraid I can't cover the bills, I'm afraid my wife will think my latest get-rich-scheme will be nuts, I'm afraid the shoes I want will look stupid on my feet.  When there is something I need to do, the biggest impediment to taking action is ALWAYS my fear.
+
+All men have fears, but real men are not governed by them.
 
 Recently, I stumbled on a way to make my fears an advantage, both at work and in my personal life.  If you follow the advice below, you too can make your fears a source of power, and start crushing life.
 
@@ -38,7 +40,7 @@ I stumbled on this technique while worrying about something at work.
 
 I'm a data engineer for a pretty successful hedge fund.  One of the situations I get faced with often is data quality.  In other words, for a given data set, do we have all the data?  Are we missing any data?  Is there any overlap or double counting?  What should I even expect to see?
 
-One day, I was given a dataset that had been manually loaded by someone else months ago.  My job was to automate the loading, but make sure everything got loaded properly.
+One day, I was given a data set that had been manually loaded by someone else months ago.  My job was to automate the loading, but make sure everything got loaded properly.
 
 A gnawing fear started to grow in the pit of my stomach.  How do I determine what "properly loaded" even means in this case?  I don't even know what the data is supposed to represent!  Maybe the existing data set isn't even loaded properly!
 
