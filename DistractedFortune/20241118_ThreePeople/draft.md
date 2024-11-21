@@ -44,13 +44,15 @@ When you try to start a new habit, the Rider is the one who works to tame the Be
 
 3. The Marshall
 
-The third entity is the dreamer and the planner.  When you say to yourself "I need to stop eating all my boy's Halloween candy", that's the Marshall talking.
+The third entity is the planner.  When you say to yourself "I need to stop eating all my boy's Halloween candy", that's the Marshall talking.
 
 The Marshall is the one who comes up with the things you want to do to become a better person, and develops the plan of attack.  It's also the one that gets horrified after you notice you just [doom scrolled the afternoon away](https://distractedfortune.com/lost-in-likes-seize-your-own-attention/).  This is the you, watching yourself.  This is your free will.
 
 In people like you and me, it's also the one who tends to get harassed by that pernicious bully, the [Inner Critic](https://distractedfortune.com/growth-mindset-versus-influencer-defeat-the-beast-to-succeed/).
 
 This group of entities work together to make up who you are and what you do.  The Beast is always on the job, just trying to do what it wants to do.  The Rider is sometimes working in harmony with that Beast, gently guiding it to perform miracles; but sometimes the Rider is asleep at the reins, letting old Beast run on autopilot.  The Marshall sometimes jumps in at a moment's notice, and smacks the Rider "Wake Up!  We can't let Beast do this anymore!", but usually the Marshall comes on the scene when things are calmer, like in the early morning, or when you are reading or learning something new.
+
+For example, Beast is right now reaching in the pantry for your kid's granola bar, because Beast is hungry.  The Rider is trying hard to turn the ship, but to no avail.  Later, after plowing the snack into your face, the Marshall reflects, and starts thinking of ways to either deter the Beast from future snack raids, or how to remove the temptation altogether, because there's no way the Rider can rein in that Beast when there's food on the mind.
 
 ## How to Build Good Habits
 
@@ -100,6 +102,6 @@ The personal trinity may or may not be a real construct, but it certainly helps 
 
 I am sure that if you start thinking like this about your own life, you will find yourself becoming happier and more effective.
 
-So what are you waiting for, Marshall?  Start training your Beast to better obey its Rider!
+So what are you waiting for?  Take five minutes right now to think of times when you couldn't stop your Beast from doing something you want to avoid, and come up with some ways to break that bad habit, and replace it with a good habit.  That's what the Marshall would do!
 
 _If you liked this article, please leave a comment below, share it with someone you know, and get on my email list!_
