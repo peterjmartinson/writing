@@ -30,7 +30,7 @@ set showcmd                         " Show current command & selection length
 set t_Co=256                        " Use 256 colors
 set nohlsearch                      " Do not highlight all occurrences of a search
 set history=200                     " Keep history of 200 commands
-set clipboard=unnamed               " Send yanks to the Windows clipboard!
+set clipboard=unnamedplus           " Send yanks to the Windows clipboard!
 syntax enable                       " Turn on syntax highlighting
 au FileType * set fo-=c fo-=r fo-=o " kill the auto commenting!!
 colorscheme gruvbox
@@ -214,8 +214,6 @@ iabbrev   ADN       AND
 iabbrev   soem      some
 iabbrev   teh       the
 iabbrev   joni      join
-iabbrev   trans     SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED
-iabbrev   TRANS     SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED
 iabbrev   thsi      this
 iabbrev   Thsi      This
 iabbrev   becasue   because
