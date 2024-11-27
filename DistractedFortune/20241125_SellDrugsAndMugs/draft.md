@@ -39,4 +39,34 @@ And I never sold drugs again.
 
 All this came flooding back as I thought about how to maximize my Math Mug gambit a few days ago.  And I realized, I will not be that little kid anymore, but rather work to gain the respect of my customers.
 
-Here are the lessons I learned from that experience, that ...
+Here are a few things I will and won't do with my new gambit:
+
+1. Don't use from your own inventory
+
+What my cheap younger self should have done, is maintain a strict separation between my inventory and my own stash.  In other words, I should not have smoked the weed I intended to sell, but rather bought another bag for myself.  NOTE:  I don't smoke weed anymore :)
+
+This translates to my mug biz like this - I want to drink MY coffee from math mugs!  So instead of nipping one or two from my stock of sellable mugs, I should buy one when I've made enough profit to do so.  Or, convince my supplier to send me a sample.
+
+2. Make a high quality product
+
+My dope biz suffered from my making the bags light.  In other words, my customers did not get their money's worth.
+
+For a coffee cup design company, this means do NOT find the cheapest possible supplier, and use the cheapest possible printing process.  It doesn't mean find the most expensive, either.  It means to find a high-quality supplier, and make sure the mugs are worth the trouble for my customers.
+
+I look at that old Hillary in 2016 mug I have, and see that it's barely legible now.  After a few runs through the dishwasher, it is clear that this was a cheaply made product, not worth the few dollars I threw at it.
+
+3. Do not overprice the product
+
+In my panic to turn a profit, I charged customers more than my skimpy dime bags were worth.  If I were one of those customers, I would find a new dealer.
+
+My goal is to make money.  However, I also want to grow a business.  You can't do that if you treat your customer like a quick buck, by swindling them.  You do that by building a reputation as a straight dealer who respects the people who choose your product, and send you their hard-earned dollar.
+
+Growing money is not made by stiffing individuals, but by volumne of sales.  Tonnage.  I want customers to refer customers, who refer groups, who refer departments, who refer entire organizations to me and my products.  That doesn't happen if I'm clearly trying to bilk my customers out of an extra buck or two.
+
+## Conclusion
+
+I have already come up with four designs, which I'll post when they're digitized.  My next step is to price out a high quality supplier, and set a competitive price for the mug.  Then, I'll send out some sales emails to people I know, and to some mathematics types I don't know, and see if I can hook a few customers.  After getting some prepayments, I'll fulfill the orders!
+
+And, if nobody bites, I'll get suggestions for my next hustle.
+
+What are you waiting for?  Surely there's a product you would want to find that doesn't exist.  get to work!
