@@ -71,16 +71,19 @@ My goal is to make money.  However, I also want to grow a business.  You can't d
 
 Growing money is not made by stiffing individuals, but by volume of sales.  Tonnage.  I want customers to come back to me for more.  And I want them to refer customers, who refer groups, who refer departments, who refer entire organizations to me and my products.  That doesn't happen if I'm clearly trying to bilk my customers out of an extra buck or two.
 
-However, it also doesn't mean I should lose money.  I'll use some math to figure out my cost of production, and do some research on competitor pricing, and use those to make sure my mugs are priced fair.
+However, it also doesn't mean I should lose money.  I'll use some math to figure out my cost of production, do some research on competitor pricing, and use those to make sure my mugs are priced fair.
 
 ## Conclusion
 
 My two first designs are sprinkled through the article.  One mug shows the Pythagorean Theorem, and gives a hint on how to prove it.  The other shows Carl Gauss's statement of the Law of Quadratic Reciprocity, and presents a chart of some examples.
 
-You know you want one.  So what are you waiting for?  Drop me a message below, and maybe we can make a deal.
+Ready to elevate your coffee break? Be one of the first to own a Math Mug! Sign up for our pre-order list to get exclusive discounts and early access to our launch.
+
+Still not convinced? Share your thoughts in the comments below. What kind of math-inspired design would you love to see on a mug?
+
+
+You know you want one.  So what are you waiting for?  Drop me a message below, and maybe we can make a deal.  If you wouldn't buy one for a million years, leave a message anyhow and tell me why not.
 
 At the same time, why not think of a product you wish you could have, but can't find?  If you want it, why wouldn't someone else?
-
-And, if nobody bites, I'll get suggestions for my next hustle.
 
 _If you liked this article, please leave a comment below, share it with someone you know, and get on my email list!_
