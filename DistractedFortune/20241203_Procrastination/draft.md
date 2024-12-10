@@ -38,4 +38,68 @@ One day while following the [ADHD subreddit](https://www.reddit.com/r/adhd), I c
 
 Imagine a scale from 1 to 10.  The scale represents how interesting you find some task.  For most people, there's a division around 3, at which they're willing to get to work.  For ADHD brains, that division is up around 5 or 6.
 
-This is why things like Adderal or Caffeine help us get to work.  Uppers help us drive that interest over the threshold, and then we can get down to business even if we're not really interested in the job.
+This is why things like Adderal or Caffeine help us get to work.  Stimulants help us drive that interest level over the threshold, and then we can get down to business even if we're not really interested in the job.
+
+It is said that ADHD people have a special third stage normies don't, up near 10 on the scale.  This stage, called "hyperfocus" allows us to be so obsessed with the object in our attention that the rest of the world can dissolve away, and we can work for hours.
+
+The problem is, activities rarely make it up to that first threshold for us.  Hence, procrastination.  If something's due in a few days, it's hard to give it the attention it needs.  When the deadline is upon us, though, watch out!  We get driven straight up to 10 with adrenaline, and perform miracles. 
+
+Or disasters.  Usually the end product of these last-minute sprints are mediocre performance at best, and careless accidents and disappointed loved ones at worst.
+
+## Keys to Attention
+
+Here are a few tricks to subvert the usual doldrums.
+
+Before we get to the tricks, though, it's important to mention that [medication](my article) could be useful for you, if prescribed by a licensed professional.
+
+1. Start by doing a minimum
+
+This trick is sometimes referred to as the "2 minute rule".  The idea is, instead of trying to start a big job, pick a tiny piece of it to tackle.  That tiny piece might be enough to get you interested and engrossed.
+
+For example, I try to get a whole blog post out every week.  Sometimes that feels like a really big lift.  Big enough that I'd rather check email.
+
+But if instead of writing a whole article, I commit to just writing one sentence, suddenly it doesn't seem like so much tedious work.  Anyone can write one sentence!  So I'll open the laptop, fire up my editor, and take a minute to bang out a sentence.
+
+Typically, that one sentence turns into more.
+
+2. Use a timer
+
+The classic form of this is called the [Pomodoro Technique](LINK).  "Pomodoro" means Tomato in Italian, which is what the original timer looked like that the inventor of the technique used.  Personally, I use a [Time Timer](LINK) at home, and an [hourglass](LINK) at work.
+
+Set a timer for 15-30 minutes.  Commit to doing your work during that time, and after you can go take a break.  Some people like 25 minutes, because it doesn't have the same emotional baggage as 30.
+
+While working, any thought that comes into your head, just write down a reminder on a piece of paper and get back to work.  You'll be able to take up that thought in just a few more minutes.
+
+A protip here is to put the timer on your phone.  That way you'll be less likely to absent-mindedly pick it up and start scrolling.
+
+3. Procrastinate with another need-to-do
+
+If you just can't get started on the task at hand, pick another task you need to do, and do that one instead.  When that one gets unbearable, try to get on the original task.
+
+Some people find that "anything but this!" is interesting enough to capture their attention.  Maybe you will too.
+
+4. Put your phone in a different room
+
+This one is important.  Nothing is more interesting than your phone.  Even if it doesn't DING!!!, if you can see it you will think about checking it.
+
+The solution is to put that phone somewhere you can't see it.  If it's in another room, it won't distract you as much.  Plus, having to get up to go check it might just be enough friction to prevent you from doing so.
+
+## Get to work
+
+So what are you waiting for?  Try one of the techniques above, and complete that task you've been putting off!
+
+Do you have a tip that helps you get work done, when you just can't find the willpower to move?  Put it in the comments below!  
+
+_If you liked this article, please leave a comment below, share it with someone you know, and get on my email list!_
+
+
+
+
+
+
+
+
+
+
+
+
