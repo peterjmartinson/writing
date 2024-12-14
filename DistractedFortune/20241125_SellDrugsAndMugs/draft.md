@@ -3,19 +3,19 @@ How Selling Drugs Will Help Sell Mugs
 
 _Disclaimer:  this post contains affiliate links.  If you click on them and buy the products, I'll get a cut of the profit.  They're good products!_
 
-The lack of updates on [my last big make money scheme](LINK) means it went nowhere.  Not for lack of ambition, rather for lack of courage and action.
+The lack of updates on [my last big make money scheme](https://distractedfortune.com/cold-calls-your-secret-weapon-for-growth/) means it went nowhere.  Not for lack of ambition, rather for lack of courage and action.
 
 It's time to move onto the next make money quick scheme!
 
-I drink coffee in the morning, as I'm almost sure you do as well.  I drink it as part of my morning routine, which includes [writing a few Morning Pages](LINK).
+I drink coffee in the morning, as I'm almost sure you do as well.  I drink it as part of my morning routine, which includes [writing a few Morning Pages](https://distractedfortune.com/unlock-your-subconscious-the-power-of-morning-pages/).
 
-When I drink coffee, it's important that I pour it into a nice mug.  Our mugs consist of a bunch of plain white ones, an old Hillary in 2018 mug (our Trump 47 mug hasn't arrived yet), a "Nasty Lady" mug (remember those lame [post-Trump protests](LINK)?  They're [still lame](b4 movement)...), and a big one with an O on it.
+When I drink coffee, it's important that I pour it into a nice mug.  Our mugs consist of a bunch of plain white ones, an old Hillary in 2018 mug (our Trump 47 mug hasn't arrived yet), a "Nasty Lady" mug (remember those lame [post-Trump protests](https://en.wikipedia.org/wiki/2017_Women%27s_March)?  They're [still lame](https://www.theguardian.com/us-news/2024/nov/07/4b-movement-trump-women)...), and a big one with an O on it.
 
-I've hunted for mugs with cool math formulas on them for a long time, because I love math.  The only ones you can find are plastered with a bunch of random formulas, or have $E=mc^2$ on them.  I am not interested in popular science mugs - I want to see the [Law of Quadratic Reciprocity](your reddit comment), or a proof of Gauss's [Theorema Egregium](LINK), or a derivation of [Euler's Zeta Function](LINK).
+I've hunted for mugs with cool math formulas on them for a long time, because I love math.  The only ones you can find are plastered with a bunch of random formulas, or have $E=mc^2$ on them.  I am not interested in popular science mugs - I want to see the [Law of Quadratic Reciprocity](your reddit comment), or a proof of Gauss's [Theorema Egregium](https://math.stackexchange.com/questions/1044259/basic-misunderstanding-of-the-theorema-egregium), or a derivation of [Riemann's Zeta Function](https://en.wikipedia.org/wiki/Riemann_zeta_function).
 
 And I thought the other day, maybe other mathematicians would like to get their hands on coffee mugs with serious math on them.  Hence, the Math Mug!
 
-My plan now is to make and sell a hundred million Math Mugs and get rich.  I'll follow [Kagan's blueprint](LINK to my article) in [Million Dollar Morning](https://www.amazon.com/Million-Dollar-Weekend-Surprisingly-7-Figure/dp/059353977X/ref=nosim?tab=distractedfor-2), first target people I know, and hunt for suggestions to make these a no-brainer purchase.  Maybe I'll open an Etsy shop as sales start picking up!
+My plan now is to make and sell a hundred million Math Mugs and get rich.  I'll follow [Kagan's blueprint](https://distractedfortune.com/million-dollar-weekend-the-world-inside-and-the-world-outside/) in [Million Dollar Morning](https://www.amazon.com/Million-Dollar-Weekend-Surprisingly-7-Figure/dp/059353977X/ref=nosim?tab=distractedfor-2), first target people I know, and hunt for suggestions to make these a no-brainer purchase.  Maybe I'll open an Etsy shop as sales start picking up!
 
 ## I am a Drug Dealer!
 
@@ -77,13 +77,8 @@ However, it also doesn't mean I should lose money.  I'll use some math to figure
 
 My two first designs are sprinkled through the article.  One mug shows the Pythagorean Theorem, and gives a hint on how to prove it.  The other shows Carl Gauss's statement of the Law of Quadratic Reciprocity, and presents a chart of some examples.
 
-Ready to elevate your coffee break? Be one of the first to own a Math Mug! Sign up for our pre-order list to get exclusive discounts and early access to our launch.
+Ready to elevate your coffee break? Be one of the first to own a Math Mug!  The first 25 who order one get a 10% discount.
 
-Still not convinced? Share your thoughts in the comments below. What kind of math-inspired design would you love to see on a mug?
-
-
-You know you want one.  So what are you waiting for?  Drop me a message below, and maybe we can make a deal.  If you wouldn't buy one for a million years, leave a message anyhow and tell me why not.
-
-At the same time, why not think of a product you wish you could have, but can't find?  If you want it, why wouldn't someone else?
+Still not convinced? Share your thoughts in the comments below.  What other kinds of math-inspired merch would you like to see?
 
 _If you liked this article, please leave a comment below, share it with someone you know, and get on my email list!_
