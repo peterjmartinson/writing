@@ -11,7 +11,7 @@ It's easy to take failures and use them as bait for your Inner Critic to come ou
 
 The growth mindset says, maybe the evidence suggests an improvement can be made instead.
 
-So I sold a few math mugs!  Three were to myself, of course, as samples.  Two were sold to my father in law, and two to an old friend I used to work with.  They are math people - my father in law has [written several articles about math history](https://larouchepub.com/other/2018/4525-sociopathic_lying_th.html), and my friend just [published a collection of the correspondences](https://www.amazon.com/Battle-Light-Descartes-Sourcebook-Principle/dp/B0DNFXQM5H) of mathematician [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat).
+So I sold a few math mugs!  Three were to myself, of course, as samples.  Two were sold to my father in law, and two to an old friend I used to work with.  They are math people - my father in law has [written several articles about math history](https://larouchepub.com/other/2018/4525-sociopathic_lying_th.html), and my friend just [published a collection of the correspondences](https://www.amazon.com/Battle-Light-Descartes-Sourcebook-Principle/dp/B0DNFXQM5H/ref=nosim?tab=distractedfor-2) of mathematician [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat).
 
 Sure, both sales can be chalked up to sympathy buys, but they helped me complete a few full start-to-finish tests of purchasing.  Both my customers also provided valuable feedback - for example, maybe don't put the whole proof of the Pythagorean Theorem on the mug.
 
@@ -39,7 +39,7 @@ Then, I remembered [my own advice](https://distractedfortune.com/growth-mindset-
 
 First, I got feedback from my Fermat friend.  He said he actually likes the Pythagorean Theorem mug, but is disappointed in the QR one.  "Not a good advertisement for your business!" he says.  Instead of a refund, though, he wanted a replacement with better quality printing.  In other words, he actually likes and wants the mugs!.
 
-Second, I emailed [Printful](LINK) and asked why the mugs look so bad.  Their response was, some crappiness is expected.  But my imagery also was too small for the mug - I need to maximize the size of my images on the cups.  So, I looked around on their site and found [an actual template](https://printful.s3-accelerate.amazonaws.com/upload/guideline/Mug_all_sizes.zip).
+Second, I emailed [Printful](https://www.printful.com) and asked why the mugs look so bad.  Their response was, some crappiness is expected.  But my imagery also was too small for the mug - I need to maximize the size of my images on the cups.  So, I looked around on their site and found [an actual template](https://printful.s3-accelerate.amazonaws.com/upload/guideline/Mug_all_sizes.zip).
 
 I used the template to maximize the space used by my QR text, and also added a little branding so my mugs now advertise my site.
 
@@ -55,7 +55,7 @@ Here are some tips to decide whether your shiny new side hustle is worth the eff
 
 1. Money Invested
 
-In general, it should cost you VERY LITTLE to start your business.  My mug business really cost me zero dollars.  I designed my images using [Inkscape](LINK), a free vector graphics application, [GIMP](LINK), a free paint application, and [LaTeX](LINK), free math typesetting software.  Printful costs no money to get started.
+In general, it should cost you VERY LITTLE to start your business.  My mug business really cost me zero dollars.  I designed my images using [Inkscape](https://inkscape.org/), a free vector graphics application, [GIMP](https://www.gimp.org/), a free paint application, and [LaTeX](https://www.latex-project.org/), free math typesetting software.  Printful costs no money to get started.
 
 The only thing I spent money on are the samples, which cost about $6 per mug.  Now I have three interesting mugs.
 
@@ -73,7 +73,7 @@ If you are studying up on how to start a business, you will have encountered the
 
 While this is true, it shouldn't take too much work to perform validation testing of your idea.  Your first forays into the wild should be with prototypes, with the goal of getting feedback.
 
-I dumped a few hours into my images and into actual mug design on Printful.  Part of my early work was to post a request for proofreading on the [r/math](https://www.reddit/com/r/math/ ??? ) subreddit.  The number and quality of people that helped with comments told me that there was at least interest in the concept of Cool Math On Mugs.
+I dumped a few hours into my images and into actual mug design on Printful.  Part of my early work was to post a request for proofreading on the [r/math](https://www.reddit.com/r/math/comments/1gyfk5t/please_help_proofread_or_improve_these_two/) subreddit.  The number and quality of people that helped with comments told me that there was at least interest in the concept of Cool Math On Mugs.
 
 When I finally sent out my sales emails, I would say I spent 25% of my time on product development, 15% on setting up the online store, 10% on the sales email, and 50% talking myself into continuing.  This added up to maybe 15 hours total.
 
