@@ -5,13 +5,13 @@ _Disclaimer:  this post contains affiliate links.  If you click on them and buy 
 
 What do you do when your first product sample arrives and it sucks?  You either throw the whole idea out as stupid, or you maximize your improvements and try again.
 
-If you've read one of my [earlier posts on the Growth Mindset](https://distractedfortune.com/growth-mindset-versus-influencer-defeat-the-beast-to-succeed/), you know it's important to view failure as evidence to be used to fuel improvement.
+If you've read one of my [earlier posts on the Growth Mindset](https://distractedfortune.com/growth-mindset-versus-influencer-defeat-the-beast-to-succeed/), you know it's important to use failure as information that fuels improvement.
 
-It's easy to take failures and use them as bait for your Inner Critic to come out and punish you.  This manifests in product development as the urge to can the whole enterprise as having been a stupid idea anyway.
+It's easy to take failures and use them as bait for your Inner Critic to come out and punish you.  This manifests in product development as the urge to can the whole enterprise.
 
-The growth mindset says, maybe the evidence suggests an improvement can be made instead.
+The growth mindset says, maybe the evidence suggests an improvement that can be made instead.
 
-So I sold a few math mugs!  Three were to myself, of course, as samples.  Two were sold to my father in law, and two to an old friend I used to work with.  They are math people - my father in law has [written several articles about math history](https://larouchepub.com/other/2018/4525-sociopathic_lying_th.html), and my friend just [published a collection of the correspondences](https://www.amazon.com/Battle-Light-Descartes-Sourcebook-Principle/dp/B0DNFXQM5H/ref=nosim?tab=distractedfor-2) of mathematician [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat).
+[I sold a few math mugs](https://distractedfortune.com/from-selling-drugs-to-selling-mugs/)!  Three were to myself, of course, as samples.  Two were sold to my father in law, and two to an old friend I used to work with.  They are math people - my father in law has [written several articles about math history](https://larouchepub.com/other/2018/4525-sociopathic_lying_th.html), and my friend just [published a book on the discovery the principle of least action](https://www.amazon.com/Battle-Light-Descartes-Sourcebook-Principle/dp/B0DNFXQM5H/ref=nosim?tab=distractedfor-2) by mathematician [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat).
 
 Sure, both sales can be chalked up to sympathy buys, but they helped me complete a few full start-to-finish tests of purchasing.  Both my customers also provided valuable feedback - for example, maybe don't put the whole proof of the Pythagorean Theorem on the mug.
 
@@ -23,7 +23,7 @@ The chart, which should be imposing and thought provoking, was too hard to read 
 
 [IMAGE QR chart]
 
-My Trigonometric Functions mug would have been great, except for the ghosting of the text.
+My Trigonometric Functions mug would have been great, except for the bluish ghosting.
 
 [IMAGE trig functions]
 
@@ -37,7 +37,7 @@ My first reaction was that this was a dead idea from the beginning.  Who will bu
 
 Then, I remembered [my own advice](https://distractedfortune.com/growth-mindset-versus-influencer-defeat-the-beast-to-succeed/), and decided to instead try to improve the product, and get the best result possible from the producer.  Changing course like this feels like steering the ship into the wind - it takes almost physical force, even though it's just mental work.
 
-First, I got feedback from my Fermat friend.  He said he actually likes the Pythagorean Theorem mug, but is disappointed in the QR one.  "Not a good advertisement for your business!" he says.  Instead of a refund, though, he wanted a replacement with better quality printing.  In other words, he actually likes and wants the mugs!.
+First, I got feedback from my Fermat friend.  He said he actually likes the Pythagorean Theorem mug, but is disappointed in the QR one.  "Not a good advertisement for your business!" he said.  Instead of a refund, though, he wanted a replacement with better quality printing.  In other words, he actually likes and wants the mugs!.
 
 Second, I emailed [Printful](https://www.printful.com) and asked why the mugs look so bad.  Their response was, some crappiness is expected.  But my imagery also was too small for the mug - I need to maximize the size of my images on the cups.  So, I looked around on their site and found [an actual template](https://printful.s3-accelerate.amazonaws.com/upload/guideline/Mug_all_sizes.zip).
 
@@ -55,9 +55,9 @@ Here are some tips to decide whether your shiny new side hustle is worth the eff
 
 1. Money Invested
 
-In general, it should cost you VERY LITTLE to start your business.  My mug business really cost me zero dollars.  I designed my images using [Inkscape](https://inkscape.org/), a free vector graphics application, [GIMP](https://www.gimp.org/), a free paint application, and [LaTeX](https://www.latex-project.org/), free math typesetting software.  Printful costs no money to get started.
+In general, it should cost you VERY LITTLE to start your business.  My mug business really cost me zero dollars.  I designed my images using the free vector graphics application [Inkscape](https://inkscape.org/), the free paint application [GIMP](https://www.gimp.org/), and the free math typesetting software [LaTeX](https://www.latex-project.org/).  Printful itself costs no money to get started.
 
-The only thing I spent money on are the samples, which cost about $6 per mug.  Now I have three interesting mugs.
+The only thing I spent money on are the samples, which cost about $6 per mug.  Now I have three interesting mugs to drink coffee from.
 
 If I had spent $1000 to start, and found myself at the same point, I'd stop.
 
@@ -99,11 +99,12 @@ Pro Tip:  Product Modification
 
 Along with good and bad responses to your sales pitch, you should solicit suggestions for improvement of the product.  In my sales email, I include the following
 
-
 "If you have any suggestions on how to improve this idea and make the purchase a no-brainer, or other math that you would like to see, let me know."
 
 If nobody buys your product, but you get some suggestions for how to modify the design to make it desirable, then make the modifications and try again!
 
 I hope you found this article useful, and that it prods you to go try your own sales experiments.  If you try something, and it doesn't quite work, please leave a comment!
+
+Also, go buy a [Math Mug](https://distractedfortune.com/shop/).
 
 _If you liked this article, please leave a comment below, share it with someone you know, and get on my email list!_
