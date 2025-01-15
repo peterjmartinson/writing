@@ -27,6 +27,34 @@ With an email list, you can target your own patrons.  And, if one of the ad plat
 
 Also, with an email list, you can get rapid feedback about content or products.  Your readers will tell you if they liked an article, or if something just sucked.  For example, someone may forward one of your emails to a friend.  Or, they may unsubscribe, which is also valuable feedback.
 
+## Why do you need so many plugins?
+
+I'll go through the steps needed to create a newsletter below.  The first thing I thought is, why is there not just one thing to install?
+
+The real answer is probably, because I'm unwilling to spend money on it until I need to.
+
+When you send an email, the recipient's email provider (Gmail, Hotmail, Yahoo, etc.) runs the email through a few checks to determine if it's a legitimate email or spam.
+
+Wordpress has a native email system that runs from its PHP code.  When an email provider gets an email sent from PHP, it looks like an email sent by a computer program, so it gets marked spam.
+
+Now, since we DO want to send emails in an automated way (like a [welcome mat](LINK) series), we need to make our emails look like they came from a person, which means, at the least, from another email provider.  So we need a plugin that will link Wordpress to one of those providers.
+
+Plugin one - link between Wordpress and Email provider
+
+Then, we need some kind of software that actually sends the email from an email provider.  If you want to use the same plugin, you need to pay.  Since we're going cheap, we need another plugin.
+
+Plugin two - something that actually hits "send" on the email.
+
+Surely one of these plugins can be used to actually capture the emails of people that visit the site, and put them into the list, right?
+
+Nope.  You need another plugin to capture the emails.
+
+Plugin three - something that captures emails into a list.
+
+Luckily, I found that the same free plugin can be used to create the form where your reader types his or her email, as well as the system that aggregates those emails int a list.
+
+
+
 ## The Email Capture Pipeline
 
 
