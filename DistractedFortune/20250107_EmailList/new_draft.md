@@ -3,19 +3,21 @@ How and why to build an email list
 
 I often get asked (OK, nobody has ever asked) how I grew my email list.  At the moment, I have one subscriber - myself! - so I can't comment on the "grow" part of that question.
 
-However, I have been building the capability into my blog recently.
+I have been building the capability into my blog recently.
 
 If you are anything like me, you have yet to master time blocking, which means your side projects tend to be done in five to fifteen minute intervals during the day.  It is HARD to get something coherent completed like this.  Especially something that is new and technical.
 
 For example, I find that I can write in small time chunks.  Between those chunks, I think about how to structure my articles, come up with better ways to phrase things, and solve various other content issues.
 
-However, adding functionality to the blog's website is very difficult to do in tiny bites, because it's more of a muscle memory operation, which requires remembering the location of menu items or order of operations, as well as time on the internets evaluating various options and vendors.
+Conversely, adding functionality to the blog's website is very difficult to do in tiny bites, because it's more of a muscle memory operation, which requires remembering the location of menu items or order of operations, as well as time on the internets evaluating various options and vendors.
+
+However, I found a bit of a shortcut, which I'll reveal down below.
 
 This article will give you a few tips for how to get an email capture system up and running with the least amount of hair pulling and teeth gnashing, so you can get back to work producing content.  Or whatever it is you do with your site.
 
 ## Why build an email list?
 
-You need a reason to set up an email capture system.  Without a reason to prod you in the butt, you will never get it done.
+First, you need a reason to set up an email capture system.  Without a reason to prod you in the butt, [you will never get it done](LINK my procrastination article).
 
 Your email list is your gold for any kind of modern entrepreneurship.  It is your audience.  It represents your ability to grow, sell, and communicate.
 
@@ -31,7 +33,7 @@ Now that you're convinced you need the emails, let's get into the weeds.
 
 ## Why do you need so many plugins?
 
-When you get down to business setting up the email capture system, the instructions are pretty clear.  First do this, then this, then this, then this, then this, then...  Well, it's not so simple.
+When you get down to business setting up the email capture system, the instructions are pretty clear.  First do [this](LINK), then [this](LINK), then [this](LINK), then [this](LINK), then [this](LINK), then...  Well, it's not so simple.
 
 Why is there not just one thing to install?  Why do I need to set up so many different components!?
 
@@ -43,34 +45,40 @@ Nope.  You need another plugin to capture the emails.
 
 Plugin three - something that captures emails into a list.
 
-Luckily, I found that the same free plugin can be used to create the form where your reader types his or her email, as well as the system that aggregates those emails int a list.
+Nightmare if you're doing this in chunks.
 
+Luckily, I found a shortcut, at least if you're on [Wordpress](LINK).  Probably other blogging platforms have similar tools.
 
+That shortcut is called [Jetpack](LINK).  You probably know Jetpack as the app that keeps track of how many people visit your site every day.  Or, it's the annoying thing you need to get to while setting up your initial blog, switches for speeding up the site or whatever.
 
-## The Email Capture Checklist
+But Jetpack has the ability to both capture subscriber email addresses, and to email newsletters to those subscribers.  The main function of Jetpack's newsletter is to alert your subscribers to new blog posts.  Other plugins can do email campaigns or other email-only things, but I found a way to arrange things so you can make an actual newsletter.
 
-<note Make a checklist that can be followed in 5-15 minute chunks>
+It's not perfect, but it's free.  Which is pretty close.
 
-<note Need a reason for people to leave their email address.  Hook - newsletter>
+## How to set up your first newsletter
 
-WP Forms - used to create the actual form to enter email into
-What's a "form"?
+Here are a few steps you can use to get your own Wordpress-Jetpack email capture system set up.
 
-Constant Contact - is this what's used to contain the email list?
+1. Find Jetpack in the wp-admin dashboard
 
-Template becomes a Block in WP
+The dashboard is where you find all the controls for your blog.  The left panel shows kind of a jumbled mess of links, one of which says "Jetpack".
 
-Optin Monster - does "exit-intent" popups.  But, costs $$
+<note IMAGE OF THE WP-ADMIN SIDE PANEL >
 
-Types of forms:
-    Exit Intent - pops up when you're leaving the site
-    Welcome Mat - full screen dynamic overlay
-    Slide in form - little thing in the corner
-    Floating Bar
+It's probably very well organized, but that's beyond my powers of 5 minute focus.  Click on Jetpack.
 
-This is and advertisement!
+2. Jetpack Settings
 
+First, notice that one of the links in the Jetpack drop down is "Subscribers".  If you click that, you'll be taken to Jetpack's own dashboard, where you can actually see your subscribers.  You can get right back to wp-admin with a link on Jetpack's Dashboard's menu panel on the left.
 
-## Some resources
+Another link is "Settings".  Click that.
 
+3. Jetpack Settings > Subscribers  <note CHECK THIS!! >
 
+Jetpack comes with an email capture system baked in!  Look at all the switches to just turn it on!
+
+Flip them all on - you can see which ones in my image below.
+
+<note IMAGE OF YOUR FORM SETTING SWITCHES>
+
+4. Configure the form on your post page.
