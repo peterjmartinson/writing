@@ -1,9 +1,9 @@
 How and why to build an email list
 ==================================
 
-I often get asked (OK, nobody has ever asked) how I grew my email list.  At the moment, I have one subscriber - myself! - so I can't comment on the "grow" part of that question.
+I often get asked (OK, nobody has ever asked) how I grow my email list.  At the moment, I have one subscriber - myself! - so I can't comment on the "grow" part of that question.
 
-I have been building the capability into my blog recently.
+I have been building the capability into my blog recently, though.
 
 If you are anything like me, you have yet to master time blocking, which means your side projects tend to be done in five to fifteen minute intervals during the day.  It is HARD to get something coherent completed like this.  Especially something that is new and technical.
 
@@ -43,21 +43,21 @@ Surely one of these plugins can be used to actually capture the emails of people
 
 Nope.  You need another plugin to capture the emails.
 
-Plugin three - something that captures emails into a list.
+Plugin number three or four - something that captures emails into a list.
 
-Nightmare if you're doing this in chunks.
+And that's a nightmare if you're doing this in chunks.
 
 Luckily, I found a shortcut, at least if you're on [Wordpress](LINK).  Probably other blogging platforms have similar tools.
 
-That shortcut is called [Jetpack](LINK).  You probably know Jetpack as the app that keeps track of how many people visit your site every day.  Or, it's the annoying thing you need to get to while setting up your initial blog, switches for speeding up the site or whatever.
+That shortcut is called [Jetpack](LINK).  You probably know Jetpack as the app that keeps track of how many people visit your site every day.  Or, it's the annoying thing you need to handle while setting up your initial blog, switches for speeding up the site or whatever.
 
-But Jetpack has the ability to both capture subscriber email addresses, and to email newsletters to those subscribers.  The main function of Jetpack's newsletter is to alert your subscribers to new blog posts.  Other plugins can do email campaigns or other email-only things, but I found a way to arrange things so you can make an actual newsletter.
+But Jetpack has the ability to both capture subscriber email addresses, and to email newsletters to those subscribers.  The main function of Jetpack's newsletter is to alert your subscribers to new blog posts.  Other plugins can do special email campaigns or other email-only things, but I found a way to arrange things so you can make an actual newsletter.
 
 It's not perfect, but it's free.  Which is pretty close.
 
-## How to set up your first newsletter
+## Your First Newsletter
 
-Here are a few steps you can use to get your own Wordpress-Jetpack email capture system set up.
+Here's how I set up my newsletter-email-capture system.
 
 1. Find Jetpack in the wp-admin dashboard
 
@@ -75,10 +75,24 @@ Another link is "Settings".  Click that.
 
 3. Jetpack Settings > Subscribers  <note CHECK THIS!! >
 
-Jetpack comes with an email capture system baked in!  Look at all the switches to just turn it on!
+Jetpack comes with an email capture system baked in!  Look at all the switches that allow you to just turn it on!
 
-Flip them all on - you can see which ones in my image below.
+Flip them on - you can see which ones in my image below.
 
 <note IMAGE OF YOUR FORM SETTING SWITCHES>
 
 4. Configure the form on your post page.
+
+A "form" is the web's fancy term for a place where you can fill in some information on a webpage.  Jetpack's email capture form is just one blank and one button.  That's all I want.  Every extra blank someone needs to fill out adds friction to the process.  I want my subscribers to be able to subscribe with close to zero effort, or else they won't.
+
+One of the switches adds the form to your blog post page template.  This means it will automatically appear at the bottom of every post you write.  There's a link right next to the switch that says <note more something>.  If you click here, you'll be taken to that template, where you can edit the text that appears around the form.
+
+<note IMAGE OF THE POST TEMPLATE PAGE>
+
+5. Dammit, save everything!
+
+All the changes I made were automatically saved, except for the change to my post template.  Just in case, double check that there's no `save` button you need to click.
+
+6. Write your newsletter as a blog post, with one modification.
+
+My newsletter is composed just like any other blog post.  After writing the thing, you get the option of posting it, or posting _and_ emailing it.
