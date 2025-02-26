@@ -95,4 +95,14 @@ All the changes I made were automatically saved, except for the change to my pos
 
 6. Write your newsletter as a blog post, with one modification.
 
-My newsletter is composed just like any other blog post.  After writing the thing, you get the option of posting it, or posting _and_ emailing it.
+My newsletter is composed just like any other blog post.  After writing the thing, you get the option of posting it, or posting _and_ emailing it.  Choose the second option, and this thing will go out as an email to all your subscribers!
+
+However, my advice at this point is to send a couple test emails, just so you're sure the thing looks like you want it to.  It will get sent to whatever email you set up as the main admin email for your website.
+
+7. Pro Tip: separate blog posts and newsletters.
+
+When you finally publish you newsletter, it will go out to your subscriber list.  It will also get published as a regular blog post.  If that's what you want, then fine.
+
+For me, I want my newsletters to be distinct from my blog posts.
+
+So, I created a new page...  and?
