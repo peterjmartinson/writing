@@ -17,6 +17,27 @@ I had a bunch of thoughts about how to cast the issue in a novel way, and decide
 
 So, buckle up.
 
+## 1. Your senses are reliable liars
+
+This may seem like an esoteric topic right out of a lame philosophy class, but it's important for what comes next.
+
+Since at least Plato, philosophers have chewed on whether our senses give an accurate representation of the world outside our bodies.  For example, [Plato's Cave](LINK).  My first deep dive into this topic was through the writings of economist Lyndon LaRouche, who just died back in 2018.  So, it's been a long chew.
+
+I think [LaRouche](LINK sensorium article) is right on the mark here.
+
+For example, take your weight.  Yes, you are fat, but that's a different issue.  When you weigh yourself, you learn how much you weigh by looking at which number is indicated on the scale's display.  The display is sometimes an arrow that points at numbers written on a kind of ruler, or sometimes it's a digital monitor that just shows the numbers.
+
+Either way, your _weight_ does not look like the _numbers_ on the scale.  Your weight is a complex interaction between the Earth and your body, mediated through what we call gravity.  Gravity, also, does not look like numbers, or an arrow, or the scale itself.
+
+That scale is just like the rest of your senses.  You think you're seeing something outside your body right now, as you read this article.  But you're not.  Your brain is generating a pattern that your mind reads as an image.  That pattern is a response to what's happening on your retinas, in your eyes.  Light from the computer screen has propagated to the surface of your eyeballs, through your lenses - where the image gets flipped upside down - and then meets your retinas.  The structures on your retinas (pigments) then send _electric_ signals into your optic nerves.  Those signals then get translated into _chemical_ motions through those nerves up into your brain.  The _electrochemical_ signals then get translated again into patterns within your brain.
+
+Those patterns are very much _not_ the same thing as the computer screen.
+
+All of your senses are really just instrumentation to translate signals from outside your body into signals in your brain.  For all you know, all the things you think are happening outside your body are really just things your sense perceptions are doing.  How do you even know there's something outside your body?  You're really only perceiving your body's sense surfaces and interpreting those!
+
+## 2. Orbits
+
+
 ## Asteroids perturbed mathematician Carl Gauss
 
 Gauss discovered the orbit of the first asteroid, Ceres, right at the dawn of the 19th Century.  The object had been spotted less than a year earlier, and astronomers around Europe scrambled to determine its orbit.  There were two concerns here - 1. without an accurate orbit, we might not be able to find Ceres again, and 2. whoever determined the orbit would win instant fame.
