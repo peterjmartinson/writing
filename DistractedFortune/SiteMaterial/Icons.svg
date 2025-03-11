@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="119.44866mm"
+   height="119.44867mm"
+   viewBox="0 0 119.44866 119.44867"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   sodipodi:docname="Icons.svg"
+   inkscape:export-filename="favicon_bw_512.png"
+   inkscape:export-xdpi="108.87355"
+   inkscape:export-ydpi="108.87355"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.8251913"
+     inkscape:cx="225.72976"
+     inkscape:cy="225.72976"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="square"
+     style="display:none"
+     transform="translate(-44.62217,-57.237459)">
+    <rect
+       style="fill:#000000;stroke-width:0.865"
+       id="rect1"
+       width="118.58373"
+       height="118.58373"
+       x="45.054611"
+       y="57.669899" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Beige"
+     style="display:inline"
+     transform="translate(-44.62217,-57.237459)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="triangle">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.865;stroke-linejoin:round"
+         d="M 45.054609,176.25363 163.63833,57.669898 V 176.25363 Z"
+         id="path1"
+         inkscape:label="lower" />
+      <path
+         style="fill:#d0b874;stroke:#000000;stroke-width:0.865;stroke-linejoin:round"
+         d="M 45.054609,176.25363 163.63833,57.669898 H 45.054609 Z"
+         id="path2"
+         inkscape:label="upper" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g10"
+       inkscape:label="text"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.865"
+         x="54.753738"
+         y="120.22327"
+         id="text9"
+         inkscape:label="D"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.865"
+           x="54.753738"
+           y="120.22327">D</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.865"
+         x="112.46741"
+         y="169.19096"
+         id="text10"
+         inkscape:label="F"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.865"
+           x="112.46741"
+           y="169.19096">F</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Guides"
+     style="display:none"
+     transform="translate(-44.62217,-57.237459)">
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.865"
+       d="M 45.054609,57.669898 163.63833,176.25363"
+       id="path3" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.865"
+       d="M 104.34647,57.669898 45.054609,116.96176"
+       id="path4" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.865"
+       d="m 163.63833,116.96176 -59.29186,59.29187"
+       id="path5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g9"
+     inkscape:label="BW"
+     style="display:none"
+     transform="translate(-44.62217,-57.237459)">
+    <g
+       inkscape:groupmode="layer"
+       id="g7"
+       inkscape:label="triangle">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round"
+         d="M 45.054609,176.25363 163.63833,57.669898 V 176.25363 Z"
+         id="path6"
+         inkscape:label="lower" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.865;stroke-linejoin:round"
+         d="M 45.054609,176.25363 163.63833,57.669898 H 45.054609 Z"
+         id="path7"
+         inkscape:label="upper" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g8"
+       inkscape:label="text">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:0.865"
+         x="54.753738"
+         y="120.22327"
+         id="text7"
+         inkscape:label="D"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke:#ffffff;stroke-width:0.865"
+           x="54.753738"
+           y="120.22327">D</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.865"
+         x="112.46741"
+         y="169.19096"
+         id="text8"
+         inkscape:label="F"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.865"
+           x="112.46741"
+           y="169.19096">F</tspan></text>
+    </g>
+  </g>
+</svg>
