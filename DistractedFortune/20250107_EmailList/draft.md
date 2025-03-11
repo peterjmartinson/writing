@@ -27,7 +27,9 @@ With an email list, you can target your own patrons.  And, if one of the ad plat
 
 Also, with an email list, you can get rapid feedback about content or products.  Your readers will tell you if they liked an article, or if something just sucked.  For example, someone may forward one of your emails to a friend.  Or, they may unsubscribe, which is also valuable feedback.
 
-## The Email Capture Pipeline
+## Why the hell are there so many plugins!?
+
+
 
 
 
