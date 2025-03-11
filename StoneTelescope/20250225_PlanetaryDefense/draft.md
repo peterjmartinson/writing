@@ -35,13 +35,53 @@ Those patterns are very much _not_ the same thing as the computer screen.
 
 All of your senses are really just instrumentation to translate signals from outside your body into signals in your brain.  For all you know, all the things you think are happening outside your body are really just things your sense perceptions are doing.  How do you even know there's something outside your body?  You're really only perceiving your body's sense surfaces and interpreting those!
 
-## 2. Orbits
+## 2. Gauss was Perturbed
+
+After Carl Gauss discovered the orbit of the first asteroid, Ceres, astronomers found it to be just about exactly where Gauss had predicted.  Thus ensued a flurry of renewed observations of the new cosmic wanderer, the which were used to further refine its orbital elements.
+
+As part of this bustle of activity, European astronomers sought collaboration with young Gauss, and his written correspondence quickly grew voluminous.  Besides discovering more asteroids and calculating their orbits, Gauss's primary concern in these correspondences was to obtain observations that indicate _deviations_ from perfectly elliptical orbits.  These are the _perturbations_.
+
+Perturbations are typically cast as nudges provided by close encounters with larger planetary objects - specifically Jupiter, in the case of the early asteroids.  From what little I've read of this correspondence, as well as Gauss's own celestial mechanics textbook, Gauss publicly entertained this belief as fact.
+
+However, it is well known that, especially early on in the reign of the French Revulsion's Napoleon, Gauss guarded his true thoughts with a zeal verging on paranoia.  Exhibit: Gauss waited almost a decade to reveal his original method to calculate the orbit of Ceres.
+
+I suspect that Gauss had other interests that drove his interest in the planetary perturbations.  Other than the incredible opportunity for continental networking the research provided.
+
+Below are some ideas of what I think Gauss hoped to find.  And which I think should form part of a research program included under the rubric of Planetary Defense.
+
+3. Elliptical Functions
+
+The last, unpublished, chapter of Gauss's _Disquisitiones Arithmetica_ was intended to be an extension of his circle division program into elliptical functions.  Gauss hinted at this extended investigation at the end of the published book, when he indicated his method could also be used to understand the nature of the lemniscate function.
+
+Indeed, a look at his unpublished _Tagebuch_ proves that Gauss was obsessed with elliptical functions early in his mathematical career, and had already captured the essential principles by age 30.
+
+Many years later, Niels Abel would send his manuscript on elliptical functions to Jean-Pierre Cauchy, who promptly buried the masterpiece until Abel's body was safely buried with the worms back in Norway.  In the paper, Abel showed how to accomplish Gauss's division of the lemniscate, and in the process, showed how to flesh out the characteristics of an unseen inverse transcendental function.  Abel also indicated that his researches uncovered a vast realm of new transcendental functions of which the elliptics form only a small subset.
+
+Gauss knew that mathematics was not the nerdy flashing around of new combinations of symbols.  Rather, mathematics was an evolving language mankind has been building up, that describes the interaction between universal principles and human creativity.
+
+In other words, mathematics doesn't start with assumptions.  Mathematics starts with physics.
+
+Maybe Gauss wanted anomalies in perfectly elliptical orbits, which are most obvious in the least massive orbiting objects, in hopes those anomalies would point toward deeper principles behind the elliptical functions.  Perhaps there is a correspondence between those asteroidal perturbations and the higher transcendentals discovered by Abel.
+
+If this is the case, then clearly the asteroids are not getting "tugged" out of their natural orbits by the "tug" of other planets.  In fact, it means there is no tugging at all.  Rather, there is a higher harmonic principle at work which governs not only the orbits of the asteroids, but of the other planets as well.
+
+I read somewhere, though I can't find the reference anymore, that Johannes Kepler, himself, was interested in pursuing purturbation deviations as well late in his career.
+
+
+
+
+
+However, I suspect that, as a consequence of Gauss's paranoia about showing people how he really thought about the world, Newtonian tugs were just a cover story for a deeper significance.
+
+
+
+
 
 
 ## Asteroids perturbed mathematician Carl Gauss
 
 Gauss discovered the orbit of the first asteroid, Ceres, right at the dawn of the 19th Century.  The object had been spotted less than a year earlier, and astronomers around Europe scrambled to determine its orbit.  There were two concerns here - 1. without an accurate orbit, we might not be able to find Ceres again, and 2. whoever determined the orbit would win instant fame.
 
-Then, almost out of nowhere, Gauss published his orbit in _Crelle's Journal_.  The European science community was stunned.  When Ceres was spotted again, exactly as predicted by 24 year old Gauss, the European science community exploded with excitement.
+Then, almost out of nowhere, Gauss published his orbit in von Zach's _Monatlische Correspondenz_.  The European science community was stunned.  When Ceres was spotted again, exactly as predicted by 24 year old Gauss, the European science community exploded with excitement.
 
-Gauss soon became innundated with correspondence, some containing accolades, some containing invitations, and some containing requests for collaboration.  Instead of telling people how he figured out the orbit, Gauss was already excited about the next step.
+Gauss soon became inundated with correspondence, some containing accolades, some containing invitations, and some containing requests for collaboration.  Instead of telling people how he figured out the orbit, Gauss was already excited about the next step.
