@@ -3,15 +3,17 @@ How Carl Gauss Will Save Us From Extinction
 
 News has been ablaze recently with impending catastrophe.  A juggernaut is coming straight for us, all of us.  And unless we act now, we have no hope of survival.
 
-No, we're not talking about President Trump here.  We're talking about an asteroid.
+No, we're not talking about President Trump.  We're talking about an asteroid.
 
-Asteroid 2024 YR4 was discovered during late 2024.  Since then, astronomers and aficionados have worked to refine our estimates of its orbit, specifically to determine the likelihood it will slam into the Earth a few years down the road.  It may be big enough to take out a whole city.  Or a whole nation.  It may have a 0% chance of hitting us, or a 5% chance.
+Asteroid 2024 YR4 was discovered during late 2024.  Since then, astronomers and aficionados have worked to refine our estimates of its orbit, specifically to determine the likelihood it will slam into the Earth a few years down the road.  It may be big enough to take out a whole city.  Or a whole nation.  It may have a 5% chance of hitting us, or a 0% chance.
 
-The latest estimate is that there's around a 0% chance it will hit us, but the news successfully put asteroid defense into the public imagination.
+The [latest estimate](https://blogs.nasa.gov/planetarydefense/2025/02/24/latest-calculations-conclude-asteroid-2024-yr4-now-poses-no-significant-threat-to-earth-in-2032-and-beyond/) is that there's around a 0% chance it will hit us, but the news successfully put asteroid defense into the public imagination.
 
 Currently, astronomers and asteroid hunters think we've found less than half the asteroids that cross the Earth's orbit - "Near Earth Objects", or NEOs.  While calculating probabilities Asteroid 2024 YR4 will hit us, did the one that has a 75% chance of hitting us go undetected?
 
 Diane Sare, oft time candidate for Senate in New Jersey, suggested to me and a few others that we should convene a few symposia to discuss what should be done about this asteroid threat.  She specifically suggested this could become a real project that draws all the great national powers together and lays the foundations for a lasting peace.
+
+Back during the reign of President Obama, Russia proposed a program called "Strategic Defense of Earth", or [SDE](https://www.rt.com/russia/missile-defense-earth-nato-085/), which rang suspiciously reminiscent of Reagan's SDI program.  The SDE was intended to be an international collaboration around safeguarding the Earth from Asteroid threats.  After a few meetings on the concept, it sputtered into some more smoke from the Brzezinski kindergarten's post-Cold War demands for nuclear war between Russia and NATO.
 
 I had a bunch of thoughts about how to cast the issue in a novel way, and decided, instead of wasting an email on it, why not publish all my conspiracy theories online for all to see?
 
@@ -23,7 +25,7 @@ So, buckle up.
 
 This may seem like an esoteric topic right out of a lame philosophy class, but it's important for what comes next.
 
-Since at least Plato, philosophers have chewed on whether our senses give an accurate representation of the world outside our bodies.  For example, [Plato's Cave](LINK).  My first deep dive into this topic was through the writings of economist Lyndon LaRouche, who just died back in 2018.  So, it's been a long chew.
+Since at least Plato, philosophers have chewed on whether our senses give an accurate representation of the world outside our bodies.  For example, [Plato's Cave](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D7).  My first deep dive into this topic was through the writings of economist Lyndon LaRouche, who just died back in 2018.  So, it's been a long chew.
 
 I think [LaRouche](https://larouchepub.com/eiw/public/2003/eirv30n27-20030711/eirv30n27-20030711_016-science_for_teachers_visualizing-lar.pdf) is right on the mark here.
 
