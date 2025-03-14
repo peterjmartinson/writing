@@ -11,9 +11,9 @@ The [latest estimate](https://blogs.nasa.gov/planetarydefense/2025/02/24/latest-
 
 Currently, astronomers and asteroid hunters think we've found less than half the asteroids that cross the Earth's orbit - "Near Earth Objects", or NEOs.  While calculating probabilities Asteroid 2024 YR4 will hit us, did the one that has a 75% chance of hitting us go undetected?
 
-Diane Sare, oft time candidate for Senate in New Jersey, suggested to me and a few others that we should convene a few symposia to discuss what should be done about this asteroid threat.  She specifically suggested this could become a real project that draws all the great national powers together and lays the foundations for a lasting peace.
+[Diane Sare](https://thehunterenvoy.org/2024/11/23/who-is-diane-sare-and-why-was-she-on-the-new-york-ballot/), oft time candidate for Senate in New Jersey, suggested to me and a few others that we should convene a few symposia to discuss what should be done about this asteroid threat.  She specifically suggested this could become a real project that draws all the great national powers together and lays the foundations for a lasting peace.
 
-Back during the reign of President Obama, Russia proposed a program called "Strategic Defense of Earth", or [SDE](https://www.rt.com/russia/missile-defense-earth-nato-085/), which rang suspiciously reminiscent of Reagan's SDI program.  The SDE was intended to be an international collaboration around safeguarding the Earth from Asteroid threats.  After a few meetings on the concept, it sputtered into some more smoke from the Brzezinski kindergarten's post-Cold War demands for nuclear war between Russia and NATO.
+Back during the reign of President Obama, Russia proposed a program called "Strategic Defense of Earth", or [SDE](https://www.rt.com/russia/missile-defense-earth-nato-085/), which rang suspiciously reminiscent of Reagan's SDI program.  The SDE was intended to be an international collaboration around safeguarding the Earth from Asteroid threats.  After a few meetings on the concept, it sputtered into some more dissipating smoke in the midst of the Brzezinski kindergarten's post-Cold War demands for nuclear war between Russia and NATO.
 
 I had a bunch of thoughts about how to cast the issue in a novel way, and decided, instead of wasting an email on it, why not publish all my conspiracy theories online for all to see?
 
@@ -33,7 +33,7 @@ For example, take your weight.  Yes, you have gotten fat, but that's a different
 
 Either way, your _weight_ does not look like the _numbers_ on the scale.  Your weight is a complex interaction between the Earth and your body, mediated through what we call gravity.  Gravity, also, does not look like numbers, or an arrow, or the scale itself.
 
-That scale is just like the rest of your senses, like your sense of sight.  You think you're seeing something outside your body right now, as you read this article.  But you're not.  Your brain is generating a pattern that your mind reads as an image.  That pattern is a response to what's happening on your retinas, in your eyes.  Light from the computer screen has propagated to the surface of your eyeballs, through your lenses - where the image gets flipped upside down - and then meets your retinas.  The structures on your retinas (pigments, "rods and cones") then send _electric_ signals into your optic nerves.  Those signals then get translated into _chemical_ motions through those nerves up into your brain.  The _electrochemical_ signals then get translated again into patterns within your brain.
+That scale is just like the rest of your senses, like your sense of sight.  You think you're seeing something outside your body right now, as you read this article.  But you're not.  Your brain is generating a pattern that your mind reads as an image.  That pattern is a response to what's happening on your retinas, in your eyes.  Light from the computer screen has propagated to the surface of your eyeballs, through your lenses - where the image gets flipped upside down - and then meets your retinas.  The structures on your retinas (pigments, "rods and cones") then [send _electric_ signals](https://www.nei.nih.gov/learn-about-eye-health/healthy-vision/how-eyes-work) into your optic nerves.  Those signals then get translated into _chemical_ signals between the individual neurons up to your brain.  The _electrochemical_ signals then get translated again into patterns within your brain.
 
 Those patterns are very much _not_ the same thing as the computer screen.
 
@@ -45,19 +45,17 @@ After Carl Gauss discovered the orbit of the first asteroid, Ceres, astronomers 
 
 As part of this bustle of activity, European astronomers sought collaboration with young Gauss, and his written correspondence quickly grew voluminous.  Besides discovering more asteroids and calculating their orbits, Gauss's primary concern in these correspondences was to obtain observations that indicate deviations from perfectly elliptical orbits.  These are the _perturbations_.
 
-Perturbations are typically described as nudges and tugs exerted by close encounters with larger planetary objects - specifically Jupiter, in the case of the early asteroids.  From what little I've read of this correspondence, as well as Gauss's own celestial mechanics textbook, Gauss publicly subscribed to this description.
+Perturbations are typically described as [nudges and tugs](https://control.asu.edu/Classes/MAE462/462Lecture12.pdf) exerted by close encounters with larger planetary objects - specifically Jupiter, in the case of the early asteroids.  The main guy who developed this theory was Newton fanatic, the Paris Academy's Pierre Simone Laplace, who wrote a series of manuscripts in the mid 1780s.  From what little I've read of this correspondence, as well as Gauss's own celestial mechanics textbook, Gauss publicly subscribed to Laplace's description.
 
-However, it is well known that, especially early on in the reign of the French Revulsion's Napoleon, Gauss guarded his true thoughts with a zeal verging on paranoia.  Exhibit: Gauss waited almost a decade to reveal his original method to calculate the orbit of Ceres.
+However, it is well known that, especially early on in the reign of the French Revulsion's Napoleon, Gauss guarded his true thoughts with a zeal verging on paranoia.  Niels Henrik Abel described him as the "Fox who obliterates his tracks with his tail."
 
 I suspect that Gauss had other obsessions that drove his interest in the planetary perturbations.  Besides the incredible opportunity for continental networking the research provided, of course.
-
-Below are some ideas of what I think Gauss hoped to find.  And which I think should form part of a research program included under the rubric of Planetary Defense.
 
 ## 3. Elliptical Functions
 
 The last published chapter of Gauss's _Disquisitiones Arithmetica_ suggested an extension of his circle division program into elliptical functions.  Gauss hinted at this extended investigation when he indicated his method could also be used to understand the nature of the lemniscate function.
 
-Indeed, a look at his unpublished _Tagebuch_ proves that Gauss was obsessed with elliptical functions from an early age, and had already captured the essential principles by age 30.
+Indeed, a [look at his unpublished _Tagebuch_](https://webspace.science.uu.nl/~oort0109/EigArt-LE.pdf) proves that Gauss was obsessed with elliptical functions from an early age, and had already captured the essential principles by age 30.
 
 Many years later, Niels Abel would send his manuscript on elliptical functions to Jean-Pierre Cauchy, who promptly buried the masterpiece until Abel's body was safely buried with the worms back in Norway.  In the paper, Abel showed how to extend Gauss's methods to other elliptic functions.  Abel also indicated that his researches uncovered a vast realm of new transcendental functions of which the elliptics form only a small subset.
 
@@ -67,19 +65,31 @@ In other words, mathematics doesn't start with assumptions.  Mathematics starts 
 
 ## 4. Asteroids are tiny
 
-A former collaborator of mine, Sky Jason Shields, once described to me why he was interested in embryology.  According to him, because the embryo was a veritable particle in the living field, it would be extremely sensitive to anomalies in that field.  In other words, the embryo (and the virus, another of Sky's "living particles") was an ideal test subject to study, in order to learn more about [biological spacetime](LINK vernadsky) in general.  It was like using iron filings to study the magnetic field.
+A former collaborator of mine, Sky Jason Shields, once described to me why he was interested in embryology.  To paraphrase, it was because the embryo's a veritable particle in the living field, it would be extremely sensitive to anomalies in that field.  In other words, the embryo (and the virus, another of Sky's "living particles") was an ideal test subject to study, in order to learn more about [biological spacetime](LINK vernadsky) in general.  It was like using iron filings to study the magnetic field.
 
 Well, Asteroids are the veritable particles of planetary bodies, and thus the perfect sensitive instruments with which to probe the principles of universal gravitation.
 
 Maybe Gauss thought something similar.  Kepler discovered that elliptical motion was captured in the natural world by planets that orbit the Sun.  Perhaps mathematics, specifically the study of elliptical functions, could be informed by physics, in this case planetary motion.
 
-Gauss could have believed that our understanding of elliptical functions would be advanced by hunting for the anomalies in elliptical motions revealed by the motions of the asteroids.
+In other words, our understanding of elliptical functions would be advanced by hunting for the anomalies in elliptical motions revealed by the motions of the asteroids.
 
-In this case, it was not so clear that the deviations from elliptical motion were being caused by by pushes and pulls by other planets.  Maybe there was no effect generated by invisible forces at all.  An alternative would be that the asteroids were simply more sensitive to subtle to deviations from a perfect ellipse made by the true orbital path.  In other words, the ellipse could be a first order approximation to the true orbital path.  To discover higher order approximations (think "harmonics), study the slight deviations made by the asteroids.
+In this case, it was not so clear that the deviations from elliptical motion were being caused by by pushes and pulls by other planets.  Maybe there was no effect generated by invisible forces at all.  An alternative would be that the asteroids were simply more sensitive to subtle to deviations from a perfect ellipse made by the true orbital path.  The ellipse could be a first order approximation to the true orbital path.  To discover higher order approximations (think "harmonics"), study the slight deviations made by the asteroids.
 
 What we do know - at least those of us that haven't read all Gauss's notes or correspondence - is that the final product of Gauss's interest in planetary purturbations was a strange 1819 paper on the orbit of asteroid Pallas.  In this paper, Gauss shows that the secular variations in the elliptical orbit of Pallas, ostensibly caused by the passing of Jupiter, are independent of the positions of either Pallas or Jupiter.  The secular varations are dependent on the properties of the orbits themselves.  He showed that you can reproduce those variations by distributing the mass of the asteroid continuously around its orbit, with density proportional to orbital speed (or, distance from the Sun).
 
-In other words, the driving principle is the orbit, not the object floating around along that orbit.
+The driving principle is thus the orbit, not the object floating around along that orbit.
+
+## 5. International collaboration is huge
+
+Why is there uncertainty about whether certain asteroids we know well, like [Apophis](https://science.nasa.gov/solar-system/asteroids/apophis/), will hit the Earth?  Shouldn't we just be able to plug all the observations into a computer, stick the Newtonian and Einsteinian equations in there, and let Microsoft Copilot rip out orbits for the next 1000 years?
+
+There is uncertainty in the orbits.  There are a variety of push-pull interactions that affect an asteroid's path through the solar system, such as solar heating.  But maybe when all those pushes and pulls are subtracted from the calculated orbits, we are still left with orbits that deviate from true ellipses.
+
+And maybe, searching for the hidden causes for what appear to be pushes and pulls is a fool's errand.  For example, some asteroids [appear to speed up with no clear cause](https://www.newscientist.com/article/2364995-asteroids-that-speed-up-unexpectedly-may-be-dark-comets-in-disguise/).  Instead of hunting for Newtonian kinetic interactions, we should be investigating higher orders of elliptical functions.
+
+While rapidly expanding collaboration between the four major world powers (USA, Russia, China, India) on planetary defense, pay special attention to those motions that appear to violate existing physics, and earmark some of the SDE funding for researching possible new physical principles driving those violations.  Perhaps this research program will lead to discovery of new principles we can harness for protecting the Earth from future extinction level events, that don't include slugging the asteroids with a club.
+
+In the meantime, before such collaboration takes off, I suggest reaching out to scientists and others who are currently calculating orbits, and see what unexplained anomalies complicate those calculations.  Let's get a symposium, and discuss those anomalies as a categorical phenomenon, and start the search for new principles, using asteroids as sensitive scientific detectors.
 
 ## Conclusion
 
