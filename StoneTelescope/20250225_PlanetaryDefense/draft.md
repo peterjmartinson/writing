@@ -3,7 +3,7 @@ How Carl Gauss Will Save Us From Extinction
 
 News has been ablaze recently with impending catastrophe.  A juggernaut is coming straight for us, all of us.  And unless we act now, we have no hope of survival.
 
-No, we're not talking about President Trump.  We're talking about an asteroid.
+No, we're not talking about the [Trump Recession](https://www.cnbc.com/2025/03/13/treasury-secretary-bessent-said-the-white-house-is-focused-on-the-real-economy-and-not-concerned-about-a-little-market-volatility.html).  We're talking about an asteroid.
 
 Asteroid 2024 YR4 was discovered during late 2024.  Since then, astronomers and aficionados have worked to refine our estimates of its orbit, specifically to determine the likelihood it will slam into the Earth a few years down the road.  It may be big enough to take out a whole city.  Or a whole nation.  It may have a 5% chance of hitting us, or a 0% chance.
 
@@ -11,15 +11,13 @@ The [latest estimate](https://blogs.nasa.gov/planetarydefense/2025/02/24/latest-
 
 Currently, astronomers and asteroid hunters think we've found less than half the asteroids that cross the Earth's orbit - "Near Earth Objects", or NEOs.  While calculating probabilities Asteroid 2024 YR4 will hit us, did the one that has a 75% chance of hitting us go undetected?
 
-[Diane Sare](https://thehunterenvoy.org/2024/11/23/who-is-diane-sare-and-why-was-she-on-the-new-york-ballot/), oft time candidate for Senate in New Jersey, suggested to me and a few others that we should convene a few symposia to discuss what should be done about this asteroid threat.  She specifically suggested this could become a real project that draws all the great national powers together and lays the foundations for a lasting peace.
+[Diane Sare](https://thehunterenvoy.org/2024/11/23/who-is-diane-sare-and-why-was-she-on-the-new-york-ballot/), former candidate for Senate in New Jersey, suggested to me and a few others that we should convene a few symposia to discuss what should be done about this asteroid threat.  She specifically suggested this could become a real project that draws all the great national powers together and lays the foundations for a lasting peace.
 
 Back during the reign of President Obama, Russia proposed a program called "Strategic Defense of Earth", or [SDE](https://www.rt.com/russia/missile-defense-earth-nato-085/), which rang suspiciously reminiscent of Reagan's SDI program.  The SDE was intended to be an international collaboration around safeguarding the Earth from Asteroid threats.  After a few meetings on the concept, it sputtered into some more dissipating smoke in the midst of the Brzezinski kindergarten's post-Cold War demands for nuclear war between Russia and NATO.
 
-I had a bunch of thoughts about how to cast the issue in a novel way, and decided, instead of wasting an email on it, why not publish all my conspiracy theories online for all to see?
+Were the SDE to become a live program, it would have the potential to usher in a new era of scientific discoveries.  The program may be worth more to humanity than simply blasting away incoming asteroids.
 
-The thesis here is the following:  Man does not "be fruitful and multiply" by shooting, pushing, or exploding things.  Man survives and grows by making discoveries, and with these discoveries, increasing our power over the universe.  This should be the true goal of any program for planetary defense.
-
-So, buckle up.
+Man does not "be fruitful and multiply" by shooting, pushing, or exploding things.  Man survives and grows by making discoveries, and with these discoveries, increasing our power over the universe.  This should be the true goal of any program for planetary defense.
 
 ## 1. Your senses are reliable liars
 
@@ -45,9 +43,9 @@ After Carl Gauss discovered the orbit of the first asteroid, Ceres, astronomers 
 
 As part of this bustle of activity, European astronomers sought collaboration with young Gauss, and his written correspondence quickly grew voluminous.  Besides discovering more asteroids and calculating their orbits, Gauss's primary concern in these correspondences was to obtain observations that indicate deviations from perfectly elliptical orbits.  These are the _perturbations_.
 
-Perturbations are typically described as [nudges and tugs](https://control.asu.edu/Classes/MAE462/462Lecture12.pdf) exerted by close encounters with larger planetary objects - specifically Jupiter, in the case of the early asteroids.  The main guy who developed this theory was Newton fanatic, the Paris Academy's Pierre Simone Laplace, who wrote a series of manuscripts in the mid 1780s.  From what little I've read of this correspondence, as well as Gauss's own celestial mechanics textbook, Gauss publicly subscribed to Laplace's description.
+Perturbations are typically described as [nudges and tugs](https://control.asu.edu/Classes/MAE462/462Lecture12.pdf) exerted by close encounters with larger planetary objects - specifically Jupiter, in the case of the early asteroids.  The main guy who developed this theory was Newton fanatic, the Paris Ecole Militaire's Pierre-Simon, Marquis de Laplace, [who wrote a series of manuscripts on the topic in the mid 1780s](https://en.wikipedia.org/wiki/Perturbation_theory#Beginnings_in_the_study_of_planetary_motion).  From what little I've read of this correspondence, as well as Gauss's own celestial mechanics textbook, Gauss publicly subscribed to Laplace's description.
 
-However, it is well known that, especially early on in the reign of the French Revulsion's Napoleon, Gauss guarded his true thoughts with a zeal verging on paranoia.  Niels Henrik Abel described him as the "Fox who obliterates his tracks with his tail."
+However, it is well known that, especially early on in the reign of the French Revulsion's Napoleon, Gauss guarded his true thoughts with a zeal verging on paranoia.  Niels Henrik Abel famously described him as the "Fox who obliterates his tracks with his tail."
 
 I suspect that Gauss had other obsessions that drove his interest in the planetary perturbations.  Besides the incredible opportunity for continental networking the research provided, of course.
 
@@ -57,7 +55,7 @@ The last published chapter of Gauss's _Disquisitiones Arithmetica_ suggested an 
 
 Indeed, a [look at his unpublished _Tagebuch_](https://webspace.science.uu.nl/~oort0109/EigArt-LE.pdf) proves that Gauss was obsessed with elliptical functions from an early age, and had already captured the essential principles by age 30.
 
-Many years later, Niels Abel would send his manuscript on elliptical functions to Jean-Pierre Cauchy, who promptly buried the masterpiece until Abel's body was safely buried with the worms back in Norway.  In the paper, Abel showed how to extend Gauss's methods to other elliptic functions.  Abel also indicated that his researches uncovered a vast realm of new transcendental functions of which the elliptics form only a small subset.
+Many years later, Niels Abel, inspired by Gauss's writings, sent his manuscript on elliptical functions to Jean-Pierre Cauchy, who promptly hid the masterpiece until Abel's body was safely buried with the worms back in Norway.  In the paper, Abel showed how to extend Gauss's methods to other elliptic functions.  Abel also indicated that his researches uncovered a vast realm of new transcendental functions of which the elliptics form only a small subset.
 
 Gauss knew that mathematics was not the nerdy flashing around of new combinations of symbols.  Rather, mathematics was an evolving language mankind has been crafting, that describes the interaction between universal principles and human creativity.
 
@@ -67,17 +65,18 @@ In other words, mathematics doesn't start with assumptions.  Mathematics starts 
 
 A former collaborator of mine, Sky Jason Shields, once described to me why he was interested in embryology.  To paraphrase, it was because the embryo's a veritable particle in the living field, it would be extremely sensitive to anomalies in that field.  In other words, the embryo (and the virus, another of Sky's "living particles") was an ideal test subject to study, in order to learn more about [biological spacetime](LINK vernadsky) in general.  It was like using iron filings to study the magnetic field.
 
-Well, Asteroids are the veritable particles of planetary bodies, and thus the perfect sensitive instruments with which to probe the principles of universal gravitation.
+Asteroids are the veritable particles of planetary bodies, and thus the perfect sensitive instruments with which to probe the principles of universal gravitation.
 
-Maybe Gauss thought something similar.  Kepler discovered that elliptical motion was captured in the natural world by planets that orbit the Sun.  Perhaps mathematics, specifically the study of elliptical functions, could be informed by physics, in this case planetary motion.
-
-In other words, our understanding of elliptical functions would be advanced by hunting for the anomalies in elliptical motions revealed by the motions of the asteroids.
+Maybe Gauss thought something similar.  Kepler discovered that the geometric ellipse was captured in the natural world by planets that orbit the Sun.  Perhaps mathematics, specifically the study of elliptical functions, could be informed by physics, in this case planetary motion.
 
 In this case, it was not so clear that the deviations from elliptical motion were being caused by by pushes and pulls by other planets.  Maybe there was no effect generated by invisible forces at all.  An alternative would be that the asteroids were simply more sensitive to subtle to deviations from a perfect ellipse made by the true orbital path.  The ellipse could be a first order approximation to the true orbital path.  To discover higher order approximations (think "harmonics"), study the slight deviations made by the asteroids.
 
 What we do know - at least those of us that haven't read all Gauss's notes or correspondence - is that the final product of Gauss's interest in planetary purturbations was a strange 1819 paper on the orbit of asteroid Pallas.  In this paper, Gauss shows that the secular variations in the elliptical orbit of Pallas, ostensibly caused by the passing of Jupiter, are independent of the positions of either Pallas or Jupiter.  The secular varations are dependent on the properties of the orbits themselves.  He showed that you can reproduce those variations by distributing the mass of the asteroid continuously around its orbit, with density proportional to orbital speed (or, distance from the Sun).
 
 The driving principle is thus the orbit, not the object floating around along that orbit.
+
+In other words, our understanding of elliptical functions would be advanced by hunting for the anomalies in elliptical motions revealed by the motions of the asteroids.
+
 
 ## 5. International collaboration is huge
 
