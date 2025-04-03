@@ -1,7 +1,7 @@
 Slaughter the Friction before Friction kills the Action
 =======================================================
 
-So you're going to take action that will make you awesome, like [making cold calls to mining experts to fish for leads](LINK cold calls post).  You picked a time, a date, your phone is charged, you got a name and a phone number, nothing will stop you this time!
+So you're going to take action that will make you awesome, like [making cold calls to mining experts to fish for leads](https://distractedfortune.com/cold-calls-your-secret-weapon-for-growth/).  You picked a time, a date, your phone is charged, you got a name and a phone number, nothing will stop you this time!
 
 The time comes and goes, and you never made the call.
 
@@ -17,13 +17,13 @@ We're going to look today at how to identify sources of friction, and how to rem
 
 ## The Source of Friction
 
-When you decide to start practicing some periodic action, from brushing your teeth twice a day to writing out your [daily morning pages](LINK morning pages post), there is always a force that will prevent you from doing that action.
+When you decide to start practicing some periodic action, from brushing your teeth twice a day to writing out your [daily morning pages](https://distractedfortune.com/unlock-your-subconscious-the-power-of-morning-pages/), there is always a force that will prevent you from doing that action.
 
 I count two main reasons that make it hard to slip a new action into your day.
 
 1. Fear
 
-Fear is the biggest factor that keeps me from taking action.  For example, I get panic attacks before talking to new people.  That's the main reason I ([and others](LINK)) have yet to make cold calls.
+Fear is the biggest factor that keeps me from taking action.  For example, I get panic attacks before talking to new people.  That's the main reason I ([and others](https://smartleadmarketing.co.uk/hints-tips/telephobia-the-surprising-psychology-behind-cold-calling-fear-and-how-to-beat-it/)) have yet to make cold calls.
 
 But the friction doesn't present itself as fear.  It presents itself as extra steps added between now and the target action.  When I'm planning to make a call, I tend to think I need a fully worked out script, including responses to objections.  I'll spend an hour fighting with that script, then boom, no calls.
 
@@ -31,7 +31,7 @@ But the friction doesn't present itself as fear.  It presents itself as extra st
 
 Your daily routine comes with inertia.  It's not easy to just throw something else in there.
 
-I think the daily routine is a [human adaptation](LINK best rider marshall) to living in a world.  The daily routine can be done mostly on autopilot.  This allows you to think about other things, instead of constantly considering "what do I need to do next?"
+I think the daily routine is a [human adaptation](https://distractedfortune.com/beast-rider-and-marshall-how-to-get-control-of-yourself/) to living in a world.  The daily routine can be done mostly on autopilot.  This allows you to think about other things, instead of constantly considering "what do I need to do next?"
 
 But whatever the origin of the daily routine, your daily activities tend to fill all the available space of that day, like a gas.  There's rarely an hour in there where you're staring at the wall thinking "wow, I wish I could fill this time with a new activity!"
 
@@ -105,11 +105,11 @@ In the above example, you need to get down to maybe one or two steps before the 
 
 Wait, wear jeans to exercise?
 
-Yes.  If your target action is to exercise, then EVERYTHING that gets in the way can be friction.  For example, how stupid would it be for you to [die a few years early](LINK study on lifespan vs exercise) just because you were stuck picking exercise clothes, and could never get to the actual exercising!
+Yes.  If your target action is to exercise, then EVERYTHING that gets in the way can be friction.  For example, how stupid would it be for you to [die a few years early](https://pmc.ncbi.nlm.nih.gov/articles/PMC3395188/) just because you were stuck picking exercise clothes, and could never get to the actual exercising!
 
 You need to look at all intervening steps as sacred cows that should be sent to the slaughter.  You don't have a pair of shorts?  How bad would it really be to take your oldest pair of pants, the ones you don't even wear anymore, hack off the legs, and just run in those?
 
-There used to be a [crazy marathon in Australia](LINK wiki), where the competitors run from Sidney to Melbourne, a distance of 544 miles.  Back in 1983, the world record was beaten by almost two whole days!  The new record holder wasn't a high performer funded by Red Bull and Nike.  [He was a farmer](LINK).  He ran the race in his work boots and overalls, beating the other runners by over 10 hours.
+There used to be a [crazy marathon in Australia](https://en.wikipedia.org/wiki/Sydney_to_Melbourne_Ultramarathon), where the competitors run from Sidney to Melbourne, a distance of 544 miles.  Back in 1983, the world record was beaten by almost two whole days!  The new record holder wasn't a high performer funded by Red Bull and Nike.  [He was a farmer](https://elitefeet.com/the-legend-of-cliff-young/).  He ran the race in his work boots and overalls, beating the other runners by over 10 hours.
 
 Do not let the sacred cow stand between you and success.
 
