@@ -5,11 +5,13 @@ Story time!
 
 I embarked on my productivity porn addiction back around 2013, when I discovered David Allen's [_Getting Things Done_](LINK) (GTD).  After skimming a bootleg version of his book on my tiny iPhone, I reckoned I had found the secret to life!
 
-In short, the goal of GTD is to offload all chores, plans, and to-do lists to a filing cabinet, to free your mind from the burden of remembering everything.  Instead of never getting to large projects, you break all projects down into a series of smaller actions.  Each day, you get a bunch of those next-actions in front of you and complete them.
+In short, the goal of GTD is to offload all chores, plans, and to-do lists to a filing cabinet, to free your mind from the burden of remembering everything.  Instead of never getting to large projects, you break all projects down into a series of smaller actions, listed on a piece of paper for you.  Each day, you get a bunch of those next-actions in front of you and complete them.
+
+Instead of using your mind as your to-do list, you can now use your mind to be creative while still getting everything done.
 
 That's it.  [Mind like water.](LINK)
 
-Before you true believers out there pillory me, yes there's more to it.  Like, the [machine that prints out labels](LINK) for all the file folders.
+(Before you true believers out there pillory me, yes there's more to it.  Like, the [machine that prints out labels](LINK) for all the file folders.)
 
 Anyhow, I got obsessed, bought two beat up filing cabinets, and filled them with file folders for everything in my life.
 
@@ -23,7 +25,7 @@ Then, a few days ago, it hit me.  There _is_ another way!
 
 In this article, I'll describe this other way, which is more like mathematical induction than exhaustive introspection.  And, I think both you and I will become happier and more productive in the end.
 
-## Take Better Steps
+## Enjoy Failure
 
 I'm reading a book called [_Fail Fast, Fail Often_](LINK), <TODO by A B and C D>.  Their strategy so far feels a little like a learned faith.  They studied the happiness and success of over a bajillion people, and have come to the conclusion that the most successful and happy among us act first, and plan rarely.
 
@@ -47,7 +49,7 @@ I know you failed calculus long ago (so did I!), and there's no way some dry sub
 
 But it can.  Give it a minute.
 
-In the early 19th Century, mathematician Carl Gauss proved something discovered in a more limited form a century and a half earlier by Gottfried Leibniz and his collaborators.  Gauss discovered that a geometric surface whose total area is the minimum possible (like a soap bubble) can be completely defined by the smallest measurement of length on that surface.
+In the early 19th Century, mathematician Carl Gauss proved something that was discovered in a more limited form a century and a half earlier by Gottfried Leibniz and his collaborators.  Gauss discovered that a geometric surface whose total area is the minimum possible (like a soap bubble) can be completely defined by the smallest measurement of length on that surface.
 
 Uhhh...
 
@@ -57,8 +59,14 @@ If you get a friend's help, you can demonstrate something surprising about the c
 
 If you follow this experiment all the way down to the smallest bit of chain, the shape continues to remain.
 
-Well, Leibniz discovered that the shape goes all the way to the smallest conceivable length of chain, of length zero.  He called that smallest length the _infinitesimal_.  That infinitesimal can't be a straight line, but must be some shape that represents the catenary's curvature.
+Well, Leibniz discovered that the shape goes all the way to the smallest conceivable length of chain, of length _zero_.  He called that smallest length the _infinitesimal_.  That infinitesimal can't be a straight line, but must be some shape that represents the catenary's curvature.
 
-Leibniz showed a surprising relationship between that infinitesimal and the full catenary curve.  He invented a method called _integration_, where all those infinitesimals can be added together to form the entire, beautiful catenary curve.
+Leibniz showed a surprising relationship between that infinitesimal and the full catenary curve.  He invented a new math called _integration_, where all those infinitesimals can be added together to form the entire, beautiful catenary curve.
 
-In other words, the smallest bit of _action_, constructed properly and repeated over and over, is sufficient to recreate the full goal of the curve.
+In other words, the smallest bit of _action_, constructed properly and repeated over and over, is sufficient to recreate the full _goal_ of the curve.
+
+## Tiny Actions, Giant Results
+
+There is one strategy shared by all the productivity gurus mentioned above.  David Allen calls it the "2 minute rule".  In short, the smaller the action you can take _now_, the more likely you will be to find success.
+
+<note story!>
