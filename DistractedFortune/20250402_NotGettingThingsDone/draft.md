@@ -69,4 +69,19 @@ In other words, the smallest bit of _action_, constructed properly and repeated 
 
 There is one strategy shared by all the productivity gurus mentioned above.  David Allen calls it the "2 minute rule".  In short, the smaller the action you can take _now_, the more likely you will be to find success.
 
-<note story!>
+<note B and D> lay out some useful rules.  Here are the ones I thought were the most important:
+
+1. The action should be real
+
+"Think about the good things that happened yesterday" doesn't count.  The action has to be something that will move your life forward, like "show my coworker my productivity side project and get his feedback."  Or, "send my most recent article to [ADDitude](LINK) magazine and see if they'll publish it".
+
+2. The action should be very cheap - in money, time, and effort
+
+The point here is that the only hurdle should be fear.  You don't want to stick your life savings into something that *might* pay out in a year.  It needs to be something that, if it results in failure, doesn't set you back at all but rather provides some form of lesson.
+
+3. The action should include interaction with other people
+
+This was the "ah ha" step for me, since I tend to be on the bashful side.  A key to success is to be seen and heard by others.  Remember, ultimately, other people give you money and other valuables.  These things do NOT grow on trees in your own personal garden.  Showing your little project to someone else will provide some form of feedback, and may open a door to a new experience or opportunity.
+
+
+
