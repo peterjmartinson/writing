@@ -13,13 +13,13 @@ That's it.  [Mind like water.](LINK)
 
 (Before you true believers out there pillory me, yes there's more to it.  Like, the [machine that prints out labels](LINK) for all the file folders.)
 
-Anyhow, I got obsessed, bought two beat up filing cabinets, and filled them with file folders for everything in my life.
+I got obsessed, bought two beat up filing cabinets, and filled them with file folders for everything in my life.
 
 And I just couldn't keep up.
 
 I've since tried a few ways to approximate Allen's write-out-all-steps approach, and sometimes have made a bit of progress.  But I could never quite make it take off.
 
-Through the guilt of not feeling strong enough to keep up with all the lists and folders, I kept wondering if maybe there was another way.
+The part that filled me with guilt and failure, was that I just couldn't bring myself to take every project and break it up into action chunks.  While dealing with this guilt, and getting some things done half-assed, I kept wondering if maybe there was another way.
 
 Then, a few days ago, it hit me.  There _is_ another way!
 
@@ -27,21 +27,31 @@ In this article, I'll describe this other way, which is more like mathematical i
 
 ## Enjoy Failure
 
-I'm reading a book called [_Fail Fast, Fail Often_](LINK), <TODO by A B and C D>.  Their strategy so far feels a little like a learned faith.  They studied the happiness and success of over a bajillion people, and have come to the conclusion that the most successful and happy among us act first, and plan rarely.
+I'm reading a book called [_Fail Fast, Fail Often_](LINK), by John Krumboltz and Ryan Babineaux.  Their strategy so far feels a little like a learned faith.  They studied the happiness and success of over a bajillion people, and have come to the conclusion that the most successful and happy among us act first, and plan rarely.
 
 Most of us are the opposite - we plan always, act never.  The authors instead found that it's through trying new things and failing, that people encounter the most opportunities for growth and success.  Those of us that plan out all our actions before taking the first step tend to blame everyone for our failures, while the fault really lies in our lack of action.
 
+It is by fearlessly blasting toward little failures that we learn, and at the same time experience life in a way that the planners could no.
+
 The behavioral therapy these authors suggest are 1. follow your curiosity, and 2. if you feel like doing something, figure out how to fail at it as soon as possible.
 
-But how do I know if my curiosity is leading me in the right direction?  And, if I fail a bunch of times, won't I just go broke and lose my house?
+But how do I know if my curiosity is leading me in the right direction?  And, if I fail a bunch of times, won't [I just go broke and lose my house](LINK anti-fail fast people)?
 
 ## Trust The Process
 
-Another great author, [James Clear](LINK), wrote a great book called [_Atomic Habits_](LINK).  His thesis is suspiciously similar.  To paraphrase:  you will find vastly more success if you concentrate on establishing good habits, than you will by focusing on your future goals.
+Another great author, [James Clear](LINK his website), wrote a great book called [_Atomic Habits_](LINK amazon).  His thesis is suspiciously similar.  To paraphrase:  you will find vastly more success if you concentrate on establishing good habits, than you will by focusing on your future goals.
 
 Clear's book lays out a clear strategy for creating and maintaining good habits, and eliminating bad ones.
 
-<TODO nail some quotes?>
+His strategy revolves around a cycle of four steps.
+
+1. Cue
+
+Create some event that will make you consider doing the habit you want to establish.  For example, one type of cue is called "habit chaining".  This is where the cue for one habit, like brushing your teeth every day, is chained to another habit, like getting out of bed in the morning.
+
+2. Response
+3. Action
+4. Reward.  
 
 ## Calculus!
 
@@ -49,27 +59,25 @@ I know you failed calculus long ago (so did I!), and there's no way some dry sub
 
 But it can.  Give it a minute.
 
-In the early 19th Century, mathematician Carl Gauss proved something that was discovered in a more limited form a century and a half earlier by Gottfried Leibniz and his collaborators.  Gauss discovered that a geometric surface whose total area is the minimum possible (like a soap bubble) can be completely defined by the smallest measurement of length on that surface.
-
-Uhhh...
-
 Think about power lines hung from electric poles.  They hang in a conspicuous "U" shape called a _catenary_.  It turns out that every chain, rope, bridge, string of lights, whatever, suspended between two points, will hang in that same shape.  It's pretty easy to do experiments to investigate this shape.  For example, get a chain necklace, or just a length of chain, and hold it between your hands.  That U is the catenary.
 
 If you get a friend's help, you can demonstrate something surprising about the catenary.  While you hold the chain, have your friend pinch the chain somewhere else gently, so the chain stays pretty still.  Now, you let go of the string on that end.  The rest of the chain will remain in the identical catenary shape.
 
 If you follow this experiment all the way down to the smallest bit of chain, the shape continues to remain.
 
-Well, Leibniz discovered that the shape goes all the way to the smallest conceivable length of chain, of length _zero_.  He called that smallest length the _infinitesimal_.  That infinitesimal can't be a straight line, but must be some shape that represents the catenary's curvature.
+German mathematician Gottfried Leibniz discovered that the shape goes all the way to the smallest conceivable length of chain, of length _zero_.  He called that smallest length the _infinitesimal_.  That infinitesimal can't be a straight line, but must be some shape that represents the catenary's curvature.
 
-Leibniz showed a surprising relationship between that infinitesimal and the full catenary curve.  He invented a new math called _integration_, where all those infinitesimals can be added together to form the entire, beautiful catenary curve.
+Leibniz showed a surprising relationship between that infinitesimal and the full catenary curve.  He invented a new math called [_integration_](LINK), where all those infinitesimals can be added together to form the entire, beautiful catenary curve.
 
 In other words, the smallest bit of _action_, constructed properly and repeated over and over, is sufficient to recreate the full _goal_ of the curve.
 
+The challenge Leibniz and his collaborators, like Johann Bernoulli, faced, was to create a new mathematics to both describe this minimum-maximum relationship, but also to discover the relationship for new types of curves.  This mathematics is today called "Calculus", and it is crucial for understanding all areas of physics.
+
 ## Tiny Actions, Giant Results
 
-There is one strategy shared by all the productivity gurus mentioned above.  David Allen calls it the "2 minute rule".  In short, the smaller the action you can take _now_, the more likely you will be to find success.
+There is one strategy shared by all the productivity gurus mentioned above, and reinforced by the physical laws of Calculus.  Allen calls it the "2 minute rule", Clear calls it the "minimum viable action" <todo check this>, and Krumboltz and Babineaux call it "fail fast".  In short, the smaller the action you can take _now_, the more likely you will be to find success.
 
-<note B and D> lay out some useful rules.  Here are the ones I thought were the most important:
+Krumboltz and Babineaux lay out some useful rules for carrying out .  Here are the ones I thought were the most important:
 
 1. The action should be real
 
