@@ -1,6 +1,8 @@
 How to Not Get Things Done
 ==========================
 
+_Disclaimer:  this post contains affiliate links.  If you click on them and buy the products, I'll get a cut of the profit.  I promise they're good products!_  
+
 Story time!
 
 I embarked on my productivity porn addiction back around 2013, when I discovered David Allen's [_Getting Things Done_](LINK) (GTD).  After skimming a bootleg version of his book on my tiny iPhone, I reckoned I had found the secret to life!
@@ -37,21 +39,7 @@ The behavioral therapy these authors suggest are 1. follow your curiosity, and 2
 
 But how do I know if my curiosity is leading me in the right direction?  And, if I fail a bunch of times, won't [I just go broke and lose my house](LINK anti-fail fast people)?
 
-## Trust The Process
-
-Another great author, [James Clear](LINK his website), wrote a great book called [_Atomic Habits_](LINK amazon).  His thesis is suspiciously similar.  To paraphrase:  you will find vastly more success if you concentrate on establishing good habits, than you will by focusing on your future goals.
-
-Clear's book lays out a clear strategy for creating and maintaining good habits, and eliminating bad ones.
-
-His strategy revolves around a cycle of four steps.
-
-1. Cue
-
-Create some event that will make you consider doing the habit you want to establish.  For example, one type of cue is called "habit chaining".  This is where the cue for one habit, like brushing your teeth every day, is chained to another habit, like getting out of bed in the morning.
-
-2. Response
-3. Action
-4. Reward.  
+To answer these questions, we need a little bit of mathematics.
 
 ## Calculus!
 
@@ -75,21 +63,47 @@ The challenge Leibniz and his collaborators, like Johann Bernoulli, faced, was t
 
 ## Tiny Actions, Giant Results
 
-There is one strategy shared by all the productivity gurus mentioned above, and reinforced by the physical laws of Calculus.  Allen calls it the "2 minute rule", Clear calls it the "minimum viable action" <todo check this>, and Krumboltz and Babineaux call it "fail fast".  In short, the smaller the action you can take _now_, the more likely you will be to find success.
+We can apply the laws of infinitesimal calculus to our own lives.  I call this "trust the process".
 
-Krumboltz and Babineaux lay out some useful rules for carrying out .  Here are the ones I thought were the most important:
+The way this works is by identifying certain behaviors that tend to aim towards success, and then practicing those behaviors even when they lead to failure.  And when failure strikes, [learn from it](LINK my article).
 
-1. The action should be real
+In fact, Krumboltz and Babineaux stress that failure, itself, should be a daily behavior!
 
-"Think about the good things that happened yesterday" doesn't count.  The action has to be something that will move your life forward, like "show my coworker my productivity side project and get his feedback."  Or, "send my most recent article to [ADDitude](LINK) magazine and see if they'll publish it".
+The authors pack their short book with examples of people who apparently bumble into wild success.  For example, Jack Dorsey, the founder of Twitter (now [X](LINK)).  Dorsey got interested in the network problem of dispatch - like, selecting the best cops to get to the scene most efficiently.  He got hired to a company to work on their dispatch software, and the company soon went bust at the end of the 1990s.  Instead of jumping back into programming, Dorsey went and dabbled at massage therapy, botanical illustration, babysitting, and fashion design.  Several years later, while working as a programmer again for a podcasting company that was on the verge of bankruptcy, he pitched the idea that would become Twitter.  The rest is history.
 
-2. The action should be very cheap - in money, time, and effort
+Krumboltz and Babineaux show, from various angles, that trying new things and failing is not only a great path toward success, but an efficient path.  Instead of pinning your hopes of success on some future goal that you might never get to, you spend your time doing little experiments and learning from them.
+
+They suggest a few ground rules for picking an action to take, so you're not just failing for failure's sake.  Here are the ones I thought most important, found in the chapter called "Think Big, Act Small":
+
+1. Keep it specific
+
+Don't pick something vague, like "start writing better".  It needs to be something that happens at a point, like "send a sales email to a bunch of my friends and family this afternoon".
+
+2. Keep it easy
+
+Instead of trying to bench press 500 pounds right now, and getting discouraged, try benching 50 pounds instead.
+
+3. Keep it fun
+
+Cutting off a finger is not fun, though it's probably pretty easy and specific.  Do something that will make you smile instead.
+
+4. Keep it immediate
+
+If the action occurs way in the future, like planning to hit up a networking conference two months from now, you'll have too much time to talk yourself out of it.  And, that's two months wasted not taking any other risks!  Pick something you can do today.
+
+5. Keep it cheap
 
 The point here is that the only hurdle should be fear.  You don't want to stick your life savings into something that *might* pay out in a year.  It needs to be something that, if it results in failure, doesn't set you back at all but rather provides some form of lesson.
 
-3. The action should include interaction with other people
+6. Keep it real
+
+"Think about the good things that happened yesterday" doesn't count.  The action has to be something that will move your life forward, like "show my coworker my productivity side project and get his feedback."  Or, "send my most recent article to [ADDitude](LINK) magazine and see if they'll publish it".
+
+7. Keep it social
 
 This was the "ah ha" step for me, since I tend to be on the bashful side.  A key to success is to be seen and heard by others.  Remember, ultimately, other people give you money and other valuables.  These things do NOT grow on trees in your own personal garden.  Showing your little project to someone else will provide some form of feedback, and may open a door to a new experience or opportunity.
 
+## Trust the Process
 
+So, what can you do today that could lead to a teaching failure?
 
