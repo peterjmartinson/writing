@@ -1,6 +1,8 @@
 How to Not Get Things Done
 ==========================
 
+_Disclaimer:  this post contains affiliate links.  If you click on them and buy the products, I'll get a cut of the profit.  I promise they're good products!_  
+
 Story time!
 
 I embarked on my productivity porn addiction back around 2013, when I discovered David Allen's [_Getting Things Done_](LINK) (GTD).  After skimming a bootleg version of his book on my tiny iPhone, I reckoned I had found the secret to life!
@@ -13,13 +15,13 @@ That's it.  [Mind like water.](LINK)
 
 (Before you true believers out there pillory me, yes there's more to it.  Like, the [machine that prints out labels](LINK) for all the file folders.)
 
-Anyhow, I got obsessed, bought two beat up filing cabinets, and filled them with file folders for everything in my life.
+I got obsessed, bought two beat up filing cabinets, and filled them with file folders for everything in my life.
 
 And I just couldn't keep up.
 
 I've since tried a few ways to approximate Allen's write-out-all-steps approach, and sometimes have made a bit of progress.  But I could never quite make it take off.
 
-Through the guilt of not feeling strong enough to keep up with all the lists and folders, I kept wondering if maybe there was another way.
+The part that filled me with guilt and failure, was that I just couldn't bring myself to take every project and break it up into action chunks.  While dealing with this guilt, and getting some things done half-assed, I kept wondering if maybe there was another way.
 
 Then, a few days ago, it hit me.  There _is_ another way!
 
@@ -27,21 +29,17 @@ In this article, I'll describe this other way, which is more like mathematical i
 
 ## Enjoy Failure
 
-I'm reading a book called [_Fail Fast, Fail Often_](LINK), <TODO by A B and C D>.  Their strategy so far feels a little like a learned faith.  They studied the happiness and success of over a bajillion people, and have come to the conclusion that the most successful and happy among us act first, and plan rarely.
+I'm reading a book called [_Fail Fast, Fail Often_](LINK), by John Krumboltz and Ryan Babineaux.  Their strategy so far feels a little like a learned faith.  They studied the happiness and success of over a bajillion people, and have come to the conclusion that the most successful and happy among us act first, and plan rarely.
 
 Most of us are the opposite - we plan always, act never.  The authors instead found that it's through trying new things and failing, that people encounter the most opportunities for growth and success.  Those of us that plan out all our actions before taking the first step tend to blame everyone for our failures, while the fault really lies in our lack of action.
 
+It is by fearlessly blasting toward little failures that we learn, and at the same time experience life in a way that the planners could no.
+
 The behavioral therapy these authors suggest are 1. follow your curiosity, and 2. if you feel like doing something, figure out how to fail at it as soon as possible.
 
-But how do I know if my curiosity is leading me in the right direction?  And, if I fail a bunch of times, won't I just go broke and lose my house?
+But how do I know if my curiosity is leading me in the right direction?  And, if I fail a bunch of times, won't [I just go broke and lose my house](LINK anti-fail fast people)?
 
-## Trust The Process
-
-Another great author, [James Clear](LINK), wrote a great book called [_Atomic Habits_](LINK).  His thesis is suspiciously similar.  To paraphrase:  you will find vastly more success if you concentrate on establishing good habits, than you will by focusing on your future goals.
-
-Clear's book lays out a clear strategy for creating and maintaining good habits, and eliminating bad ones.
-
-<TODO nail some quotes?>
+To answer these questions, we need a little bit of mathematics.
 
 ## Calculus!
 
@@ -49,39 +47,63 @@ I know you failed calculus long ago (so did I!), and there's no way some dry sub
 
 But it can.  Give it a minute.
 
-In the early 19th Century, mathematician Carl Gauss proved something that was discovered in a more limited form a century and a half earlier by Gottfried Leibniz and his collaborators.  Gauss discovered that a geometric surface whose total area is the minimum possible (like a soap bubble) can be completely defined by the smallest measurement of length on that surface.
-
-Uhhh...
-
 Think about power lines hung from electric poles.  They hang in a conspicuous "U" shape called a _catenary_.  It turns out that every chain, rope, bridge, string of lights, whatever, suspended between two points, will hang in that same shape.  It's pretty easy to do experiments to investigate this shape.  For example, get a chain necklace, or just a length of chain, and hold it between your hands.  That U is the catenary.
 
 If you get a friend's help, you can demonstrate something surprising about the catenary.  While you hold the chain, have your friend pinch the chain somewhere else gently, so the chain stays pretty still.  Now, you let go of the string on that end.  The rest of the chain will remain in the identical catenary shape.
 
 If you follow this experiment all the way down to the smallest bit of chain, the shape continues to remain.
 
-Well, Leibniz discovered that the shape goes all the way to the smallest conceivable length of chain, of length _zero_.  He called that smallest length the _infinitesimal_.  That infinitesimal can't be a straight line, but must be some shape that represents the catenary's curvature.
+German mathematician Gottfried Leibniz discovered that the shape goes all the way to the smallest conceivable length of chain, of length _zero_.  He called that smallest length the _infinitesimal_.  That infinitesimal can't be a straight line, but must be some shape that represents the catenary's curvature.
 
-Leibniz showed a surprising relationship between that infinitesimal and the full catenary curve.  He invented a new math called _integration_, where all those infinitesimals can be added together to form the entire, beautiful catenary curve.
+Leibniz showed a surprising relationship between that infinitesimal and the full catenary curve.  He invented a new math called [_integration_](LINK), where all those infinitesimals can be added together to form the entire, beautiful catenary curve.
 
 In other words, the smallest bit of _action_, constructed properly and repeated over and over, is sufficient to recreate the full _goal_ of the curve.
 
+The challenge Leibniz and his collaborators, like Johann Bernoulli, faced, was to create a new mathematics to both describe this minimum-maximum relationship, but also to discover the relationship for new types of curves.  This mathematics is today called "Calculus", and it is crucial for understanding all areas of physics.
+
 ## Tiny Actions, Giant Results
 
-There is one strategy shared by all the productivity gurus mentioned above.  David Allen calls it the "2 minute rule".  In short, the smaller the action you can take _now_, the more likely you will be to find success.
+We can apply the laws of infinitesimal calculus to our own lives.  I call this "trust the process".
 
-<note B and D> lay out some useful rules.  Here are the ones I thought were the most important:
+The way this works is by identifying certain behaviors that tend to aim towards success, and then practicing those behaviors even when they lead to failure.  And when failure strikes, [learn from it](LINK my article).
 
-1. The action should be real
+In fact, Krumboltz and Babineaux stress that failure, itself, should be a daily behavior!
 
-"Think about the good things that happened yesterday" doesn't count.  The action has to be something that will move your life forward, like "show my coworker my productivity side project and get his feedback."  Or, "send my most recent article to [ADDitude](LINK) magazine and see if they'll publish it".
+The authors pack their short book with examples of people who apparently bumble into wild success.  For example, Jack Dorsey, the founder of Twitter (now [X](LINK)).  Dorsey got interested in the network problem of dispatch - like, selecting the best cops to get to the scene most efficiently.  He got hired to a company to work on their dispatch software, and the company soon went bust at the end of the 1990s.  Instead of jumping back into programming, Dorsey went and dabbled at massage therapy, botanical illustration, babysitting, and fashion design.  Several years later, while working as a programmer again for a podcasting company that was on the verge of bankruptcy, he pitched the idea that would become Twitter.  The rest is history.
 
-2. The action should be very cheap - in money, time, and effort
+Krumboltz and Babineaux show, from various angles, that trying new things and failing is not only a great path toward success, but an efficient path.  Instead of pinning your hopes of success on some future goal that you might never get to, you spend your time doing little experiments and learning from them.
+
+They suggest a few ground rules for picking an action to take, so you're not just failing for failure's sake.  Here are the ones I thought most important, found in the chapter called "Think Big, Act Small":
+
+1. Keep it specific
+
+Don't pick something vague, like "start writing better".  It needs to be something that happens at a point, like "send a sales email to a bunch of my friends and family this afternoon".
+
+2. Keep it easy
+
+Instead of trying to bench press 500 pounds right now, and getting discouraged, try benching 50 pounds instead.
+
+3. Keep it fun
+
+Cutting off a finger is not fun, though it's probably pretty easy and specific.  Do something that will make you smile instead.
+
+4. Keep it immediate
+
+If the action occurs way in the future, like planning to hit up a networking conference two months from now, you'll have too much time to talk yourself out of it.  And, that's two months wasted not taking any other risks!  Pick something you can do today.
+
+5. Keep it cheap
 
 The point here is that the only hurdle should be fear.  You don't want to stick your life savings into something that *might* pay out in a year.  It needs to be something that, if it results in failure, doesn't set you back at all but rather provides some form of lesson.
 
-3. The action should include interaction with other people
+6. Keep it real
+
+"Think about the good things that happened yesterday" doesn't count.  The action has to be something that will move your life forward, like "show my coworker my productivity side project and get his feedback."  Or, "send my most recent article to [ADDitude](LINK) magazine and see if they'll publish it".
+
+7. Keep it social
 
 This was the "ah ha" step for me, since I tend to be on the bashful side.  A key to success is to be seen and heard by others.  Remember, ultimately, other people give you money and other valuables.  These things do NOT grow on trees in your own personal garden.  Showing your little project to someone else will provide some form of feedback, and may open a door to a new experience or opportunity.
 
+## Trust the Process
 
+So, what can you do today that could lead to a teaching failure?
 
