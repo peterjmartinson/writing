@@ -9,7 +9,7 @@
 set nocompatible
 
 "  Plugin manager
-execute pathogen#infect()
+" execute pathogen#infect()
 filetype plugin on
 
 autocmd FileType sql setlocal commentstring=--\ %s
@@ -30,7 +30,7 @@ set showcmd                         " Show current command & selection length
 set t_Co=256                        " Use 256 colors
 set nohlsearch                      " Do not highlight all occurrences of a search
 set history=200                     " Keep history of 200 commands
-set clipboard=unnamedplus           " Send yanks to the Windows clipboard!
+set clipboard=                      " Send yanks to the Windows clipboard!
 syntax enable                       " Turn on syntax highlighting
 au FileType * set fo-=c fo-=r fo-=o " kill the auto commenting!!
 colorscheme gruvbox
