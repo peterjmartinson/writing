@@ -1,5 +1,3 @@
-
-
 Once upon a time, I fancied myself a weather man.  I had my own weekly segment called "[The LPAC Weather Report](LINK)".  In that video segment, I would comment on several topics I thought were connected - traditional weather, earthquakes, solar activity, cosmic rays, volcanoes, general astronomy.  Most of my days back then were focused on finding material to report, especially coincidences between various phenomena.
 
 I began to experience almost a spiritual connection with the world around me, like I was in direct communication with nature.
