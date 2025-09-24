@@ -1,15 +1,11 @@
-The little voice
+The Little Voice
 ================
 
-This has been a tough article to write, probably because I've taken a bit of a hiatus!  But the other day, while in church (you should go to church), the right metaphor struck me.
-
-My youngest boy has been obsessed with the British band Muse recently, much to our chagrin because we want him to obsess over classical music.  But, no, he takes his violin out, and uses it as an air guitar to play _Uprising_.
-
-He had a small toy acoustic guitar, which he smashed last week.  Now he wants an electric guitar.
+My youngest boy has been obsessed with the British band Muse recently, much to our chagrin because we want him to obsess over classical music.  But, no, he takes his violin out, and uses it as an air guitar to play [_Uprising_](https://youtu.be/w8KQmps-Sog?feature=shared).  He used to have a small toy acoustic guitar, which he smashed last week.  Now he wants an electric guitar.
 
 Unplugged, an electric guitar is almost inaudible.  Unless you are close by, you can't hear it.  However, plug it into the proper amplification, and the guitar's sound can fill a large city block.
 
-So it is with the relationship between human beings and what I call the _Little Voice_.
+Human beings play the part of amplifier as well, to an instrument that I call the _Little Voice_.
 
 This article presents what the Little Voice is, what I think its origin is, and how to use it.  Once you understand that last part, you will become unstoppable.
 
@@ -25,51 +21,60 @@ The rule of thumb here is, if you think a person or image is lying, you're proba
 
 That hunch you feel is the presence of the _Little Voice_.
 
+## The Little Voice is Quiet
+
 As we go about our days, conscious thoughts hold reign.  "Ugly pants", "I need to email my boss", "Pick up some toothpaste before getting home", "ugh, that stinks", and so forth.
 
-That little voice is there too, just too drowned out to hear.
+That Little Voice is there too, just too drowned out to hear.
 
 But if you can quiet down the loud voices and listen, you can hear that little guy, giving you all kinds of great ideas.
 
 Sometimes you might experience this is while reading, or while meditating (if you do that kind of thing), while praying, or while dreaming.
 
-For example, maybe one day you were pounding on a problem you found hard to solve, like a math problem or where to sit your Mom during Thanksgiving.  Upon waking up the next day, you realize that the solution came to you in a dream.  That's your little voice too.
+For example, maybe one day you were pounding on a problem you found hard to solve, like a math problem or where to sit your Mom during Thanksgiving.  Upon waking up the next day, you realize that the solution came to you in a dream.  That's your Little Voice too.
 
-Your little voice is what gives you your next great idea, helps you out of tough situations, and comes up with great punchlines to jokes.  It's the true source of your creativity.
+Your Little Voice is what gives you your next great idea, helps you out of tough situations, and comes up with great punchlines to jokes.  It's the true source of your creativity.
 
 ## Who is the Little Voice?
 
-The concepts of the "conscious" and the "subconscious" mind are pretty standard in modern culture.  You can think of the little voice as messages that get through to your conscious observation from your subconscious mind.
+The concepts of the "conscious" and the "subconscious" mind are pretty standard in modern culture.  You can think of the Little Voice as messages that get through to your conscious observation from your subconscious mind.
 
 While you're going about your day, your subconscious is working out of sight.  It takes whatever information you give it, like when you read a book, take a class, or watch a movie, and then it tries to make sense of it.  The products of that work pop into your mind, as ideas.
 
-So, is the little voice, your voice?
+So, is the Little Voice, your voice?
 
-I read a great book recently, _The Artist's Way_ by Julia Cameron, all about how to reawaken your creativity.  Reading that book is really what got me all excited about the Little Voice, though I'd had this concept from years ago.  In it, Cameron suggests that that little voice is actually the voice of God.  Then, she waves her hands a bunch to say you don't have to believe in a great, bearded gentleman in the sky for her methods to work.
+I read a great book recently, [_The Artist's Way_](https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252) by Julia Cameron, all about how to reawaken your creativity.  Reading that book is really what got me all excited about the Little Voice, though I'd had this concept from years ago.  In it, Cameron suggests that that Little Voice is actually the voice of God.  Then, she waves her hands a bunch to say you don't have to believe in a great, bearded gentleman in the sky for her methods to work.
 
 But I think she's not wrong.  I think it's one way that God expresses His love for His creation - he talks to us, and helps us.
 
 At the very least, it's a playful, childlike part of you, that pipes up when you are listening for it.
 
-## What to do with the Little Voice?
-
 Whoever that voice belongs to, when you hear it, you should follow its advice.
 
 ## Learn to tune in that Little Voice
 
-Here are a few techniques that I use to hear my own little voice better.  Maybe some of them will work for you.
+Here are a few techniques that I use to hear my own Little Voice better.  Maybe some of them will work for you.
 
-1. Go for a walk
+1. Walking
 
-When you go for a walk, you're filling that playful side of you with lots of sensations - seeing things, smelling things, hearing things, feeling the wind on your face.  Even a ten minute walk helps me unwrinkle my brow and relax.  It's when I relax, that I can start listening for that little voice again.  Pay attention to whatever captures your fancy.  Maybe a new flower blossomed next to the sidewalk.  Maybe a dog took a dump on your neighbor's lawn, and nobody picked it up.  Those whims come from the Little Voice.
+A simple ten-minute walk fills that playful side of you with new sensations and helps you quiet the noise.
 
-2. Pray
+2. Praying
 
-This is an ancient way to listen to that voice.  The ultimate goal of prayer is to listen for the voice of God.  So, get down on your knees, fold your hands, close your eyes, thank the Great Creator for all of His gifts, and ask Him for guidance.  If you pay attention, you'll always get a response.
+An ancient way to listen to that voice, the ultimate goal of prayer is to listen for the voice of God.
 
-3. Write your [Morning Pages](LINK)
+3. [Morning Pages](https://distractedfortune.com/unlock-your-subconscious-the-power-of-morning-pages/)
 
-I wrote about this a while back.  Julia Cameron is the originator of this idea, but it's great.  Write three pages, long hand, every morning.  Even if you don't know what to say, just say "I don't know what to say and don't want to do this."  After a while, you'll have squeezed out all the pus-thoughts, and are ready to start listening.  I find that my own Little voice starts talking to me about a page and a half into the morning's session.
+This practice helps you squeeze out all the "pus-thoughts" to clear a space for creativity.
+
+4. Taking Action
+
+This is the most critical step. Cameron describes the voice like a curious child—you must follow its whims to show that you're listening and encourage it to keep talking.
+
+Like the electric guitar, that Little Voice inside you is tiny and quiet.  It is only through you that its will can be made manifest.  You are the amplifier.  Let that Little Voice sing.
+
+_If you liked this article, please leave a comment below, share it with someone you know, and get on my email list!_
+
 
 
 
