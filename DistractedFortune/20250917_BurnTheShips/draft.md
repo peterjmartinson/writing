@@ -41,6 +41,26 @@ Calling family is not really high stakes.  How about making one sales pitch for 
 
 In a [previous article](LINK), I talked about removing friction to get things done.  If you have to take two steps instead of one to perform an important action, you're twice as likely to avoid that action.  Removing all intermediate steps, though, makes it far easier to get it done.
 
-When you burn the ships, though, you're _adding_ friction.  Friction becomes your friend.  You're adding friction in front of the action of avoidance.  And, yes, avoidance is an action, sometimes more difficult to carry out than whatever it is you're avoiding doing!
+When you burn the ships, though, you're _adding_ friction.  Friction becomes your friend.  You're adding friction in front of the action of avoidance.  And, yes, avoidance is an action, sometimes more difficult to carry out than whatever it is you're avoiding!
 
-An invitation that gets accepted introduces the friction of tarnished reputation.  "If I ditch Ben today, I'll look like a jerk."
+An invitation that gets accepted introduces the friction of tarnished reputation.  "If I ditch Ben today, I'll look like a jerk."  Scheduling a presentation before an audience does the same.  Anything that includes an acknowledgment by somebody that you will do something at a given time or place adds enough friction to make it hard to avoid.
+
+## Burn a Ship Today!
+
+Here are three opportunities you could use today, to get yourself off the couch and into a potentially risky but profitable situation.
+
+1. Schedule a phone call
+
+That person you've wanted to call every weekend for the past forty weekends?  Send him a text and ask if he's available this Saturday at noon for a 30 minute phone call.  Then call him.
+
+2. Give a presentation
+
+Many local libraries will let you reserve a room for an event.  Reserve one for one month from today, to give a presentation on a topic that's important to you, and put up some flyers around town advertising for it.  Then, give the presentation.
+
+3. Interview someone
+
+Email some idol of yours, and ask to set up an interview (phone, in person, whatever).  Then, send them a Google calendar invite.
+
+There are all kinds of ways to leverage this tactic to make ourselves do the things we fear.  If you have other examples, please leave a message in the chat below.
+
+_If you liked this article, please leave a comment below, share it with someone you know, and get on my email list!_
