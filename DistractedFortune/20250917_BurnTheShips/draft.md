@@ -1,7 +1,7 @@
 Burn the Ships:  How to trap yourself into doing what you're scared to do
 =========================================================================
 
-In 1519, Hernán Cortés faced a crisis. His men, fresh off the boat in Iberoamerica, were terrified of the powerful Aztec death cult and plotting to retreat. His answer? He burned the ships.
+In 1519, [Hernán Cortés](https://www.heritage-history.com/index.php?c=resources&s=war-dir&f=wars_aztecs) faced a crisis. His men, fresh off the boat in Iberoamerica, were terrified of the powerful [Aztec death cult](https://qz.com/374994/aztec-sacrifice-was-real-and-its-not-fetishistic-to-be-fascinated-by-it) and plotting to retreat. His answer? He burned the ships.
 
 Cortez ensured there was no illusion of retreat. And while few of us are launching expeditions to conquer empires, we face equally paralyzing fears every day. We aren't afraid of human sacrifice, but we are terrified of rejection, failure, and embarrassment.
 
@@ -43,9 +43,9 @@ Here are three opportunities you could use today, to get yourself off the couch 
 
 That person you've wanted to call every weekend for the past forty weekends?  Send him a text and ask if he's available this Saturday at noon for a 30 minute phone call.  Then call him.
 
-2. Launch a product
+2. Pre-Sell the Ghost Product.
 
-You have a product idea, and it's still an idea.  Why not email 10 contacts with a firm delivery date, and ask for a discounted pre-payment?
+Stop letting your idea gather dust. Email your 10 best contacts today with a non-refundable, steeply discounted pre-order price and a firm, 30-day delivery date. You don't have a product yet, but now you have ten paying customers and a cash-backed deadline that makes retreat more expensive than work.
 
 3. Interview someone
 
