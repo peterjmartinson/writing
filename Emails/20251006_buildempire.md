@@ -1,21 +1,18 @@
 Hi William,
 
-Thanks so much for reaching out about the Build Your Empire meetup! Your interest confirms there's a real need for this kind of focused support.
+Thanks so much for reaching out about the Build Your Empire meetup! I really appreciate your interest -- it's clear there's a real need for this kind of focused support.
 
-My name is Peter Martinson, and I'm kicking this off because I've seen how crucial accountability and outside perspective are for turning an idea into a real enterprise. I'm currently working on a project called "Daily Scream Sheet", which is a subscription-based email that delivers a printable PDF to your email each morning, with a tailored set of news or sports headlines.  The target audience is people who don't want to be tethered to their phone, and would rather read a newspaper, but want something more specific to their interests.
-
-In this and other endeavors, I've found it's easy to plan forever and never get to action.  Therefore, I'm looking for a small group of serious, action-oriented people to work with, to actually get projects off the ground and into the wild.
+My name is Peter Martinson, I live in Bryn Mawr, and I've launched a grand total of one product line - Math Mugs (https://distractedfortune.com/product/bayes-theorem-mug-coffee).  I've found that it's easy to get stuck in the planning stages forever, and never get to the launch phase.  That's why I'm  building this group: to connect with a few motivated people who want to help each other set concrete next steps and stay accountable.
 
 What to expect:
 
-This group is intended to be a small, high-impact team -- not just a casual networking event. We'll each present our projects, discuss strategies, and act as accountability partners to ensure we all hit our goals.
+This will be a small, high-impact group -- not just a casual networking event. We'll each share our projects, talk through strategies, and act as accountability partners to help each other make real progress. It'll be a supportive, confidential space where we can discuss challenges, exchange ideas, and keep each other on track.
 
-Next Steps & Timing:
+Next steps:
 
-I'm currently scouting a few locations for the first meeting and aiming for a date approximately two weeks from now (around October 20-24) in the evening. I want to secure a spot that allows for focused conversation.
+I'm currently checking a few possible locations for our first meeting, aiming for an evening between October 20th and 24th. I want to make sure we have a spot that's good for focused conversation.
 
-I'll send out a follow-up email with the confirmed date, time, and location early next week. In the meantime, feel free to reply and share a quick line about what project you're working on!
+I'll follow up with the confirmed date, time, and location next week. In the meantime, I'd love to hear a bit about what you're working on.  Just a line or two would be great!
 
-Best regards,
+Best,  
 Peter Martinson
-
