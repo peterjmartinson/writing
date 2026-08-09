@@ -8,6 +8,7 @@ with pre-populated YAML frontmatter, then launch Vim.
 import sys
 import os
 import re
+import shutil
 import datetime
 import subprocess
 from pathlib import Path
@@ -55,9 +56,10 @@ def create_draft(open_editor: bool = True) -> Path:
 
     if open_editor:
         editor = os.environ.get("EDITOR", "vim")
+        editor_cmd = shutil.which(editor) or editor
         # '+' tells Vim to position the cursor on the last line of the file (line after blank line)
         try:
-            subprocess.run([editor, "+", str(file_path)])
+            subprocess.run([editor_cmd, "+", str(file_path)])
         except FileNotFoundError:
             print(f"Error: Editor '{editor}' not found in PATH.", file=sys.stderr)
             sys.exit(1)
